@@ -6,6 +6,7 @@
     <description>Recent content in Posts on Gabriel J. Merrin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
@@ -292,7 +293,7 @@ rm Untitled.md
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
+      <title>My Personal Page</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
