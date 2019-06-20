@@ -4,10 +4,10 @@ author: Gabriel J. Merrin
 date: '2019-06-20'
 slug: [test]
 categories:
-  - R
+  - R Post
 tags: [Test]
 subtitle: 'Test Post'
-summary: 'This is a test post'
+summary: ''
 authors: []
 lastmod: '2019-06-20T12:19:08-07:00'
 featured: no
@@ -17,3 +17,4 @@ image:
   preview_only: no
 projects: []
 ---
+This is a test post. Can you tell?

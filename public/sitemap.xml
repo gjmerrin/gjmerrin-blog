@@ -34,6 +34,40 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-06-20T12:19:08-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-06-20T12:19:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r-post/</loc>
+    <lastmod>2019-06-20T12:19:08-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-06-20T12:19:08-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/test/</loc>
+    <lastmod>2019-06-20T12:19:08-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2019/06/20/test-post/</loc>
+    <lastmod>2019-06-20T12:19:08-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
@@ -73,19 +107,8 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/jupyter/</loc>
+    <loc>/2019/02/05/display-jupyter-notebooks-with-academic/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -139,7 +162,7 @@
   </url>
   
   <url>
-    <loc>/post/getting-started/</loc>
+    <loc>/2016/04/20/academic-the-website-builder-for-hugo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -167,13 +190,7 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/2015/07/23/my-personal-page/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   

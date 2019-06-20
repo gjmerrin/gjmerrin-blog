@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R Post</title>
+      <link>/categories/r-post/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/r-post/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>R</title>

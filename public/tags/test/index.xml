@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Gabriel J. Merrin</title>
+    <link>/tags/test/</link>
+    <description>Recent content in Test on Gabriel J. Merrin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Post</title>
+      <link>/2019/06/20/test-post/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/06/20/test-post/</guid>
+      <description>
+
+
+&lt;p&gt;This is a test post. Can you tell?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
