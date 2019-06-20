@@ -1,0 +1,19 @@
+---
+title: Test Post
+author: Gabriel J. Merrin
+date: '2019-06-20'
+slug: [test]
+categories:
+  - R
+tags: [Test]
+subtitle: 'Test Post'
+summary: 'This is a test post'
+authors: []
+lastmod: '2019-06-20T12:19:08-07:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
