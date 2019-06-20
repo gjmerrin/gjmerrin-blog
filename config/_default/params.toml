@@ -5,7 +5,7 @@
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
 color_theme = "strawberry"
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
@@ -62,9 +62,13 @@ appointment_url = "https://calendly.com/gabriel-merrin"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
+# more icons can be found here - http://jpswalsh.github.io/academicons/
+
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/GJMerrin?lang=en"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:gjmerrin"},
+  {icon = "google-scholar", icon_pack = "ai", name = "Goole Scholar", link = "https://scholar.google.ca/citations?user=BKiMGCkAAAAJ&hl=en"},
+  {icon = "researchgate", icon_pack = "fab", name = "Research Gate", link = "https://www.researchgate.net/profile/Gabriel_Merrin"},
+  {icon = "twitter", icon_pack = "fab", name = "Follow Me", link = "https://twitter.com/GJMerrin?lang=en"},
+  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:gjmerrin"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
