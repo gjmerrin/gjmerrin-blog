@@ -22,10 +22,10 @@ slides: false
 summary: The current study examined the effect of parenting and peer ecologies on the development of deviant and violent behaviors during adolescence.
 tags:
 - Source Themes
-title: Developmental changes in deviant and violent behavior from early to late adolescence - Associations with parental monitoring and peer deviance
+title: Developmental Changes in Deviant and Violent Behavior from Early to Late Adolescence - Associations with Parental Monitoring and Peer Deviance
 url_code: ""
 url_dataset: ""
-url_pdf: "https://gabrieljmerrin.rbind.io/files/delinq.pdf"
+url_pdf: "/files/delinq.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
