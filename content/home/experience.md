@@ -18,27 +18,48 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Assistant Professor"
+  company = """**Texas Tech University**  
+  *Deparment of Human Development and Family Studies*"""
+  company_url = "http://www.depts.ttu.edu/hs/hdfs/"
+  location = "Lubbock, Texas"
+  date_start = "2019-09-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Research
+  * Teaching
+  * Mentorship
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Postdoctoral Fellow"
+  company = """**University of Central Florida**  
+  *Department of Health Management and Informatics*"""
+  company_url = "https://ccie.ucf.edu/hmi/"
+  location = "Orlando, Florida"
+  date_start = "2018-12-20"
+  date_end = "2019-08-31"
+  description = """
+  Responsibilities include:
+  
+  * R Programing
+  * Research
+  """
 
+[[experience]]
+  title = "Postdoctoral Fellow"
+  company = """**University of Victoria**  
+  *Department of Psychology*"""
+  company_url = "https://www.uvic.ca/socialsciences/psychology/"
+  location = "Victoria, British Columbia"
+  date_start = "2016-08-15"
+  date_end = "2018-11-30"
+  description = """
+  Responsibilities include:
+  
+  * Research
+  * Teaching
+  """
 +++

@@ -13,7 +13,7 @@ education:
   - course: B.A. in Sociology
     institution: University of Illinois Urbana-Champaign
     year: 2009
-email: ""
+email: "gabriel.merrin@ttu.edu"
 interests:
 - Adolescence development and the transition to young adulthood
 - Delinquency, substance use, and other risk behaviors 

@@ -9,7 +9,7 @@ date: "2019-09-01T00:00:00Z"
 doi: "10.1037/vio0000207"
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://www.healthline.com/health/aggressive-behavior)'
+  caption: 'Image credit: [**Healthline**](https://www.healthline.com/health/aggressive-behavior)'
   focal_point: ""
   preview_only: false
 projects: []
@@ -18,10 +18,12 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
-slides: false 
+slides: 
 summary: The current study examined the effect of parenting and peer ecologies on the development of deviant and violent behaviors during adolescence.
 tags:
-- Source Themes
+- Deviance
+- Parenting
+- Peers
 title: Developmental Changes in Deviant and Violent Behavior from Early to Late Adolescence - Associations with Parental Monitoring and Peer Deviance
 url_code: ""
 url_dataset: ""
