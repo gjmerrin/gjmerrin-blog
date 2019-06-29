@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   *Department of Psychology*"""
   company_url = "https://www.uvic.ca/socialsciences/psychology/"
   location = "Victoria, British Columbia"
-  date_start = "2016-08-15"
+  date_start = "2017-08-15"
   date_end = "2018-11-30"
   description = """
   Responsibilities include:
