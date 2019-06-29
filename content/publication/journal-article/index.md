@@ -1,49 +1,34 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Objective - The continuity of adolescent deviant and violent behaviors has serious implications for engagement in criminal activities in adulthood. The current study examined the effect of parenting and peer ecologies on the development of deviant and violent behaviors during adolescence. Method - An accelerated longitudinal design was used to analyze the associations of parental monitoring and peer deviance with the trajectories of adolescent deviant and violent behaviors from the spring of Grade 5 through the spring of Grade 11 (N = 1,162). A series of multilevel models were fitted to the data. Between- and within-person associations were used to test the moderating effects of parental monitoring on the development of deviant and violent behaviors. Results - Changes in deviant and violent behaviors were evident across adolescence. Support for the moderating effect of between- and within-person parental monitoring on the development of deviant and violent behaviors in adolescence was found. Two cross-level interactions among within-person peer deviance and between-person parental monitoring and within-person parental monitoring and between-person peer deviance were found, suggesting support for the moderating effect of parental monitoring. Additionally, a significant interaction among between-person parental monitoring and between-person peer deviance indicated that individuals who reported lower levels of parental monitoring and higher levels of peer deviance reported the highest levels of deviant and violent behaviors, and adolescents who reported higher levels of parental monitoring and higher levels of peer deviance reported less positive growth. Conclusion - The findings underscore the important role parents play in offsetting the adverse outcomes of having deviant friends.
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
-featured: false
+- Jordan Davis
+- Daniel Berry
+- Dorothy Espelage
+date: "2019-09-01T00:00:00Z"
+doi: "10.1037/vio0000207"
+featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://www.healthline.com/health/aggressive-behavior)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Psychology of Violence, 9*(2)'
 publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+slides: false 
+summary: The current study examined the effect of parenting and peer ecologies on the development of deviant and violent behaviors during adolescence.
 tags:
 - Source Themes
-title: An example journal article
+title: Developmental changes in deviant and violent behavior from early to late adolescence - Associations with parental monitoring and peer deviance
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: "https://gabrieljmerrin.rbind.io/files/delinq.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

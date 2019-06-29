@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Research Focus:&lt;/strong&gt;&lt;/p&gt;
@@ -25,9 +25,36 @@
     </item>
     
     <item>
+      <title>Daniel Berry</title>
+      <link>/authors/daniel-berry/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/daniel-berry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dorothy Espelage</title>
+      <link>/authors/dorothy-espelage/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/dorothy-espelage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jordan Davis</title>
+      <link>/authors/jordan-davis/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jordan-davis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Robert Ford</title>
       <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>/authors/robert-ford/</guid>
       <description></description>
