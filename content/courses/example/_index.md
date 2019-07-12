@@ -5,16 +5,16 @@ lastmod: "2018-09-09T00:00:00Z"
 linktitle: Quantitative Methods III
 menu:
   example:
-    name: Overview
+    name: Quantitative Methods III
     weight: 1
 summary: This course largely focuses on Structural Equation Modeling, but will also incorporate exploratory factor analysis and some advanced longitudinal analytic techniques.
-title: Overview
+title: Course Overview
 toc: true
 type: docs
 weight: 1
 ---
 
-## Flexibility
+## Course Overview 
 
 This feature can be used for publishing content such as:
 
