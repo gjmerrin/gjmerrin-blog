@@ -17,13 +17,13 @@ subtitle = ""
   
   
 [[feature]]
-  icon = "keyboard"
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "Research"
   description = ""
   
 [[feature]]
-  icon = "book"
+  icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Teaching"
   description = ""
@@ -46,6 +46,10 @@ subtitle = ""
   name = "R for Data Science"
   description = ""
   
-
+[[feature]]
+  icon = "handshake"
+  icon_pack = "fas"
+  name = "Community Outreach"
+  description = ""
 
 +++
