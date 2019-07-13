@@ -143,7 +143,7 @@
   </url>
   
   <url>
-    <loc>/tags/bullying-perpetration/</loc>
+    <loc>/tags/bullying/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -224,15 +224,20 @@
   </url>
   
   <url>
-    <loc>/tags/bullying/</loc>
+    <loc>/tags/depression/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/depression/</loc>
+    <loc>/tags/empathy/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/ingram-espelage-merrin-valido-heinhorst-joyce-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -252,7 +257,25 @@
   </url>
   
   <url>
+    <loc>/authors/jennifer-heinhorst/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/katherine-ingram/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/katherine-m.-ingram/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mary-joyce/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -277,6 +300,18 @@
   
   <url>
     <loc>/tags/school-belonging/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/school-based-prevention/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/virtual-reality/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

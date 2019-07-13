@@ -24,7 +24,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary: This study examined the social selection and influence processes related to bullying and homophobic teasing behaviors, using a Stochastic Actor-Based Model (SABM) for longitudinal networks
 tags:
-- Bullying perpetration
+- Bullying
 - Homophobic teasing
 - Peer groups
 - Social networks
