@@ -7,7 +7,7 @@ authors:
 - Dorothy L. Espelage
 date: "2019-01-01T00:00:00Z"
 doi: "10.1037/vio0000210"
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ""
