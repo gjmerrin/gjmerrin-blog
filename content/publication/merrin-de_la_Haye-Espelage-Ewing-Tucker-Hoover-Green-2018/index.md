@@ -12,7 +12,7 @@ date: "2019-03-01T00:00:00Z"
 doi: "10.1007/s10964-017-0783-4"
 featured: true
 image:
-  caption: 'Image credit: [**Healthline**](https://www.healthline.com/health/aggressive-behavior)'
+  caption: ''
   focal_point: ""
   preview_only: false
 projects: []
