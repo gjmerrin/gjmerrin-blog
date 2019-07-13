@@ -19,7 +19,7 @@ publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: Taking a multilevel approach, the current study examines the extent to which students’ fluctuations in exposure to family violence and peer deviance are associated with individual levels of bullying perpetration during middle school.
+summary: Taking a multilevel approach, the current study examines the extent to which students fluctuations in exposure to family violence and peer deviance are associated with individual levels of bullying perpetration during middle school.
 tags:
 - Family Violence
 - Peer Deviance
