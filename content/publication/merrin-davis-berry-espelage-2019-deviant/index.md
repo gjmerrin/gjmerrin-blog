@@ -27,7 +27,7 @@ tags:
 title: Developmental Changes in Deviant and Violent Behavior from Early to Late Adolescence - Associations with Parental Monitoring and Peer Deviance
 url_code: ""
 url_dataset: ""
-url_pdf: "/files/merrin-davis-berry-espelage-2019-deviant.pdf"
+url_pdf: "/files/merrin-davis-berry-espelage-2019.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
