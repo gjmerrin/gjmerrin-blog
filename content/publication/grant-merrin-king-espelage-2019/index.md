@@ -5,11 +5,11 @@ authors:
 - admin
 - Matthew T. King
 - Dorothy L. Espelage
-date: "2019-09-01T00:00:00Z"
-doi: "10.1037/vio0000207"
+date: "2019-01-01T00:00:00Z"
+doi: "10.1037/vio0000210"
 featured: true
 image:
-  caption: 'Image credit: [**Healthline**](https://www.healthline.com/health/aggressive-behavior)'
+  caption: ''
   focal_point: ""
   preview_only: false
 projects: []
