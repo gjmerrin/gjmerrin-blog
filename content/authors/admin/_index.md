@@ -36,6 +36,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.ca/citations?user=BKiMGCkAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Gabriel_Merrin?ev=hdr_xprf&_sg=NadUsQ1w4qFU684xZAi8LBAEaQVM73yhnpC4440LaTzxpvNNqe_T7KvZuLXWM0qYkFnAM6xbbGZ5z3_JeUGwI44E
 - icon: github
   icon_pack: fab
   link: https://github.com/gjmerrin
