@@ -4,10 +4,10 @@ authors:
 bio: My primary area of research examines the development and stability of aggression, substance use, victimization, and other problem behaviors across adolescence and in the transition to young adulthood.
 education:
   courses:
-  - course: PhD in Educational Psychology
+  - course: Ph.D. in Educational Psychology
     institution: University of Illinois Urbana-Champaign
     year: 2017
-  - course: Ed.M in Human Resource Development
+  - course: Ed.M. in Human Resource Development
     institution: University of Illinois Urbana-Champaign
     year: 2010
   - course: B.A. in Sociology
@@ -24,7 +24,7 @@ interests:
 name: Gabriel J. Merrin
 organizations:
 - name: Texas Tech University - Department of Human Development and Family Studies
-  url: "https://www.ttu.edu/"
+  url: "https://www.depts.ttu.edu/hs/hdfs/"
 role: Assistant Professor
 social:
 - icon: envelope
