@@ -28,7 +28,7 @@ tags:
 - Homophobic teasing
 - Peer groups
 - Social networks
-title: The Co-evolution of Bullying Perpetration, Homophobic Teasing, and a School Friendship Network
+title: The Co-Evolution of Bullying Perpetration, Homophobic Teasing, and a School Friendship Network
 url_code: ""
 url_dataset: ""
 url_pdf: "/files/merrin-de_la_Haye-Espelage-Ewing-Tucker-Hoover-Green-2018.pdf"

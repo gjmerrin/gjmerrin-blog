@@ -26,7 +26,7 @@ tags:
 - Bullying
 - Depression
 - School Belonging
-title: Examining Pathways between Bully Victimization, Depression, and School Belonging Among Early Adolescents
+title: Examining Pathways Between Bully Victimization, Depression, and School Belonging Among Early Adolescents
 url_code: ""
 url_dataset: ""
 url_pdf: "/files/davis-merrin-ingram-espelage-valido-elsheikh-2019.pdf"
