@@ -18,7 +18,7 @@ publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: In this study, we add to this literature by examining transitions among classes of four substances (i.e., cigarettes, binge drinking, mar- ijuana, and illicit drugs) in a large sample followed for a decade from adolescence (ages 12–18) to young adulthood (ages 22–28).
+summary: In this study, we add to this literature by examining transitions among classes of four substances (i.e., cigarettes, binge drinking, marijuana, and illicit drugs) in a large sample followed for a decade from adolescence (ages 12–18) to young adulthood (ages 22–28).
 tags:
 - Polysubstance use
 - Adolescence
