@@ -17,7 +17,7 @@ subtitle = ""
   
   
 [[feature]]
-  icon = "laptop-code"
+  icon = "search"
   icon_pack = "fas"
   name = "Research"
   description = ""
