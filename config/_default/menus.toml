@@ -19,7 +19,7 @@
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 20
+  weight = 30
 
 #[[main]]
 #  name = "Courses"
@@ -34,11 +34,11 @@
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
-#  weight = 20
+#  weight = 60
 
 #[[main]]
 #  name = "Projects"
 #  url = "#projects"
-#  weight = 30
+#  weight = 70
 
 

@@ -48,7 +48,7 @@ user_groups:
 - Visitors
 ---
 
-Dr. Gabriel "Joey" Merrin is an assistant professor in the Department of Human Development and Family Studies (HDFS) at Texas Tech University. Trained as a developmental psychologist and applied methodologist, Dr. Merrin leverages novel statistical methods to answer questions about adolescence development. Dr. Merrin has extensive experience conducting school based research and has worked with students, teachers, and parents for over ten years. Dr. Merrin is currently teaching *Quantitative Mehtods III* in Fall 2019 and will teach *Risk-Taking and Adolescent Health* in Spring 2020. 
+Dr. Gabriel "Joey" Merrin is an assistant professor in the Department of Human Development and Family Studies (HDFS) at Texas Tech University. Trained as a developmental psychologist and applied methodologist, Dr. Merrin leverages novel statistical methods to answer questions about adolescence development. Dr. Merrin has extensive experience conducting school based research and has worked with students, teachers, and parents for over ten years. Dr. Merrin is currently teaching *Quantitative Methods III* in Fall 2019 and will teach *Risk-Taking and Adolescent Health* in Spring 2020. 
 
 *Dr. Merrin is currently accepting students for Fall 2020*
 

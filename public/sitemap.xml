@@ -138,12 +138,6 @@
   </url>
   
   <url>
-    <loc>/tags/latent-class-analysis/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/latinx-student/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -157,6 +151,12 @@
   
   <url>
     <loc>/tags/substance-use-perceptions/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/latent-class-analysis/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
