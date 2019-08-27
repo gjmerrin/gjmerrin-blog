@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Dr. Gabriel &amp;ldquo;Joey&amp;rdquo; Merrin is an assistant professor in the Department of Human Development and Family Studies (HDFS) at Texas Tech University. Trained as a developmental psychologist and applied methodologist, Dr. Merrin leverages novel statistical methods to answer questions about adolescence development. Dr. Merrin has extensive experience conducting school based research and has worked with students, teachers, and parents for over ten years. Dr. Merrin is currently teaching &lt;em&gt;Quantitative Methods III&lt;/em&gt; in Fall 2019 and will teach &lt;em&gt;Risk-Taking and Adolescent Health&lt;/em&gt; in Spring 2020.&lt;/p&gt;
@@ -33,20 +33,29 @@
     </item>
     
     <item>
+      <title>Dorothy L. Espelage</title>
+      <link>/authors/dorothy-l.-espelage/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/dorothy-l.-espelage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tyler Hatchel</title>
+      <link>/authors/tyler-hatchel/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/tyler-hatchel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Daniel Berry</title>
       <link>/authors/daniel-berry/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/daniel-berry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dorothy L. Espelage</title>
-      <link>/authors/dorothy-l.-espelage/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/dorothy-l.-espelage/</guid>
       <description></description>
     </item>
     
@@ -200,15 +209,6 @@
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/authors/kara-thompson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tyler Hatchel</title>
-      <link>/authors/tyler-hatchel/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/tyler-hatchel/</guid>
       <description></description>
     </item>
     

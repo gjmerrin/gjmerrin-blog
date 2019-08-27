@@ -7,10 +7,55 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bullying</title>
+      <link>/tags/bullying/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bullying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LGBTQ youth</title>
+      <link>/tags/lgbtq-youth/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lgbtq-youth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental Health</title>
+      <link>/tags/mental-health/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mental-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>School Connectedness</title>
+      <link>/tags/school-connectedness/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/school-connectedness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suicide</title>
+      <link>/tags/suicide/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/suicide/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deviance</title>
@@ -40,15 +85,6 @@
     </item>
     
     <item>
-      <title>Bullying</title>
-      <link>/tags/bullying/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/bullying/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Latent Class Analysis</title>
       <link>/tags/latent-class-analysis/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -63,15 +99,6 @@
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/latinx-student/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mental health</title>
-      <link>/tags/mental-health/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mental-health/</guid>
       <description></description>
     </item>
     
@@ -270,15 +297,6 @@
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/latent-growth-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LGBTQ youth</title>
-      <link>/tags/lgbtq-youth/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/lgbtq-youth/</guid>
       <description></description>
     </item>
     
