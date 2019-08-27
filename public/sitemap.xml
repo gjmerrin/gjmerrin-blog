@@ -183,11 +183,6 @@
   </url>
   
   <url>
-    <loc>/tags/test/</loc>
-    <lastmod>2019-06-20T12:19:08-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/2019/06/20/test-post/</loc>
     <lastmod>2019-06-20T12:19:08-07:00</lastmod>
   </url>
@@ -219,11 +214,6 @@
   
   <url>
     <loc>/authors/matthew-hoover/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/peer-groups/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -263,11 +253,6 @@
   </url>
   
   <url>
-    <loc>/tags/empathy/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/ingram-espelage-merrin-valido-heinhorst-joyce-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -293,6 +278,11 @@
   </url>
   
   <url>
+    <loc>/tags/prevention-science/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/school-belonging/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -308,22 +298,17 @@
   </url>
   
   <url>
+    <loc>/tags/adolescence/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/espelage-merrin-hong-resko-2018/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/early-adolescents/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/jun-sung-hong/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/peer-relations/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -345,11 +330,6 @@
   <url>
     <loc>/authors/stella-m.-resko/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/adolescence/</loc>
-    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -418,12 +398,7 @@
   </url>
   
   <url>
-    <loc>/tags/school-violence-and-crime/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/sexual-minority-youth/</loc>
+    <loc>/tags/school-violence/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -449,11 +424,6 @@
   
   <url>
     <loc>/tags/peer-victimization/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/school-violence/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   

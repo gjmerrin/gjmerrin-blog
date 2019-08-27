@@ -21,9 +21,9 @@ publishDate: "2018-11-01T00:00:00Z"
 slides: 
 summary: The present study builds on the relational aggression research among adolescents by longitudinally exploring individual and interpersonal factors identified through social cognitive theory and social infor- mation processing theory.
 tags:
-- Early adolescents
+- Adolescence
 - Relational aggression
-- Peer relations
+- Peers
 - Social cognitive theory
 - Social information processing theory
 title: Applying Social Cognitive Theory to Explore Relational Aggression across Early Adolescence - A Within- and Between-Person Analysis

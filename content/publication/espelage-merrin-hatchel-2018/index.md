@@ -22,8 +22,7 @@ summary: This study addresses several significant gaps in the literature by (1) 
 tags:
 - Victimization
 - Teen dating violence
-- School violence and crime
-- Sexual minority youth
+- School violence
 - LGBTQ youth
 title: Peer Victimization and Dating Violence Among LGBTQ Youth - The Impact of School Violence and Crime on Mental Health Outcomes
 url_code: ""

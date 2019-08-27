@@ -26,7 +26,7 @@ summary: This study examined the social selection and influence processes relate
 tags:
 - Bullying
 - Homophobic teasing
-- Peer groups
+- Peers
 - Social networks
 title: The Co-Evolution of Bullying Perpetration, Homophobic Teasing, and a School Friendship Network
 url_code: ""
