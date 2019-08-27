@@ -5,7 +5,7 @@ authors:
 - admin
 - Dorothy L. Espelage
 date: "2019-10-01T00:00:00Z"
-doi: "https://doi.org/10.1080/19361653.2018.1543036"
+doi: "10.1080/19361653.2018.1543036"
 featured: false
 image:
   caption: ''
