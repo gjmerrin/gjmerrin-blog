@@ -16,7 +16,7 @@ baseurl = "https://gabrieljmerrin.rbind.io/"
 copyright = "&copy; {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-146514202-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
