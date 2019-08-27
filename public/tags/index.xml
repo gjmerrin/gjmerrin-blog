@@ -139,24 +139,6 @@
     </item>
     
     <item>
-      <title>Family Violence</title>
-      <link>/tags/family-violence/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/family-violence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peer Deviance</title>
-      <link>/tags/peer-deviance/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/peer-deviance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>School Belonging</title>
       <link>/tags/school-belonging/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -256,51 +238,6 @@
     </item>
     
     <item>
-      <title>LGBTQ youth</title>
-      <link>/tags/lgbtq-youth/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/lgbtq-youth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>School violence and crime</title>
-      <link>/tags/school-violence-and-crime/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/school-violence-and-crime/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sexual minority youth</title>
-      <link>/tags/sexual-minority-youth/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/sexual-minority-youth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teen dating violence</title>
-      <link>/tags/teen-dating-violence/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/teen-dating-violence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Victimization</title>
-      <link>/tags/victimization/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/victimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>alcohol</title>
       <link>/tags/alcohol/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
@@ -337,11 +274,56 @@
     </item>
     
     <item>
+      <title>LGBTQ youth</title>
+      <link>/tags/lgbtq-youth/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lgbtq-youth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>marijuana</title>
       <link>/tags/marijuana/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/marijuana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>School violence and crime</title>
+      <link>/tags/school-violence-and-crime/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/school-violence-and-crime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sexual minority youth</title>
+      <link>/tags/sexual-minority-youth/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sexual-minority-youth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teen dating violence</title>
+      <link>/tags/teen-dating-violence/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/teen-dating-violence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victimization</title>
+      <link>/tags/victimization/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/victimization/</guid>
       <description></description>
     </item>
     

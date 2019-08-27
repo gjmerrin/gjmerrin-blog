@@ -49,7 +49,7 @@ subtitle = ""
 [[feature]]
   icon = "handshake"
   icon_pack = "fas"
-  name = "Community Outreach"
+  name = "Community Outreach and Engagement"
   description = ""
 
 +++
