@@ -25,7 +25,7 @@ tags:
 - Suicide
 - School Connectedness
 - Mental Health
-title: Peer victimization and suicidality among LGBTQ youth - the roles of school belonging, self-compassion, and parental support
+title: Peer victimization and Suicidality among LGBTQ Youth - The Roles of School Belonging, Self-Compassion, and Parental Support
 url_code: ""
 url_dataset: ""
 url_pdf: "/files/hatchel-merrin-espelage-2019.pdf"
