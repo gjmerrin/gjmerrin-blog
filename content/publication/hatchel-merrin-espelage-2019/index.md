@@ -16,7 +16,7 @@ publication: '*Journal of LGBT Youth, 16*(2)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019-10-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary: Following a stress-buffering framework, in this study we explore the potential ameliorating effect of parental support on the relationships between these peer victimization and self-compassion as well as school belonging.
 tags:
