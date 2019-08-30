@@ -29,7 +29,7 @@ tags:
 title: Patterns of Marijuana Use and Physical Health Indicators Among Canadian Youth
 url_code: ""
 url_dataset: ""
-url_pdf: "/files/ames-leadbeater-merrin-thompson-2018.pdf.pdf"
+url_pdf: "/files/ames-leadbeater-merrin-thompson-2018.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
