@@ -28,7 +28,7 @@
 
 #[[main]]
 #  name = "Lab"
-#  url = "#lab"
+#  url = "lab/"
 #  weight = 40
 
 [[main]]

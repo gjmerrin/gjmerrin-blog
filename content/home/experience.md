@@ -31,6 +31,7 @@ date_format = "Jan 2006"
   * Research
   * Teaching
   * Mentorship
+  * Community Outreach and Engagement
   """
 
 [[experience]]
@@ -45,6 +46,8 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * R Programing
+  * Reproducible Workflows
+  * Data Science
   * Research
   """
 
