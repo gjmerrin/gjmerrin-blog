@@ -19,7 +19,7 @@ interests:
 - Delinquency, substance use, and other risk behaviors 
 - Aggression, victimization, and problem behavior in the school context
 - Family, peer, school, and community influences on development
-- Longitudinal quantitative methods
+- Longitudinal quantitative methods 
 
 name: Gabriel J. Merrin
 organizations:
