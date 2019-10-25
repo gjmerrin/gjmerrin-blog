@@ -23,9 +23,9 @@ slides:
 summary: The aim of this study is to examine the heterogeneity among bullying behaviors in a sample of Latinx adolescence and associations with mental health issues and substance use perceptions. 
 tags:
 - Bullying
-- Latinx student
-- Mental health
-- Substance use perceptions
+- Latinx Student
+- Mental Health
+- Substance Use
 - Latent Class Analysis
 title: Examining Classes of Bully Perpetration among Latinx High School Students and Associations with Substance Use and Mental Health
 url_code: ""

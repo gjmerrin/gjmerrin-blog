@@ -94,7 +94,7 @@
     </item>
     
     <item>
-      <title>Latinx student</title>
+      <title>Latinx Student</title>
       <link>/tags/latinx-student/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
@@ -103,11 +103,11 @@
     </item>
     
     <item>
-      <title>Substance use perceptions</title>
-      <link>/tags/substance-use-perceptions/</link>
+      <title>Substance Use</title>
+      <link>/tags/substance-use/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/substance-use-perceptions/</guid>
+      <guid>/tags/substance-use/</guid>
       <description></description>
     </item>
     
@@ -247,11 +247,20 @@
     </item>
     
     <item>
-      <title>Physical health</title>
+      <title>Physical Health</title>
       <link>/tags/physical-health/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/physical-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Victimization</title>
+      <link>/tags/peer-victimization/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/peer-victimization/</guid>
       <description></description>
     </item>
     
@@ -283,6 +292,24 @@
     </item>
     
     <item>
+      <title>Academic Achievement</title>
+      <link>/tags/academic-achievement/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/academic-achievement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Child Abuse</title>
+      <link>/tags/child-abuse/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/child-abuse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Latent Transition Analysis</title>
       <link>/tags/latent-transition-analysis/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
@@ -297,6 +324,42 @@
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/polysubstance-use/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drinking Groups</title>
+      <link>/tags/drinking-groups/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/drinking-groups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Growth Model</title>
+      <link>/tags/latent-growth-model/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/latent-growth-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Groups</title>
+      <link>/tags/peer-groups/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/peer-groups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Status</title>
+      <link>/tags/status/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/status/</guid>
       <description></description>
     </item>
     
@@ -324,15 +387,6 @@
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/illicit-drugs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>latent growth model</title>
-      <link>/tags/latent-growth-model/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/latent-growth-model/</guid>
       <description></description>
     </item>
     
@@ -423,15 +477,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/aggression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peer victimization</title>
-      <link>/tags/peer-victimization/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/peer-victimization/</guid>
       <description></description>
     </item>
     
