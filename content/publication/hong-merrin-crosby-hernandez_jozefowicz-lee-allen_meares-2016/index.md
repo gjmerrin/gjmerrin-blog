@@ -1,12 +1,12 @@
 ---
 abstract: Despite the increasing proportion of immigrant youth in U.S. school districts, no studies have investigated their perceptions of their school. This study examines factors associated with perceptions of school safety among immigrant youth within individual, family, peer, and school contexts. Data were drawn from Wave II of the Children of Immigrants Longitudinal Study (N = 4288) and hierarchical logistic regression analyses were conducted. African–Americans, females, and youth with limited English proficiency were more likely to perceive their school as unsafe. Youth who reported that family cohesion was important and those who had close friends perceived their school as safe. Also, those who experienced illegal activities in school reported feeling unsafe. Assessment and intervention in schools needs to consider individual and contextual factors associated with perceptions of school safety. Additional research is needed to examine individual and contextual factors related to immigrant youths’ perceptions of school.
 authors:
-- Jordan P. Davis
-- admin
-- Daniel Berry
-- Tara M. Dumas
 - Jun Sung Hong
-- Douglas C. Smith
+- admin
+- Shantel Crosby
+- Debra M. Hernandez Jozefowicz
+- Jeoung Min Lee
+- Paula Allen-Meares
 date: "2016-07-01T00:00:00Z"
 doi: "10.1007/s10903-015-0242-9"
 featured: false
