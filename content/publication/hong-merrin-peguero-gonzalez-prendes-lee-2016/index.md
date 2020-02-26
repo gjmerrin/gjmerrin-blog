@@ -6,7 +6,7 @@ authors:
 - Anthony A. Peguero
 - A. Antonio Gonzales-Prendes
 - Na Young Lee
-date: "2015-07-01T00:00:00Z"
+date: "2016-07-01T00:00:00Z"
 doi: "10.1007/s10566-015-9330-1"
 featured: false
 image:
@@ -18,7 +18,7 @@ publication: '*Child Youth Care Forum*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2015-07-01T00:00:00Z"
+publishDate: "2016-07-01T00:00:00Z"
 slides:
 summary: Our study explores the determinants of fights in school among immigrant youth within social-ecological contexts.
 tags:
@@ -29,7 +29,7 @@ tags:
 title: Exploring the Social-Ecological Determinants of Physical Fighting in U.S. Schools - What about Youth in Immigrant Families?
 url_code: ""
 url_dataset: ""
-url_pdf: "/files/hong-merrin-peguero-gonzalez-prendes-lee-2015.pdf"
+url_pdf: "/files/hong-merrin-peguero-gonzalez-prendes-lee-2016.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
