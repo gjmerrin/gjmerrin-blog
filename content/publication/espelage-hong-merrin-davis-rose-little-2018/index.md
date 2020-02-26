@@ -27,7 +27,7 @@ tags:
 - Homophobic Bullying
 - Sexual Harassment
 - Sexual Violence
-- Youthe Violence
+- Youth Violence
 title: A Longitudinal Examination of Homophobic Name-Calling in Middle School - Bullying, Traditional Masculinity, and Sexual Harassment as Predictors
 url_code: ""
 url_dataset: ""
