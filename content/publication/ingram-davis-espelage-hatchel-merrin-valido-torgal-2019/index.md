@@ -29,7 +29,7 @@ tags:
 - Bystander Intervention
 - Adolescence
 - Growth Mixture Modeling
-title: Longitudinal associations between features of toxic masculinity and bystander willingness to intervene in bullying among middle school boys
+title: Longitudinal Associations Between Features of Toxic Masculinity and Bystander Willingness to Intervene in Bullying among Middle School Boys
 url_code: ""
 url_dataset: ""
 url_pdf: "/files/ingram-davis-espelage-hatchel-merrin-valido-torgal-2019.pdf"
