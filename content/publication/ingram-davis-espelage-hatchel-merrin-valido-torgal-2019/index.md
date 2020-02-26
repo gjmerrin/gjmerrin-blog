@@ -28,7 +28,7 @@ tags:
 - Willingness to Intervene
 - Bystander Intervention
 - Adolescence
-- Growth Mixture Modeling
+- Growth Mixture Model
 title: Longitudinal Associations Between Features of Toxic Masculinity and Bystander Willingness to Intervene in Bullying among Middle School Boys
 url_code: ""
 url_dataset: ""
