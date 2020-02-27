@@ -5,7 +5,7 @@ authors:
 - Jordan P. Davis
 - Daniel Berry
 - Dorothy L. Espelage
-date: "2019-09-01T00:00:00Z"
+date: "2018-09-01T00:00:00Z"
 doi: "10.1037/vio0000207"
 featured: true
 image:
@@ -17,7 +17,7 @@ publication: '*Psychology of Violence, 9*(2)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-01-01T00:00:00Z"
 slides: 
 summary: The current study examined the effect of parenting and peer ecologies on the development of deviant and violent behaviors during adolescence.
 tags:
@@ -27,7 +27,7 @@ tags:
 title: Developmental Changes in Deviant and Violent Behavior from Early to Late Adolescence - Associations with Parental Monitoring and Peer Deviance
 url_code: ""
 url_dataset: ""
-url_pdf: "/files/merrin-davis-berry-espelage-2019.pdf"
+url_pdf: "/files/merrin-davis-berry-espelage-2018.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
