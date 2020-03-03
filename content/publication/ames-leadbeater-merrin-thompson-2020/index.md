@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*International Journal of Psychology*'
+publication: '*International Journal of Psychology, 55*(1), 1-12'
 publication_short: ""
 publication_types:
 - "2"
