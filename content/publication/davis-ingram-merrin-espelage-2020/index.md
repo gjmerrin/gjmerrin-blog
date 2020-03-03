@@ -7,7 +7,7 @@ authors:
 - Dorothy L. Espelage
 date: "2020-01-01T00:00:00Z"
 doi: "10.1111/sjop.12493"
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ""
