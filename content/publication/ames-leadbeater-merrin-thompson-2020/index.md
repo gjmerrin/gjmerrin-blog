@@ -5,7 +5,7 @@ authors:
 - Bonnie Leadbeater
 - admin
 - Kara Thompson
-date: "2018-12-01T00:00:00Z"
+date: "2020-1-01T00:00:00Z"
 doi: "10.1002/ijop.12549"
 featured: false
 image:
@@ -17,7 +17,7 @@ publication: '*International Journal of Psychology*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019-01-01T00:00:00Z"
+publishDate: "2020-01-01T00:00:00Z"
 slides: 
 summary: The current study adds to our growing understanding of the health of Canadian youth with differing marijuana use trajectories by examining how marijuana use fre- quency is related to physical health indicators in ado- lescence and young adulthood. We extend past research by examining how trajectories of marijuana use are related to multiple physical health indicators; subjective health, health-promoting behaviours, body mass index, serious injuries and sexual risk behaviours.
 tags:
@@ -29,7 +29,7 @@ tags:
 title: Patterns of Marijuana Use and Physical Health Indicators Among Canadian Youth
 url_code: ""
 url_dataset: ""
-url_pdf: "/files/ames-leadbeater-merrin-thompson-2018.pdf"
+url_pdf: "/files/ames-leadbeater-merrin-thompson-2020.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
