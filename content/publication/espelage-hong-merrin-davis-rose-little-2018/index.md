@@ -23,8 +23,7 @@ publishDate: "2018-01-01T00:00:00Z"
 slides: 
 summary: The current study examines both the time-variant and time-invariant predictors on individual rates of homophobic namecalling across the middle school years. Therefore, we examined the extent to which bullying, adherence to traditional masculinity ideology, dismissive of sexual harassment, and sexual harassment were respectively associated with longitudinal changes in homophobic name-calling among middle school students.
 tags:
-- Homophobic Name-calling
-- Homophobic Bullying
+- Homophobic Teasing
 - Sexual Harassment
 - Sexual Violence
 - Youth Violence

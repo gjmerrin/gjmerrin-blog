@@ -24,7 +24,7 @@ tags:
 - Marijuana
 - Education
 - Occupational outcomes
-- Young adult
+- Young Adulthood
 - Growth Mixture Model
 title: Associations Between Marijuana Use Trajectories and Educational and Occupational Success in Young Adulthood
 url_code: ""

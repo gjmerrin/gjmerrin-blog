@@ -25,7 +25,7 @@ tags:
 - Physical health
 - Growth Mixture Model
 - Adolescence
-- Young Adult
+- Young Adulthood
 title: Patterns of Marijuana Use and Physical Health Indicators Among Canadian Youth
 url_code: ""
 url_dataset: ""
