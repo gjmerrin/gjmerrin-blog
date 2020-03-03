@@ -5,26 +5,28 @@ authors:
 - Katherine M. Ingram
 - admin
 - Dorothy L. Espelage
-date: "2019-01-01T00:00:00Z"
-doi: "10.1037/vio0000207"
+date: "2020-01-01T00:00:00Z"
+doi: "10.1111/sjop.12493"
 featured: true
 image:
-  caption: 'Image credit: [**Healthline**](https://www.healthline.com/health/aggressive-behavior)'
+  caption: ''
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Psychology of Violence, 9*(2)'
+publication: '*Scandinavian Journal of Psychology, 61*, 77-89'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019-01-01T00:00:00Z"
+publishDate: "2020-01-01T00:00:00Z"
 slides: 
-summary: The current study examined the effect of parenting and peer ecologies on the development of deviant and violent behaviors during adolescence.
+summary: The current study used latent transition mixture modeling to understand how different profiles of parental and community violence exposure place students at differential risk for involvement in bullying and exposure to bullying victimization in the future.
 tags:
-- Deviance
-- Parenting
-- Peers
-title: Exposure to parental and community violence and the relationship to bullying perpetration and victimization among early adolescents - A parallel process growth mixture latent transition analysis
+- Child Trauma
+- Victimization
+- Bullying
+- Depression
+- Delinqunecy
+title: Exposure to Parental and Community Violence and the Relationship to Bullying Perpetration and Victimization Among Early Adolescents - A Parallel Process Growth Mixture Latent Transition Analysis
 url_code: ""
 url_dataset: ""
 url_pdf: "/files/davis-ingram-merrin-espelage-2020.pdf.pdf"
