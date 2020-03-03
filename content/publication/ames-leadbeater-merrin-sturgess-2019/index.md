@@ -5,8 +5,7 @@ authors:
 - Bonnie J. Leadbeater
 - admin
 - Clea Sturgess
-- Kara Thompson
-date: "2018-11-01T00:00:00Z"
+date: "2019-3-01T00:00:00Z"
 doi: "10.1111/jabr.12151"
 featured: false
 image:
@@ -14,11 +13,11 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Applied Biobehavioral Research*'
+publication: '*Journal of Applied Biobehavioral Research, 24*, 1-21'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2018-11-01T00:00:00Z"
+publishDate: "2019-03-01T00:00:00Z"
 slides: 
 summary: We examine how heterogeneity in adolescent experiences of peer victimization impact health in adolescence and young adulthood. We include multiple indicators of mental health - internalizing symptoms (i.e., depressive and anxiety symptoms), externalizing symptoms (i.e., attention deficit hyperactivity disorder (ADHD) symptoms, oppositional defiant disorder (ODD) symptoms, and conduct problems), and substance use (i.e., smoking, heavy drinking, marijuana and illicit drug use). We also use multiple measures of physical health - subjective health (i.e., physical symptoms and physical self-concept), health-promoting behaviors (i.e., physical activity, healthy eating practices, and sleep duration and problems), and cardiometabolic risks (i.e., BMI waist circumference, and hypertension). In examining young adult health, we directly control for earlier (i.e., baseline) symptoms in order account for stability in health over time.
 tags:
@@ -32,7 +31,7 @@ tags:
 title: Adolescent Patterns of Peer Victimization - Concurrent and Longitudinal Health Correlates
 url_code: ""
 url_dataset: ""
-url_pdf: "/files/ames-leadbeater-merrin-sturgess-thompson-2018.pdf"
+url_pdf: "/files/ames-leadbeater-merrin-sturgess-2019.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
