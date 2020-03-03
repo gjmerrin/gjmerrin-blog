@@ -29,7 +29,7 @@ tags:
 title: Exposure to Parental and Community Violence and the Relationship to Bullying Perpetration and Victimization Among Early Adolescents - A Parallel Process Growth Mixture Latent Transition Analysis
 url_code: ""
 url_dataset: ""
-url_pdf: "/files/davis-ingram-merrin-espelage-2020.pdf.pdf"
+url_pdf: "/files/davis-ingram-merrin-espelage-2020.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
