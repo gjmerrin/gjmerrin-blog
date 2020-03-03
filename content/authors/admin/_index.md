@@ -58,4 +58,4 @@ The development of aggression and problem behavior — both as the perpetrator (
 
 [Download my CV] (/files/cv.pdf)
 
-Please visit my Texas Tech Faculty Page - [TTU Faculty Website] (http://www.depts.ttu.edu/hs/hdfs/merrin.php)
+Please visit my Texas Tech University Faculty Page - [TTU Faculty Website] (http://www.depts.ttu.edu/hs/hdfs/merrin.php)
