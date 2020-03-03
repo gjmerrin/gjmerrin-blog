@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,29 +15,60 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Dr. Gabriel &amp;ldquo;Joey&amp;rdquo; Merrin is an assistant professor in the Department of Human Development and Family Studies (HDFS) at Texas Tech University. Trained as a developmental psychologist and applied methodologist, Dr. Merrin leverages novel statistical methods to answer questions about adolescence development. Dr. Merrin has extensive experience conducting school based research and has worked with students, teachers, and parents for over ten years. Dr. Merrin is currently teaching &lt;em&gt;Quantitative Methods III&lt;/em&gt; in Fall 2019 and will teach &lt;em&gt;Risk-Taking and Adolescent Health&lt;/em&gt; in Spring 2020.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Dr. Merrin is currently accepting students for Fall 2020&lt;/em&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;Dr. Gabriel &amp;ldquo;Joey&amp;rdquo; Merrin is an assistant professor in the Department of Human Development and Family Studies (HDFS) at Texas Tech University. Trained as a developmental psychologist and applied methodologist, Dr. Merrin leverages novel statistical methods to answer questions about adolescence development. Dr. Merrin has extensive experience conducting school based research and has worked with students, teachers, and parents for over ten years. Dr. Merrin currently teaches &lt;em&gt;Quantitative Methods III&lt;/em&gt; and &lt;em&gt;Risk-Taking and Adolescent Health&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Dr. Merrin is currently accepting students for Fall 2021&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Research Focus:&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;The development of aggression and problem behavior — both as the perpetrator (e.g., bullying, delinquency, substance use) and the recipient (e.g., victimization) — has a critical impact on long-term individual development. Informed by social-ecological models of development, my program of research seeks to clarify the developmental pathways underlying the emergence of substance use, aggression, problem behavior, and victimization in the transition from adolescence to young adulthood. I am particularly interested in the development of these behaviors among various minority and oppressed groups (i.e., race, LGBT, disability). Broadly, the aim of my work examines the following questions: (1) what are the long-term processes that support and mitigate the development of substance use, aggression, problem behavior, and victimization; (2) when and for whom do these processes differ; (3) to what extent do these processes interact to influence development; and (4) how can these findings be leveraged to influence prevention and intervention efforts?&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/files/cv.pdf&#34;&gt;Download my CV&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Please visit my Texas Tech Faculty Page - &lt;a href=&#34;http://www.depts.ttu.edu/hs/hdfs/merrin.php&#34; target=&#34;_blank&#34;&gt;TTU Faculty Website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[Download my CV] (/files/cv.pdf)&lt;/p&gt;
+&lt;p&gt;Please visit my Texas Tech Faculty Page - [TTU Faculty Website] (&lt;a href=&#34;http://www.depts.ttu.edu/hs/hdfs/merrin.php&#34;&gt;http://www.depts.ttu.edu/hs/hdfs/merrin.php&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dorothy L. Espelage</title>
       <link>/authors/dorothy-l.-espelage/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/dorothy-l.-espelage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jordan P. Davis</title>
+      <link>/authors/jordan-p.-davis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jordan-p.-davis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katherine M. Ingram</title>
+      <link>/authors/katherine-m.-ingram/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/katherine-m.-ingram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alberto Valido</title>
+      <link>/authors/alberto-valido/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/alberto-valido/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cagil Torgal</title>
+      <link>/authors/cagil-torgal/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/cagil-torgal/</guid>
       <description></description>
     </item>
     
@@ -47,33 +78,6 @@
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/tyler-hatchel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniel Berry</title>
-      <link>/authors/daniel-berry/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/daniel-berry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jordan P. Davis</title>
-      <link>/authors/jordan-p.-davis/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/jordan-p.-davis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alberto Valido</title>
-      <link>/authors/alberto-valido/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/alberto-valido/</guid>
       <description></description>
     </item>
     
@@ -159,20 +163,20 @@
     </item>
     
     <item>
+      <title>Daniel Berry</title>
+      <link>/authors/daniel-berry/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/daniel-berry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jennifer Heinhorst</title>
       <link>/authors/jennifer-heinhorst/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/jennifer-heinhorst/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Katherine M. Ingram</title>
-      <link>/authors/katherine-m.-ingram/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/katherine-m.-ingram/</guid>
       <description></description>
     </item>
     
@@ -200,6 +204,24 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/nickholas-j.-grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chade A. Rose</title>
+      <link>/authors/chade-a.-rose/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/chade-a.-rose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Todd D. Little</title>
+      <link>/authors/todd-d.-little/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/todd-d.-little/</guid>
       <description></description>
     </item>
     
@@ -245,6 +267,15 @@
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/authors/kevin-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paweena Sukhawathanakul</title>
+      <link>/authors/paweena-sukhawathanakul/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/paweena-sukhawathanakul/</guid>
       <description></description>
     </item>
     
@@ -321,11 +352,128 @@
     </item>
     
     <item>
+      <title>Benjamin Berey</title>
+      <link>/authors/benjamin-berey/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/benjamin-berey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danielle R. Madden</title>
+      <link>/authors/danielle-r.-madden/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/danielle-r.-madden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kristen L. Bub</title>
       <link>/authors/kristen-l.-bub/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/authors/kristen-l.-bub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brent W. Roberts</title>
+      <link>/authors/brent-w.-roberts/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/brent-w.-roberts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joseph R. Cimpian</title>
+      <link>/authors/joseph-r.-cimpian/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/joseph-r.-cimpian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric F. Wagner</title>
+      <link>/authors/eric-f.-wagner/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/eric-f.-wagner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Antonio Gonzales-Prendes</title>
+      <link>/authors/a.-antonio-gonzales-prendes/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/a.-antonio-gonzales-prendes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debra M. Hernandez Jozefowicz</title>
+      <link>/authors/debra-m.-hernandez-jozefowicz/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/debra-m.-hernandez-jozefowicz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Douglas C. Smith</title>
+      <link>/authors/douglas-c.-smith/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/douglas-c.-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeoung Min Lee</title>
+      <link>/authors/jeoung-min-lee/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jeoung-min-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Na Young Lee</title>
+      <link>/authors/na-young-lee/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/na-young-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paula Allen-Meares</title>
+      <link>/authors/paula-allen-meares/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/paula-allen-meares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shantel Crosby</title>
+      <link>/authors/shantel-crosby/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/shantel-crosby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elizabeth J. DAmico</title>
+      <link>/authors/elizabeth-j.-damico/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/elizabeth-j.-damico/</guid>
       <description></description>
     </item>
     

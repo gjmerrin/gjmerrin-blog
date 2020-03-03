@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,72 @@
     <item>
       <title>Bullying</title>
       <link>/tags/bullying/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/bullying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Child Trauma</title>
+      <link>/tags/child-trauma/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/child-trauma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delinqunecy</title>
+      <link>/tags/delinqunecy/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/delinqunecy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depression</title>
+      <link>/tags/depression/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/depression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victimization</title>
+      <link>/tags/victimization/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/victimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adolescence</title>
+      <link>/tags/adolescence/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/adolescence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bystander Intervention</title>
+      <link>/tags/bystander-intervention/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bystander-intervention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growth Mixture Model</title>
+      <link>/tags/growth-mixture-model/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/growth-mixture-model/</guid>
       <description></description>
     </item>
     
@@ -58,29 +121,11 @@
     </item>
     
     <item>
-      <title>Deviance</title>
-      <link>/tags/deviance/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <title>Willingness to Intervene</title>
+      <link>/tags/willingness-to-intervene/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/deviance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parenting</title>
-      <link>/tags/parenting/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/parenting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peers</title>
-      <link>/tags/peers/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/peers/</guid>
+      <guid>/tags/willingness-to-intervene/</guid>
       <description></description>
     </item>
     
@@ -121,11 +166,11 @@
     </item>
     
     <item>
-      <title>Race/Ethnicity</title>
-      <link>/tags/race/ethnicity/</link>
+      <title>R</title>
+      <link>/tags/r/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/race/ethnicity/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
@@ -144,15 +189,6 @@
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/social-inequality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Growth Mixture Model</title>
-      <link>/tags/growth-mixture-model/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/growth-mixture-model/</guid>
       <description></description>
     </item>
     
@@ -184,11 +220,11 @@
     </item>
     
     <item>
-      <title>Depression</title>
-      <link>/tags/depression/</link>
+      <title>Deviance</title>
+      <link>/tags/deviance/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/depression/</guid>
+      <guid>/tags/deviance/</guid>
       <description></description>
     </item>
     
@@ -198,6 +234,24 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/family-violence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parenting</title>
+      <link>/tags/parenting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/parenting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peers</title>
+      <link>/tags/peers/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/peers/</guid>
       <description></description>
     </item>
     
@@ -238,20 +292,65 @@
     </item>
     
     <item>
-      <title>Adolescence</title>
-      <link>/tags/adolescence/</link>
+      <title>Homophobic Bullying</title>
+      <link>/tags/homophobic-bullying/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/adolescence/</guid>
+      <guid>/tags/homophobic-bullying/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Physical health</title>
+      <title>Homophobic Name-calling</title>
+      <link>/tags/homophobic-name-calling/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/homophobic-name-calling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical Health</title>
       <link>/tags/physical-health/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/physical-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sexual Harassment</title>
+      <link>/tags/sexual-harassment/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sexual-harassment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sexual Violence</title>
+      <link>/tags/sexual-violence/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sexual-violence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youth</title>
+      <link>/tags/youth/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/youth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youth Violence</title>
+      <link>/tags/youth-violence/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/youth-violence/</guid>
       <description></description>
     </item>
     
@@ -292,6 +391,15 @@
     </item>
     
     <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Academic Achievement</title>
       <link>/tags/academic-achievement/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
@@ -306,6 +414,33 @@
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/child-abuse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fidelity</title>
+      <link>/tags/fidelity/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fidelity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation</title>
+      <link>/tags/implementation/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/implementation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WITS Program</title>
+      <link>/tags/wits-program/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wits-program/</guid>
       <description></description>
     </item>
     
@@ -409,15 +544,6 @@
     </item>
     
     <item>
-      <title>Victimization</title>
-      <link>/tags/victimization/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/victimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Homophobic teasing</title>
       <link>/tags/homophobic-teasing/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
@@ -432,6 +558,15 @@
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/social-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binge Drinking</title>
+      <link>/tags/binge-drinking/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/binge-drinking/</guid>
       <description></description>
     </item>
     
@@ -463,11 +598,29 @@
     </item>
     
     <item>
+      <title>Poly-Victimization</title>
+      <link>/tags/poly-victimization/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/poly-victimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Suicidality</title>
       <link>/tags/suicidality/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/suicidality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Young Adulthood</title>
+      <link>/tags/young-adulthood/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/young-adulthood/</guid>
       <description></description>
     </item>
     
@@ -481,11 +634,110 @@
     </item>
     
     <item>
-      <title>Youth violence</title>
-      <link>/tags/youth-violence/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Child Maltreatment</title>
+      <link>/tags/child-maltreatment/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/youth-violence/</guid>
+      <guid>/tags/child-maltreatment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impulse Control</title>
+      <link>/tags/impulse-control/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/impulse-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juvenile Offenders</title>
+      <link>/tags/juvenile-offenders/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/juvenile-offenders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cannabis</title>
+      <link>/tags/cannabis/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cannabis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deviant Peers</title>
+      <link>/tags/deviant-peers/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deviant-peers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emerging Adults</title>
+      <link>/tags/emerging-adults/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/emerging-adults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fighting</title>
+      <link>/tags/fighting/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immigrants</title>
+      <link>/tags/immigrants/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/immigrants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>School Safety</title>
+      <link>/tags/school-safety/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/school-safety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Ecological Framework</title>
+      <link>/tags/social-ecological-framework/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/social-ecological-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Criminal Behavior</title>
+      <link>/tags/criminal-behavior/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/criminal-behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilevel Model</title>
+      <link>/tags/multilevel-model/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multilevel-model/</guid>
       <description></description>
     </item>
     
@@ -499,29 +751,47 @@
     </item>
     
     <item>
-      <title>Academic</title>
-      <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/academic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Statistics</title>
       <link>/tags/statistics/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protective Factors</title>
+      <link>/tags/protective-factors/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/protective-factors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Factors</title>
+      <link>/tags/risk-factors/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/risk-factors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youth Gangs</title>
+      <link>/tags/youth-gangs/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/youth-gangs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Race/Ethnicity</title>
+      <link>/tags/race/ethnicity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/race/ethnicity/</guid>
       <description></description>
     </item>
     
