@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -19,6 +19,11 @@
   
   <url>
     <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
@@ -118,11 +123,6 @@
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/romantic-relationships/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
@@ -184,11 +184,6 @@
   
   <url>
     <loc>/tags/depression/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/disability/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -398,11 +393,6 @@
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2019-06-20T12:19:08-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/r-post/</loc>
     <lastmod>2019-06-20T12:19:08-07:00</lastmod>
   </url>
@@ -410,11 +400,6 @@
   <url>
     <loc>/2019/06/20/test-post/</loc>
     <lastmod>2019-06-20T12:19:08-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -434,6 +419,11 @@
   
   <url>
     <loc>/authors/kecia-r.-johnson/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/race/ethnicity/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -608,11 +598,6 @@
   </url>
   
   <url>
-    <loc>/tags/youth/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/youth-violence/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
@@ -705,11 +690,6 @@
   <url>
     <loc>/publication/merrin-thompson-leadbeater-2018/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -834,6 +814,11 @@
   
   <url>
     <loc>/authors/danielle-r.-madden/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/disability/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1008,6 +993,11 @@
   </url>
   
   <url>
+    <loc>/tags/youth/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/criminal-behavior/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -1058,6 +1048,16 @@
   </url>
   
   <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/statistics/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
@@ -1083,7 +1083,7 @@
   </url>
   
   <url>
-    <loc>/tags/race/ethnicity/</loc>
+    <loc>/courses/</loc>
   </url>
   
 </urlset>
