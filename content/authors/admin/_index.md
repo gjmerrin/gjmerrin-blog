@@ -15,12 +15,11 @@ education:
     year: 2009
 email: "gabriel.merrin@ttu.edu"
 interests:
--	Identity based harassment, aggression, and victimization in the school context
--	Delinquency, substance use, and other problem behaviors
--	Prevention science and evaluation of school-based interventions 
--	Adolescence development and the transition to young adulthood
--	Longitudinal quantitative methods
-
+- Identity based harassment, aggression, and victimization in the school context
+- Delinquency, substance use, and other problem behaviors
+- Prevention science and evaluation of school-based interventions 
+- Adolescence development and the transition to young adulthood
+- Longitudinal quantitative methods
 
 name: Gabriel J. Merrin
 organizations:
