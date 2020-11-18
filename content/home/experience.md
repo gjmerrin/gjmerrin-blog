@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Assistant Professor"
   company = """**Texas Tech University**  
-  *Deparment of Human Development and Family Studies*"""
+  *Department of Human Development and Family Sciences*"""
   company_url = "http://www.depts.ttu.edu/hs/hdfs/"
   location = "Lubbock, Texas"
   date_start = "2019-09-01"
