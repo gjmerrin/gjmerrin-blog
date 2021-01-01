@@ -31,6 +31,7 @@ date_format = "Jan 2006"
   * Research
   * Teaching
   * Mentorship
+  * Grant Writing 
   * Community Outreach and Engagement
   """
 
@@ -45,7 +46,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * R Programing
+  * R Programming
   * Reproducible Workflows
   * Data Science
   * Research
