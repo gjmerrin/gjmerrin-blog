@@ -5,12 +5,12 @@ name = "Syracuse"
 light = true
 
 # Primary
-primary = "#FF5733"
+primary = "#D44500"
 
 # Menu
-menu_primary = "#FF5733"
+menu_primary = "#D44500"
 menu_text = "#fff"
-menu_text_active = "#FF5733"
+menu_text_active = "#D44500"
 menu_title = "#fff"
 
 # Home sections
