@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/
 
 # Color theme.
-#   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-color_theme = "strawberry"
+#   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry` custom one i made is "syracuse".
+color_theme = "syracuse"
 # Enable users to switch between day and night mode?
 day_night = true
 
