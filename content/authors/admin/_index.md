@@ -14,7 +14,7 @@ education:
     institution: University of Illinois Urbana-Champaign
     year: 2009
 email: "gjmerrin@syr.edu"
-interests:
+interests: 
 - Identity based harassment, aggression, and victimization in the school context
 - Delinquency, substance use, and other problem behaviors
 - Prevention science and evaluation of school-based interventions 
