@@ -13,7 +13,7 @@ education:
   - course: B.A. in Sociology
     institution: University of Illinois Urbana-Champaign
     year: 2009
-email: "gabriel.merrin@ttu.edu"
+email: "gjmerrin@syr.edu"
 interests:
 - Identity based harassment, aggression, and victimization in the school context
 - Delinquency, substance use, and other problem behaviors
