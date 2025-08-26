@@ -1,5 +1,5 @@
 ---
-title: "The **M**ethodology, **A**dolescent Development, and **P**roblem Behavior (MAP) Lab"
+title: 
 summary: "The MAP Lab at Syracuse University focuses on translating rigorous developmental research into actionable prevention and intervention strategies for adolescents."
 date: "2024-01-01"
 
@@ -14,6 +14,8 @@ header:
   caption: ""
   image: ""
 ---
+
+# The **M**ethodology, **A**dolescent Development, and **P**roblem Behavior (MAP) Lab
 
 Welcome to the MAP Lab at Syracuse University, directed by Dr. Gabriel J. Merrin. Our lab is dedicated to advancing our understanding of adolescent development while translating research findings into practical prevention and intervention strategies that improve outcomes for young people.
 
