@@ -11,8 +11,8 @@ view: 3
 
 # Optional header image.
 header:
-  caption: "Map Lab"
-  image: "MAP-LAB-LOGO"
+  caption: ""
+  image: ""
 ---
 
 # The **M**ethodology, **A**dolescent Development, and **P**roblem Behavior (**MAP**) Lab
@@ -107,7 +107,7 @@ We provide training in advanced quantitative methods, prevention science, and re
 **Dr. Gabriel J. Merrin, Lab Director**  
 Department of Human Development and Family Science  
 Syracuse University  
-440 White Hall  
+144 White Hall  
 Syracuse, NY 13244  
 
 Email: gjmerrin@syr.edu  
