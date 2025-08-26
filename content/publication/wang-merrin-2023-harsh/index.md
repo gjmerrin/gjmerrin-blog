@@ -34,11 +34,6 @@ featured: false
 
 # Custom links
 links:
-- name: "DOI"
-  url: "https://doi.org/10.3389/fpsyg.2023.1283801"
-
-
-
 url_pdf: ""
 url_code: ""
 url_dataset: ""

@@ -36,11 +36,6 @@ featured: false
 
 # Custom links
 links:
-- name: "DOI"
-  url: "https://doi.org/10.1007/s40688-025-00548-5"
-
-
-
 url_pdf: ""
 url_code: ""
 url_dataset: ""

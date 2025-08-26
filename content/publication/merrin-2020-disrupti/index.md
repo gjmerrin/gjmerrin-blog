@@ -33,11 +33,6 @@ featured: false
 
 # Custom links
 links:
-- name: "DOI"
-  url: "https://doi.org/10.1080/10826084.2020.1729200"
-
-
-
 url_pdf: ""
 url_code: ""
 url_dataset: ""

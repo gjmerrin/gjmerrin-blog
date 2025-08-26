@@ -49,11 +49,6 @@ featured: false
 
 # Custom links
 links:
-- name: "DOI"
-  url: "https://doi.org/10.1080/2372966X.2022.2164460"
-
-
-
 url_pdf: ""
 url_code: ""
 url_dataset: ""

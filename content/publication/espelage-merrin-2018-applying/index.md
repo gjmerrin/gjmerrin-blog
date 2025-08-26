@@ -32,11 +32,6 @@ featured: false
 
 # Custom links
 links:
-- name: "DOI"
-  url: "https://doi.org/10.1007/s10964-018-0910-x"
-
-
-
 url_pdf: ""
 url_code: ""
 url_dataset: ""

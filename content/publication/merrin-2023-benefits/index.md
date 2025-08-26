@@ -28,11 +28,6 @@ featured: true
 
 # Custom links
 links:
-- name: "DOI"
-  url: "https://doi.org/10.1007/s12310-022-09542-1"
-
-
-
 url_pdf: ""
 url_code: ""
 url_dataset: ""

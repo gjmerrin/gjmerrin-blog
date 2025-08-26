@@ -39,11 +39,6 @@ featured: false
 
 # Custom links
 links:
-- name: "DOI"
-  url: "https://doi.org/10.1016/j.jsp.2019.10.007"
-
-
-
 url_pdf: ""
 url_code: ""
 url_dataset: ""

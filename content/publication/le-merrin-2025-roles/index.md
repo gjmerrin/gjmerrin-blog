@@ -38,11 +38,6 @@ featured: false
 
 # Custom links
 links:
-- name: "DOI"
-  url: "https://doi.org/10.15288/jsad.24-00036"
-
-
-
 url_pdf: ""
 url_code: ""
 url_dataset: ""

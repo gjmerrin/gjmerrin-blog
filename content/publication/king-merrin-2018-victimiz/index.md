@@ -35,11 +35,6 @@ featured: false
 
 # Custom links
 links:
-- name: "DOI"
-  url: "https://doi.org/10.1177/0014402917736261."
-
-
-
 url_pdf: ""
 url_code: ""
 url_dataset: ""

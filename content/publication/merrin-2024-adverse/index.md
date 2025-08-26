@@ -44,11 +44,6 @@ featured: true
 
 # Custom links
 links:
-- name: "DOI"
-  url: "https://doi.org/10.1007/s40894-023-00229-5"
-
-
-
 url_pdf: ""
 url_code: ""
 url_dataset: ""
