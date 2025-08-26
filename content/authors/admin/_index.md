@@ -17,9 +17,9 @@ email: "gjmerrin@syr.edu"
 interests: 
 - Prevention science and school-based program evaluation
 - Healthy adolescent development in the transition to young adulthood
--	Identity-based harassment, bullying, and psychosocial outcomes
--	Adolescent risk, resilience, and developmental trajectories
--	Longitudinal quantitative methods and R programming
+- Identity-based harassment, bullying, and psychosocial outcomes
+- Adolescent risk, resilience, and developmental trajectories
+- Longitudinal quantitative methods and R programming
 
 
 name: Gabriel J. Merrin
