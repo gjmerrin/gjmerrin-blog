@@ -5,3 +5,8 @@
 blogdown
 .DS_Store # if a windows user, Thumbs.db instead
 public/ # if using Netlify
+# Hugo build artifacts
+.hugo_build.lock
+resources/_gen/
+public/
+logs/
