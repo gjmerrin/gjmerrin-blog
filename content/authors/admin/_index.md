@@ -78,6 +78,6 @@ Dr. Merrin led the development of **CATAcode**, an innovative R package that add
 
 Dr. Merrin directs the **Methodology, Adolescent Development, and Problem Behavior (MAP) Lab**, which focuses on translating rigorous research into actionable prevention and intervention strategies. The lab has produced **13 student-led publications** and provides extensive mentorship opportunities for both undergraduate and graduate students.
 
-As an applied scholar committed to community impact, Dr. Merrin works with schools and community organizations serving at-risk youth, which includes serving on the board of directors at [Elmcrest Children's Center] (https://elmcrest.org/about-us-2/). His work addresses four fundamental questions: (1) What long-term processes influence healthy adolescent development? (2) When and for whom do these processes differ? (3) How do these processes interact? (4) How can findings inform prevention and intervention efforts?
+As an applied scholar committed to community impact, Dr. Merrin works with schools and community organizations serving at-risk youth, which includes serving on the board of directors at Elmcrest Children's Center. His work addresses four fundamental questions: (1) What long-term processes influence healthy adolescent development? (2) When and for whom do these processes differ? (3) How do these processes interact? (4) How can findings inform prevention and intervention efforts?
 
 [Download my CV](/files/cv.pdf)
