@@ -1180,3 +1180,173 @@
 2025-08-26T14:51:48: Serving pages from memory
 2025-08-26T14:51:48: Web Server is available at http://localhost:3000/ (bind address 0.0.0.0)
 2025-08-26T14:51:48: Press Ctrl+C to stop
+2025-08-26T15:02:19: Watching for changes in /home/user/webapp/{assets,content,data,static,themes}
+2025-08-26T15:02:19: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T15:02:19: Start building sites … 
+2025-08-26T15:02:19: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d+extended linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T15:02:19: 
+2025-08-26T15:02:19: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T15:02:19: 
+2025-08-26T15:02:19:   {{ $path := "" }}
+2025-08-26T15:02:19:   {{ with .File }}
+2025-08-26T15:02:19: 	{{ $path = .Path }}
+2025-08-26T15:02:19:   {{ else }}
+2025-08-26T15:02:19: 	{{ $path = .Path }}
+2025-08-26T15:02:19:   {{ end }}
+2025-08-26T15:02:22: 
+2025-08-26T15:02:22:  
+2025-08-26T15:02:22:                   |
+2025-08-26T15:02:22:  EN   
+2025-08-26T15:02:22: 
+2025-08-26T15:02:22: -
+2025-08-26T15:02:22: ------------------+
+2025-08-26T15:02:22: ------
+2025-08-26T15:02:22: 
+2025-08-26T15:02:22:  
+2025-08-26T15:02:22:  
+2025-08-26T15:02:22: Pages            | 641  
+2025-08-26T15:02:22:   Paginator pages  |  38  
+2025-08-26T15:02:22:   Non-page files   |  94  
+2025-08-26T15:02:22:   Static files     |  52  
+2025-08-26T15:02:22:   Processed images | 100  
+2025-08-26T15:02:22:   Aliases          | 138  
+2025-08-26T15:02:22:   Sitemaps         |   1  
+2025-08-26T15:02:22:   Cleaned          |   0  
+2025-08-26T15:02:22: 
+2025-08-26T15:02:22: Built in 2895 ms
+2025-08-26T15:02:22: Environment: "development"
+2025-08-26T15:02:22: Serving pages from memory
+2025-08-26T15:02:22: Web Server is available at http://localhost:3000/ (bind address 0.0.0.0)
+2025-08-26T15:02:22: Press Ctrl+C to stop
+2025-08-26T15:07:00: Watching for changes in /home/user/webapp/{assets,content,data,static,themes}
+2025-08-26T15:07:00: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T15:07:00: Start building sites … 
+2025-08-26T15:07:00: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d+extended linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T15:07:00: 
+2025-08-26T15:07:00: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T15:07:00: 
+2025-08-26T15:07:00:   {{ $path := "" }}
+2025-08-26T15:07:00:   {{ with .File }}
+2025-08-26T15:07:00: 	{{ $path = .Path }}
+2025-08-26T15:07:00:   {{ else }}
+2025-08-26T15:07:00: 	{{ $path = .Path }}
+2025-08-26T15:07:00: 
+2025-08-26T15:07:02: 
+2025-08-26T15:07:02:                    | EN   
+2025-08-26T15:07:02: -------------------+------
+2025-08-26T15:07:02:   Pages            | 641  
+2025-08-26T15:07:02:   Paginator pages  |  38  
+2025-08-26T15:07:02:   Non-page files   |  94  
+2025-08-26T15:07:02:   Static files     |  52  
+2025-08-26T15:07:02:   Processed images | 100  
+2025-08-26T15:07:02:   Aliases          | 138  
+2025-08-26T15:07:02:   Sitemaps         |   1  
+2025-08-26T15:07:02:   Cleaned          |   0  
+2025-08-26T15:07:02: 
+2025-08-26T15:07:02: Built in 2736 ms
+2025-08-26T15:07:02: Environment: "development"
+2025-08-26T15:07:02: Serving pages from memory
+2025-08-26T15:07:02: Web Server is available at http://localhost:3000/ (bind address 0.0.0.0)
+2025-08-26T15:07:02: Press Ctrl+C to stop
+2025-08-26T15:07:19: Watching for changes in /home/user/webapp/{assets,content,data,static,themes}
+2025-08-26T15:07:19: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T15:07:19: Start building sites … 
+2025-08-26T15:07:19: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d+extended linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T15:07:19: 
+2025-08-26T15:07:20: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T15:07:20: 
+2025-08-26T15:07:20:   {{ $path := "" }}
+2025-08-26T15:07:20:   {{ with .File }}
+2025-08-26T15:07:20: 	{{ $path = .Path }}
+2025-08-26T15:07:20:   {{ else }}
+2025-08-26T15:07:20: 	{{ $path = .Path }}
+2025-08-26T15:07:20:   {{ end }}
+2025-08-26T15:07:21: 
+2025-08-26T15:07:21:  
+2025-08-26T15:07:21:                   |
+2025-08-26T15:07:21:  EN   
+2025-08-26T15:07:21: 
+2025-08-26T15:07:21: -
+2025-08-26T15:07:21: ------------------+------
+2025-08-26T15:07:21: 641  
+2025-08-26T15:07:21:   Paginator pages  |  38  
+2025-08-26T15:07:21:   Non-page files   |  94  
+2025-08-26T15:07:21:   Static files     |  52  
+2025-08-26T15:07:21:   Processed images | 100  
+2025-08-26T15:07:21:   Aliases          | 138  
+2025-08-26T15:07:21:   Sitemaps         |   1  
+2025-08-26T15:07:21:   Cleaned          |   0  
+2025-08-26T15:07:21: 
+2025-08-26T15:07:21: Built in 1850 ms
+2025-08-26T15:07:21: Environment: "development"
+2025-08-26T15:07:21: Serving pages from memory
+2025-08-26T15:07:21: Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+2025-08-26T15:07:21: Press Ctrl+C to stop
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/merrin-2018-transiti
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/merrin-2018-adolesce
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/merrin-2018-evolutio
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/merrin-2018-applying
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/espelage-merrin-2018-applying
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/espelage-merrin-2018-peer
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/king-merrin-2018-victimiz
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/thompson-merrin-2018-trajecto
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/dumas-merrin-2018-high
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/davis-merrin-2018-examinin
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/espelage-merrin-2018-longitud
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/leadbeater-merrin-2018-program
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/davis-merrin-2018-poly
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/davis-merrin-2017-effect
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/merrin-2016-longitud
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/hong-merrin-2016-explorin
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/davis-merrin-2016-examinin
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/hong-merrin-2016-individu
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/davis-merrin-2016-social
+2025-08-26T15:16:36: adding created directory to watchlist /home/user/webapp/content/publication/merrin-2015-risk
+2025-08-26T15:16:36: 
+2025-08-26T15:16:36: Change detected, rebuilding site.
+2025-08-26T15:16:36: 2025-08-26 15:16:36.955 +0000
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/merrin-2018-transiti/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/merrin-2018-adolesce/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/merrin-2018-evolutio/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/merrin-2018-applying/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/espelage-merrin-2018-applying/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/espelage-merrin-2018-peer/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/king-merrin-2018-victimiz/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/thompson-merrin-2018-trajecto/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/dumas-merrin-2018-high/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/davis-merrin-2018-examinin/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/espelage-merrin-2018-longitud/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/leadbeater-merrin-2018-program/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/davis-merrin-2018-poly/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/davis-merrin-2017-effect/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/merrin-2016-longitud/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/hong-merrin-2016-explorin/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/davis-merrin-2016-examinin/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/hong-merrin-2016-individu/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/davis-merrin-2016-social/index.md"
+2025-08-26T15:16:36: Source changed CREATE        "/home/user/webapp/content/publication/merrin-2015-risk/index.md"
+2025-08-26T15:16:38: Total in 1401 ms
+2025-08-26T15:16:40: 
+2025-08-26T15:16:40: Change detected, rebuilding site.
+2025-08-26T15:16:40: 2025-08-26 15:16:40.454 +0000
+2025-08-26T15:16:40: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T15:16:40: 
+2025-08-26T15:16:40:   {{ $path := "" }}
+2025-08-26T15:16:40:   {{ with .File }}
+2025-08-26T15:16:40: 	{{ $path = .Path }}
+2025-08-26T15:16:40:   {{ else }}
+2025-08-26T15:16:40: 	{{ $path = .Path }}
+2025-08-26T15:16:40:   {{ end }}
+2025-08-26T15:16:42: Rebuilt in 1718 ms
+2025-08-26T15:17:12: 
+2025-08-26T15:17:12: Change detected, rebuilding site.
+2025-08-26T15:17:12: 2025-08-26 15:17:12.954 +0000
+2025-08-26T15:17:13: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T15:17:13: 
+2025-08-26T15:17:13:   {{ $path := "" }}
+2025-08-26T15:17:13:   {{ with .File }}
+2025-08-26T15:17:13: 	{{ $path = .Path }}
+2025-08-26T15:17:13:   {{ else }}
+2025-08-26T15:17:13: 	{{ $path = .Path }}
+2025-08-26T15:17:13: 
+2025-08-26T15:17:14: Rebuilt in 1831 ms
