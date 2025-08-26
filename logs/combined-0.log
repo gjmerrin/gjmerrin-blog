@@ -1350,3 +1350,38 @@
 2025-08-26T15:17:13: 	{{ $path = .Path }}
 2025-08-26T15:17:13: 
 2025-08-26T15:17:14: Rebuilt in 1831 ms
+2025-08-26T15:37:28: Watching for changes in /home/user/webapp/{assets,content,data,static,themes}
+2025-08-26T15:37:28: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T15:37:28: Start building sites … 
+2025-08-26T15:37:28: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d+extended linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T15:37:28: 
+2025-08-26T15:37:28: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T15:37:28: 
+2025-08-26T15:37:28:   {{ $path := "" }}
+2025-08-26T15:37:28:   {{ with .File }}
+2025-08-26T15:37:28: 	{{ $path = .Path }}
+2025-08-26T15:37:28:   {{ else }}
+2025-08-26T15:37:28: 	{{ $path = .Path }}
+2025-08-26T15:37:28: 
+2025-08-26T15:37:30: 
+2025-08-26T15:37:30:                    | EN   
+2025-08-26T15:37:30: -------------------+------
+2025-08-26T15:37:30:   Pages            | 613  
+2025-08-26T15:37:30:   Paginator pages  |  40  
+2025-08-26T15:37:30:   Non-page files   |  20  
+2025-08-26T15:37:30:   Static files     |  52  
+2025-08-26T15:37:30:   Processed images |  27  
+2025-08-26T15:37:30:   Aliases          |  29  
+2025-08-26T15:37:30:   Sitemaps         |   1  
+2025-08-26T15:37:30:   Cleaned          |   0  
+2025-08-26T15:37:30: 
+2025-08-26T15:37:30: Built in 2004 ms
+2025-08-26T15:37:30: Environment: "development"
+2025-08-26T15:37:30: Serving pages from memory
+2025-08-26T15:37:30: Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+2025-08-26T15:37:30: Press Ctrl+C to stop
+2025-08-26T15:40:57: 
+2025-08-26T15:40:57: Change detected, rebuilding site.
+2025-08-26T15:40:57: 2025-08-26 15:40:57.712 +0000
+2025-08-26T15:40:57: Source changed WRITE         "/home/user/webapp/content/home/tags.md"
+2025-08-26T15:40:58: Total in 1027 ms
