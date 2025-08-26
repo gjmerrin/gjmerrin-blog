@@ -1,5 +1,5 @@
 ---
-title: "Methodology, Adolescent Development, and Problem Behavior (MAP) Lab"
+title: "The **M**ethodology, **A**dolescent Development, and **P**roblem Behavior (MAP) Lab"
 summary: "The MAP Lab at Syracuse University focuses on translating rigorous developmental research into actionable prevention and intervention strategies for adolescents."
 date: "2024-01-01"
 
@@ -15,36 +15,34 @@ header:
   image: ""
 ---
 
-# The Methodology, Adolescent Development, and Problem Behavior (MAP) Lab
-
 Welcome to the MAP Lab at Syracuse University, directed by Dr. Gabriel J. Merrin. Our lab is dedicated to advancing our understanding of adolescent development while translating research findings into practical prevention and intervention strategies that improve outcomes for young people.
 
 ## Our Mission
 
-The MAP Lab employs cutting-edge methodologies and advanced statistical approaches to understand how adolescents' experiences across multiple contexts—families, peers, schools, and communities—shape developmental trajectories. We are particularly committed to improving outcomes for marginalized youth and addressing disparities in adolescent wellbeing.
+The MAP Lab leverages innovative methods and advanced statistical approaches to understand how adolescents' experiences across multiple contexts (families, peers, schools, and communities) influence developmental trajectories. We are particularly committed to improving outcomes for marginalized youth and addressing disparities in adolescent wellbeing.
 
 ## Research Focus Areas
 
-### 🎯 **Identity-Based Harassment & Victimization**
+### **Identity-Based Harassment & Victimization**
 Examining the development, persistence, and consequences of bias-based harassment among adolescents, with special attention to LGBTQ+ youth and other marginalized populations.
 
-### 📊 **Prevention Science & Intervention Evaluation**
+### **Prevention Science & Intervention Evaluation**
 Rigorous evaluation of school-based prevention programs using advanced statistical methods including growth mixture modeling, latent class analysis, and machine learning approaches.
 
-### 🧠 **Social-Emotional Learning**
+### **Social-Emotional Learning**
 Understanding differential effectiveness of SEL programming across diverse student populations and identifying key mechanisms of change.
 
-### 🔬 **Advanced Quantitative Methods**
+### **Advanced Quantitative Methods**
 Developing and applying innovative statistical approaches to better understand complex developmental processes, including:
 - Longitudinal mixture modeling
 - Network analysis
 - Machine learning applications in prevention science
 - Reproducible research workflows
 
-## Current Major Projects
+## Recent Projects
 
 ### **Peer Experiences Project** (2021-2024)
-**NIJ-funded nationwide study | PI: Dr. Gabriel J. Merrin**
+**NIJ-funded nationwide study | Co-I: Dr. Gabriel J. Merrin**
 
 A three-year longitudinal study examining bias-based harassment among adolescents using a nationally representative sample. This collaboration with Boston University focuses on identifying risk and protective factors across multiple social contexts.
 
@@ -52,8 +50,6 @@ A three-year longitudinal study examining bias-based harassment among adolescent
 - Map prevalence and patterns of identity-based harassment
 - Identify social-ecological predictors and consequences
 - Develop evidence-based recommendations for schools and communities
-
-🌐 [Project Website](https://www.peerexperiencesproject.org/)
 
 ### **Social-Emotional Learning Effectiveness Study**
 **Multi-site evaluation | Co-Investigator: Dr. Gabriel J. Merrin**
@@ -112,10 +108,10 @@ Syracuse University
 440 White Hall  
 Syracuse, NY 13244  
 
-📧 Email: gjmerrin@syr.edu  
-🐦 Twitter: [@gjmerrin](https://twitter.com/gjmerrin)  
-📚 [Google Scholar](https://scholar.google.ca/citations?user=BKiMGCkAAAAJ&hl=en)
+Email: gjmerrin@syr.edu  
+[Google Scholar](https://scholar.google.ca/citations?user=BKiMGCkAAAAJ&hl=en)
 
 ---
 
-*The MAP Lab is housed within the Department of Human Development and Family Science at Syracuse University's David B. Falk College of Sport and Human Dynamics.*
+*The MAP Lab is housed within the Department of Human Development and Family Science within the College of Arts & Sciences at Syracuse University.*
+
