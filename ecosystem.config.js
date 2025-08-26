@@ -2,7 +2,7 @@ module.exports = {
   apps: [{
     name: 'gabriel-merrin-website',
     script: './hugo',
-    args: 'server --bind 0.0.0.0 --port 3000 --disableFastRender',
+    args: 'server --bind 0.0.0.0 --port 1313 --disableFastRender',
     cwd: '/home/user/webapp',
     instances: 1,
     autorestart: true,
