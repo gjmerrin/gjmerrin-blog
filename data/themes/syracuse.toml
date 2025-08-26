@@ -1,0 +1,25 @@
+# Syracuse University Theme
+name = "Syracuse"
+
+# Is theme light or dark?
+light = true
+
+# Primary Syracuse Orange
+primary = "#F76900"
+
+# Menu - Syracuse Orange and Navy
+menu_primary = "#F76900"
+menu_text = "#003C71"
+menu_text_active = "#FFFFFF"
+menu_title = "#003C71"
+
+# Home sections - Modern, clean gradients
+home_section_odd = "rgb(248, 249, 250)"
+home_section_even = "rgb(255, 255, 255)"
+
+# Links and accents
+link = "#F76900"
+link_hover = "#FF8C00"
+
+# Background
+background = "#FFFFFF"

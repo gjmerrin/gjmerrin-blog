@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My primary area of research examines the development and stability of identity-based harassment, aggression, substance use, victimization, and other problem behaviors across adolescence and in the transition to young adulthood.
+bio: Prevention scientist and applied developmental methodologist examining risk, resilience, and healthy adolescent development across critical life transitions.
 education:
   courses:
   - course: Ph.D. in Educational Psychology
@@ -15,11 +15,13 @@ education:
     year: 2009
 email: "gjmerrin@syr.edu"
 interests: 
-- Identity based harassment, aggression, and victimization in the school context
-- Delinquency, substance use, and other problem behaviors
-- Prevention science and evaluation of school-based interventions 
-- Adolescence development and the transition to young adulthood
-- Longitudinal quantitative methods
+- Identity-based harassment, aggression, and victimization in school contexts
+- Substance use and delinquency across developmental transitions
+- Adverse childhood experiences (ACEs) and psychosocial outcomes
+- Prevention science and school-based program evaluation
+- Longitudinal quantitative methods and reproducible research
+- Social-emotional learning program effectiveness
+- Youth gang involvement and peer relationships
 
 name: Gabriel J. Merrin
 organizations:
@@ -30,9 +32,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/gjmerrin
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.ca/citations?user=BKiMGCkAAAAJ&hl=en
@@ -48,12 +47,47 @@ user_groups:
 - Visitors
 ---
 
-Dr. Gabriel "Joey" Merrin is an assistant professor in the Department of Human Development and Family Science (HDFS) at Syracuse University. Trained as a developmental psychologist and applied methodologist, Dr. Merrin uses novel methodologies, advanced statistical modeling, and reproducible workflows to clarify the developmental processes through which adolescent’s experiences with their families, peers, teachers, and communities influence (mitigate or exacerbate) the development of problem behaviors (e.g., aggression, delinquency, substance use) and experiences with identity-based harassment and victimization throughout adolescence and in the transition to young adulthood. His work is particularly interested in examining the reciprocal and interacting associations among adolescents and various social domains as well as individual differences underlying the emergence of problem behaviors within a school context. He has a strong focus on translating and mobilizing knowledge with the goal of informing intervention and prevention efforts to improve the school experience for young people by using applied research designs, leveraging practical implications, and intentional school and community outreach. Dr. Merrin has extensive experience conducting school based research and has worked with students, teachers, and parents for over ten years. 
+Dr. Gabriel "Joey" Merrin is an Assistant Professor in the Department of Human Development and Family Science at Syracuse University. As a prevention scientist and applied developmental methodologist, Dr. Merrin has developed an innovative research program that advances our understanding of healthy development across adolescence and in the transition to young adulthood, supporting the successful assumption of adult roles and responsibilities.
 
-We (The MAP Lab) and colleagues at Boston University have recently launched a three year NIJ funded study that uses a nationally representative sample to examine the effects of bias-based harassment among adolescents to determine risk and protective factors across multiple social contexts. Check out the project website - [Peer Experiences Project](https://www.peerexperiencesproject.org/)
+**Research Program**
 
-**Research Focus**
+Dr. Merrin's research seeks to clarify the complex and nested relationships across various social-ecological contexts (individual, family, peer, school, and community) and how they influence developmental pathways underlying the emergence of identity-based harassment and victimization, mental health issues, and problem behaviors (substance use, aggression, and delinquency) across critical life transitions. 
 
-The development of aggression and problem behavior, both as the perpetrator (e.g., aggression, delinquency, substance use) and the recipient (e.g., identity-based harassment, victimization), has a critical impact on long-term individual development across the lifespan. Individuals who experience identity-based harassment and multiple forms of victimization during adolescence show increased rates of social, psychological, and physical problems both as an adolescent and adult. Further, early onset of aggression, substance use, and other problem behaviors have strong continuity for the development of criminal and antisocial behaviors as an adult. Dr. Merrin's primary line of research seeks to clarify the developmental pathways underlying the emergence of identity-based harassment, victimization, and problem behaviors (substance use, aggression, delinquency) in the transition from adolescence to young adulthood. He is particularly interested in the development of these behaviors among various minority and oppressed groups (i.e., race, ethnicity, LGBT, gender, disability, immigrant status). Considering the nested nature of individuals within and across multiple social contexts, his research examines risk and protective factors across multiple levels of the social ecology. Generally, the aim of his work explores the following questions: (1) what are the long-term processes that support and mitigate the development of identity-based harassment, victimization, and problem behavior (substance use, aggression, delinquency); (2) when and for whom do these processes differ; (3) to what extent do these processes interact to influence the development of identity-based harassment, victimization, and problem behavior (substance use, aggression, delinquency); and (4) how can these findings be leveraged to influence prevention and intervention efforts? 
+Situated at the intersection of developmental science, prevention science, and longitudinal quantitative methods, his work includes three interconnected applied lines of research:
+
+**🏫 School-Based Prevention and Identity-Based Harassment**
+This research line focuses on how school environments can either promote or hinder healthy adolescent development, investigating traditional bullying and identity-based harassment using innovative methods such as longitudinal multilevel models and stochastic actor-based models. Through randomized controlled trials, Dr. Merrin has assessed several large-scale school prevention programs including Second Step, WITS program, Boston vs. Bullies, and Sources of Strength.
+
+**🌱 Substance Use and Delinquency Across Developmental Transitions**  
+This work advances understanding of substance use by examining patterns of polysubstance use (alcohol, tobacco, cannabis, illicit drugs) during key developmental transitions using innovative quantitative methods including latent class analysis, latent Markov models, and multidimensional growth mixture models. The research also examines youth gang involvement and antisocial behavior development using survival models and multilevel approaches.
+
+**💔 Adverse Childhood Experiences (ACEs) and Psychosocial Outcomes**
+Through a comprehensive two-part systematic review synthesizing over 140 empirical studies spanning twenty years, this work demonstrates that different types of ACEs have distinct effects on mental health and peer-related outcomes, challenging traditional cumulative ACE models and emphasizing the need for person-centered, trauma-informed practices.
+
+**Research Excellence & Impact**
+
+Since joining Syracuse University in 2021, Dr. Merrin has published **38 peer-reviewed articles** and accumulated **2,240 citations since 2020**, with an **h-index of 28**. His recent two-part systematic review (Merrin, Wang, et al., 2024; Wang, Merrin, et al., 2024) has been **downloaded over 15,500 times** and has **40 citations** since its 2024 publication. His total scholarly output includes **77 peer-reviewed publications** with **2,521 total citations**.
+
+**Current Major Projects & Funding**
+
+🔬 **Co-Investigator and Lead Methodologist** on the NIJ-funded **Peer Experiences Project** (2021-2024), a nationwide study examining bias-based harassment among adolescents in collaboration with Boston University.
+
+📊 **Principal Investigator** and **Co-Principal Investigator** on multiple grant submissions totaling over $5.5 million to NIH, NIJ, and the William T. Grant Foundation, focusing on social media harassment, digital mental health help-seeking, and longitudinal studies of gender minority adolescents.
+
+**Methodological Innovations**
+
+Dr. Merrin leads the development of **CATAcode**, an innovative R package that addresses critical gaps in measuring and analyzing identity categories in social science research. This tool provides principled methods for coding Check-All-That-Apply demographic items, offering significant contributions to transparency, generalizability, and reproducibility in research.
+
+**Recognition & Awards**
+- **2025-2027 National Institutes of Health Loan Repayment Program Award**
+- **Syracuse University 2024 Falk College Faculty of the Year Award for Excellence in Research**
+- **Syracuse University 2024 Excellence in Graduate Education Faculty Award**
+- **Texas Tech University 2021-2022 Alumni Association New Faculty Award**
+
+**Laboratory Leadership**
+
+Dr. Merrin directs the **Methodology, Adolescent Development, and Problem Behavior (MAP) Lab**, which focuses on translating rigorous research into actionable prevention and intervention strategies. The lab has produced **13 student-led publications** and provides extensive mentorship opportunities for both undergraduate and graduate students.
+
+As an applied scholar committed to community impact, Dr. Merrin serves on the board of directors at Elmcrest Children's Center and volunteers extensively with schools and community organizations serving at-risk youth. His work addresses four fundamental questions: (1) What long-term processes influence healthy adolescent development? (2) When and for whom do these processes differ? (3) How do these processes interact? (4) How can findings inform prevention and intervention efforts?
 
 [Download my CV](/files/cv.pdf)

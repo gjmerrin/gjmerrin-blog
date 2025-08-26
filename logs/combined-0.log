@@ -1,0 +1,1182 @@
+2025-08-26T14:06:46: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:06:46: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:06:46: Start building sites … 
+2025-08-26T14:06:46: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:06:46: 
+2025-08-26T14:06:46: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:06:46: 
+2025-08-26T14:06:46:   {{ $path := "" }}
+2025-08-26T14:06:46:   {{ with .File }}
+2025-08-26T14:06:46: 	{{ $path = .Path }}
+2025-08-26T14:06:46:   {{ else }}
+2025-08-26T14:06:46: 	{{ $path = .Path }}
+2025-08-26T14:06:46:   {{ end }}
+2025-08-26T14:06:47: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:47: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:47: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:06:47: Built in 843 ms
+2025-08-26T14:06:47: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:47: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:06:47: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:06:47: Start building sites … 
+2025-08-26T14:06:47: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:06:47: 
+2025-08-26T14:06:47: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:06:47: 
+2025-08-26T14:06:47:   {{ $path := "" }}
+2025-08-26T14:06:47:   {{ with .File }}
+2025-08-26T14:06:47: 	{{ $path = .Path }}
+2025-08-26T14:06:47:   {{ else }}
+2025-08-26T14:06:47: 	{{ $path = .Path }}
+2025-08-26T14:06:47:   {{ end }}
+2025-08-26T14:06:48: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:48: 
+2025-08-26T14:06:48: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:48: 
+2025-08-26T14:06:48: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:06:48: 
+2025-08-26T14:06:48: Built in 1153 ms
+2025-08-26T14:06:48: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:49: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:06:49: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:06:49: Start building sites … 
+2025-08-26T14:06:49: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:06:49: 
+2025-08-26T14:06:49: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:06:49: 
+2025-08-26T14:06:49:   {{ $path := "" }}
+2025-08-26T14:06:49:   {{ with .File }}
+2025-08-26T14:06:49: 	{{ $path = .Path }}
+2025-08-26T14:06:49:   {{ else }}
+2025-08-26T14:06:49: 	{{ $path = .Path }}
+2025-08-26T14:06:49: 
+2025-08-26T14:06:50: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:50: 
+2025-08-26T14:06:50: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:50: 
+2025-08-26T14:06:50: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:06:50: 
+2025-08-26T14:06:50: Built in 829 ms
+2025-08-26T14:06:50: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:50: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:06:50: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:06:50: Start building sites … 
+2025-08-26T14:06:50: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:06:50: 
+2025-08-26T14:06:50: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:06:50: 
+2025-08-26T14:06:50:   {{ $path := "" }}
+2025-08-26T14:06:50:   {{ with .File }}
+2025-08-26T14:06:50: 	{{ $path = .Path }}
+2025-08-26T14:06:50:   {{ else }}
+2025-08-26T14:06:50: 	{{ $path = .Path }}
+2025-08-26T14:06:50: 
+2025-08-26T14:06:50: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:50: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:50: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:06:50: Built in 626 ms
+2025-08-26T14:06:50: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:51: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:06:51: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:06:51: Start building sites … 
+2025-08-26T14:06:51: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:06:51: 
+2025-08-26T14:06:51: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:06:51: 
+2025-08-26T14:06:51:   {{ $path := "" }}
+2025-08-26T14:06:51:   {{ with .File }}
+2025-08-26T14:06:51: 	{{ $path = .Path }}
+2025-08-26T14:06:51:   {{ else }}
+2025-08-26T14:06:51: 	{{ $path = .Path }}
+2025-08-26T14:06:51: 
+2025-08-26T14:06:51: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:51: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:51: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:06:51: Built in 658 ms
+2025-08-26T14:06:51: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:51: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:06:51: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:06:51: Start building sites … 
+2025-08-26T14:06:51: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:06:51: 
+2025-08-26T14:06:51: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:06:51: 
+2025-08-26T14:06:51:   {{ $path := "" }}
+2025-08-26T14:06:51:   {{ with .File }}
+2025-08-26T14:06:51: 	{{ $path = .Path }}
+2025-08-26T14:06:51:   {{ else }}
+2025-08-26T14:06:51: 	{{ $path = .Path }}
+2025-08-26T14:06:51: 
+2025-08-26T14:06:52: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:52: 
+2025-08-26T14:06:52: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:52: 
+2025-08-26T14:06:52: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:06:52: 
+2025-08-26T14:06:52: Built in 669 ms
+2025-08-26T14:06:52: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:52: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:06:52: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:06:52: Start building sites … 
+2025-08-26T14:06:52: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:06:52: 
+2025-08-26T14:06:52: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:06:52: 
+2025-08-26T14:06:52:   {{ $path := "" }}
+2025-08-26T14:06:52:   {{ with .File }}
+2025-08-26T14:06:52: 	{{ $path = .Path }}
+2025-08-26T14:06:52:   {{ else }}
+2025-08-26T14:06:52: 	{{ $path = .Path }}
+2025-08-26T14:06:52:   {{ end }}
+2025-08-26T14:06:53: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:53: 
+2025-08-26T14:06:53: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:53: 
+2025-08-26T14:06:53: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:06:53: Built in 675 ms
+2025-08-26T14:06:53: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:53: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:06:53: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:06:53: Start building sites … 
+2025-08-26T14:06:53: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:06:53: 
+2025-08-26T14:06:53: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:06:53: 
+2025-08-26T14:06:53:   {{ $path := "" }}
+2025-08-26T14:06:53:   {{ with .File }}
+2025-08-26T14:06:53: 	{{ $path = .Path }}
+2025-08-26T14:06:53:   {{ else }}
+2025-08-26T14:06:53: 	{{ $path = .Path }}
+2025-08-26T14:06:53: 
+2025-08-26T14:06:54: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:54: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:54: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:06:54: Built in 639 ms
+2025-08-26T14:06:54: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:54: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:06:54: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:06:54: Start building sites … 
+2025-08-26T14:06:54: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:06:54: 
+2025-08-26T14:06:54: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:06:54: 
+2025-08-26T14:06:54:   {{ $path := "" }}
+2025-08-26T14:06:54:   {{ with .File }}
+2025-08-26T14:06:54: 	{{ $path = .Path }}
+2025-08-26T14:06:54:   {{ else }}
+2025-08-26T14:06:54: 	{{ $path = .Path }}
+2025-08-26T14:06:54: 
+2025-08-26T14:06:54: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:54: 
+2025-08-26T14:06:54: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:54: 
+2025-08-26T14:06:54: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:06:54: 
+2025-08-26T14:06:54: Built in 615 ms
+2025-08-26T14:06:54: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:55: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:06:55: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:06:55: Start building sites … 
+2025-08-26T14:06:55: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:06:55: 
+2025-08-26T14:06:55: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:06:55: 
+2025-08-26T14:06:55:   {{ $path := "" }}
+2025-08-26T14:06:55:   {{ with .File }}
+2025-08-26T14:06:55: 	{{ $path = .Path }}
+2025-08-26T14:06:55:   {{ else }}
+2025-08-26T14:06:55: 	{{ $path = .Path }}
+2025-08-26T14:06:55: 
+2025-08-26T14:06:55: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:55: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:55: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:06:55: Built in 635 ms
+2025-08-26T14:06:55: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:55: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:06:55: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:06:55: Start building sites … 
+2025-08-26T14:06:55: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:06:55: 
+2025-08-26T14:06:56: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:06:56: 
+2025-08-26T14:06:56:   {{ $path := "" }}
+2025-08-26T14:06:56:   {{ with .File }}
+2025-08-26T14:06:56: 	{{ $path = .Path }}
+2025-08-26T14:06:56:   {{ else }}
+2025-08-26T14:06:56: 	{{ $path = .Path }}
+2025-08-26T14:06:56:   {{ end }}
+2025-08-26T14:06:56: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:56: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:56: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:06:56: Built in 861 ms
+2025-08-26T14:06:56: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:56: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:06:56: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:06:56: Start building sites … 
+2025-08-26T14:06:56: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:06:56: 
+2025-08-26T14:06:57: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:06:57: 
+2025-08-26T14:06:57:   {{ $path := "" }}
+2025-08-26T14:06:57:   {{ with .File }}
+2025-08-26T14:06:57: 	{{ $path = .Path }}
+2025-08-26T14:06:57:   {{ else }}
+2025-08-26T14:06:57: 	{{ $path = .Path }}
+2025-08-26T14:06:57: 
+2025-08-26T14:06:57: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:57: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:57: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:06:57: Built in 653 ms
+2025-08-26T14:06:57: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:57: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:06:57: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:06:57: Start building sites … 
+2025-08-26T14:06:57: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:06:57: 
+2025-08-26T14:06:57: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:06:57: 
+2025-08-26T14:06:57:   {{ $path := "" }}
+2025-08-26T14:06:57:   {{ with .File }}
+2025-08-26T14:06:57: 	{{ $path = .Path }}
+2025-08-26T14:06:57:   {{ else }}
+2025-08-26T14:06:57: 	{{ $path = .Path }}
+2025-08-26T14:06:58: 
+2025-08-26T14:06:58: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:58: 
+2025-08-26T14:06:58: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:58: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:06:58: Built in 1033 ms
+2025-08-26T14:06:58: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:59: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:06:59: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:06:59: Start building sites … 
+2025-08-26T14:06:59: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:06:59: 
+2025-08-26T14:06:59: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:06:59: 
+2025-08-26T14:06:59:   {{ $path := "" }}
+2025-08-26T14:06:59:   {{ with .File }}
+2025-08-26T14:06:59: 	{{ $path = .Path }}
+2025-08-26T14:06:59:   {{ else }}
+2025-08-26T14:06:59: 	{{ $path = .Path }}
+2025-08-26T14:06:59:   {{ end }}
+2025-08-26T14:06:59: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:59: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:06:59: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:06:59: Built in 830 ms
+2025-08-26T14:06:59: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:00: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:00: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:00: Start building sites … 
+2025-08-26T14:07:00: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:00: 
+2025-08-26T14:07:00: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:00: 
+2025-08-26T14:07:00:   {{ $path := "" }}
+2025-08-26T14:07:00:   {{ with .File }}
+2025-08-26T14:07:00: 	{{ $path = .Path }}
+2025-08-26T14:07:00:   {{ else }}
+2025-08-26T14:07:00: 	{{ $path = .Path }}
+2025-08-26T14:07:00:   {{ end }}
+2025-08-26T14:07:00: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:00: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:00: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:00: Built in 604 ms
+2025-08-26T14:07:00: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:00: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:00: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:00: Start building sites … 
+2025-08-26T14:07:00: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:00: 
+2025-08-26T14:07:00: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:00: 
+2025-08-26T14:07:00:   {{ $path := "" }}
+2025-08-26T14:07:00:   {{ with .File }}
+2025-08-26T14:07:00: 	{{ $path = .Path }}
+2025-08-26T14:07:00:   {{ else }}
+2025-08-26T14:07:00: 	{{ $path = .Path }}
+2025-08-26T14:07:00:   {{ end }}
+2025-08-26T14:07:01: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:01: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:01: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:01: Built in 639 ms
+2025-08-26T14:07:01: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:01: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:01: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:01: Start building sites … 
+2025-08-26T14:07:01: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:01: 
+2025-08-26T14:07:01: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:01: 
+2025-08-26T14:07:01:   {{ $path := "" }}
+2025-08-26T14:07:01:   {{ with .File }}
+2025-08-26T14:07:01: 	{{ $path = .Path }}
+2025-08-26T14:07:01:   {{ else }}
+2025-08-26T14:07:01: 	{{ $path = .Path }}
+2025-08-26T14:07:01:   {{ end }}
+2025-08-26T14:07:02: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:02: 
+2025-08-26T14:07:02: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:02: 
+2025-08-26T14:07:02: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:02: 
+2025-08-26T14:07:02: Built in 600 ms
+2025-08-26T14:07:02: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:02: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:02: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:02: Start building sites … 
+2025-08-26T14:07:02: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:02: 
+2025-08-26T14:07:02: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:02: 
+2025-08-26T14:07:02:   {{ $path := "" }}
+2025-08-26T14:07:02:   {{ with .File }}
+2025-08-26T14:07:02: 	{{ $path = .Path }}
+2025-08-26T14:07:02:   {{ else }}
+2025-08-26T14:07:02: 	{{ $path = .Path }}
+2025-08-26T14:07:02: 
+2025-08-26T14:07:02: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:02: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:02: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:02: Built in 585 ms
+2025-08-26T14:07:02: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:03: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:03: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:03: Start building sites … 
+2025-08-26T14:07:03: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:03: 
+2025-08-26T14:07:03: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:03: 
+2025-08-26T14:07:03:   {{ $path := "" }}
+2025-08-26T14:07:03:   {{ with .File }}
+2025-08-26T14:07:03: 	{{ $path = .Path }}
+2025-08-26T14:07:03:   {{ else }}
+2025-08-26T14:07:03: 	{{ $path = .Path }}
+2025-08-26T14:07:03: 
+2025-08-26T14:07:03: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:03: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:03: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:03: Built in 576 ms
+2025-08-26T14:07:03: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:03: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:03: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:03: Start building sites … 
+2025-08-26T14:07:03: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:03: 
+2025-08-26T14:07:03: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:03: 
+2025-08-26T14:07:03:   {{ $path := "" }}
+2025-08-26T14:07:03:   {{ with .File }}
+2025-08-26T14:07:03: 	{{ $path = .Path }}
+2025-08-26T14:07:03:   {{ else }}
+2025-08-26T14:07:03: 	{{ $path = .Path }}
+2025-08-26T14:07:03:   {{ end }}
+2025-08-26T14:07:04: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:04: 
+2025-08-26T14:07:04: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:04: 
+2025-08-26T14:07:04: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:04: 
+2025-08-26T14:07:04: Built in 627 ms
+2025-08-26T14:07:04: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:04: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:04: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:04: Start building sites … 
+2025-08-26T14:07:04: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:04: 
+2025-08-26T14:07:04: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:04: 
+2025-08-26T14:07:04:   {{ $path := "" }}
+2025-08-26T14:07:04:   {{ with .File }}
+2025-08-26T14:07:04: 	{{ $path = .Path }}
+2025-08-26T14:07:04:   {{ else }}
+2025-08-26T14:07:04: 	{{ $path = .Path }}
+2025-08-26T14:07:04: 
+2025-08-26T14:07:05: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:05: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:05: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:05: Built in 635 ms
+2025-08-26T14:07:05: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:05: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:05: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:05: Start building sites … 
+2025-08-26T14:07:05: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:05: 
+2025-08-26T14:07:05: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:05: 
+2025-08-26T14:07:05:   {{ $path := "" }}
+2025-08-26T14:07:05:   {{ with .File }}
+2025-08-26T14:07:05: 	{{ $path = .Path }}
+2025-08-26T14:07:05:   {{ else }}
+2025-08-26T14:07:05: 	{{ $path = .Path }}
+2025-08-26T14:07:05: 
+2025-08-26T14:07:06: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:06: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:06: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:06: Built in 592 ms
+2025-08-26T14:07:06: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:06: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:06: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:06: Start building sites … 
+2025-08-26T14:07:06: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:06: 
+2025-08-26T14:07:06: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:06: 
+2025-08-26T14:07:06:   {{ $path := "" }}
+2025-08-26T14:07:06:   {{ with .File }}
+2025-08-26T14:07:06: 	{{ $path = .Path }}
+2025-08-26T14:07:06:   {{ else }}
+2025-08-26T14:07:06: 	{{ $path = .Path }}
+2025-08-26T14:07:06: 
+2025-08-26T14:07:06: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:06: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:06: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:06: Built in 601 ms
+2025-08-26T14:07:06: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:06: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:06: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:06: Start building sites … 
+2025-08-26T14:07:06: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:06: 
+2025-08-26T14:07:07: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:07: 
+2025-08-26T14:07:07:   {{ $path := "" }}
+2025-08-26T14:07:07:   {{ with .File }}
+2025-08-26T14:07:07: 	{{ $path = .Path }}
+2025-08-26T14:07:07:   {{ else }}
+2025-08-26T14:07:07: 	{{ $path = .Path }}
+2025-08-26T14:07:07: 
+2025-08-26T14:07:10: Built in 3293 ms
+2025-08-26T14:07:10: Error: error building site: TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:10: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:10: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:10: Start building sites … 
+2025-08-26T14:07:10: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:10: 
+2025-08-26T14:07:10: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:10: 
+2025-08-26T14:07:10:   {{ $path := "" }}
+2025-08-26T14:07:10:   {{ with .File }}
+2025-08-26T14:07:10: 	{{ $path = .Path }}
+2025-08-26T14:07:10:   {{ else }}
+2025-08-26T14:07:10: 	{{ $path = .Path }}
+2025-08-26T14:07:10:   {{ end }}
+2025-08-26T14:07:12: Built in 1684 ms
+2025-08-26T14:07:12: Error: error building site: TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:12: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:12: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:12: Start building sites … 
+2025-08-26T14:07:12: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:12: 
+2025-08-26T14:07:12: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:12: 
+2025-08-26T14:07:12:   {{ $path := "" }}
+2025-08-26T14:07:12:   {{ with .File }}
+2025-08-26T14:07:12: 	{{ $path = .Path }}
+2025-08-26T14:07:12:   {{ else }}
+2025-08-26T14:07:12: 	{{ $path = .Path }}
+2025-08-26T14:07:12:   {{ end }}
+2025-08-26T14:07:13: Built in 1170 ms
+2025-08-26T14:07:13: 
+2025-08-26T14:07:13: Change of config file detected, rebuilding site.
+2025-08-26T14:07:13: 2025-08-26 14:07:13.561 +0000
+2025-08-26T14:07:13: Error: error building site: TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:13: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:13: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:13: Start building sites … 
+2025-08-26T14:07:13: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:13: 
+2025-08-26T14:07:13: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:13: 
+2025-08-26T14:07:13:   {{ $path := "" }}
+2025-08-26T14:07:13:   {{ with .File }}
+2025-08-26T14:07:13: 	{{ $path = .Path }}
+2025-08-26T14:07:13:   {{ else }}
+2025-08-26T14:07:13: 	{{ $path = .Path }}
+2025-08-26T14:07:13: 
+2025-08-26T14:07:14: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:14: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:14: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:14: Built in 655 ms
+2025-08-26T14:07:14: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:14: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:14: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:14: Start building sites … 
+2025-08-26T14:07:14: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:14: 
+2025-08-26T14:07:14: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:14: 
+2025-08-26T14:07:14:   {{ $path := "" }}
+2025-08-26T14:07:14:   {{ with .File }}
+2025-08-26T14:07:14: 	{{ $path = .Path }}
+2025-08-26T14:07:14:   {{ else }}
+2025-08-26T14:07:14: 	{{ $path = .Path }}
+2025-08-26T14:07:14: 
+2025-08-26T14:07:15: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:15: 
+2025-08-26T14:07:15: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:15: 
+2025-08-26T14:07:15: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:15: 
+2025-08-26T14:07:15: Built in 839 ms
+2025-08-26T14:07:15: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:15: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:15: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:15: Start building sites … 
+2025-08-26T14:07:15: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:15: 
+2025-08-26T14:07:15: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:15: 
+2025-08-26T14:07:15:   {{ $path := "" }}
+2025-08-26T14:07:15:   {{ with .File }}
+2025-08-26T14:07:15: 	{{ $path = .Path }}
+2025-08-26T14:07:15:   {{ else }}
+2025-08-26T14:07:15: 	{{ $path = .Path }}
+2025-08-26T14:07:15: 
+2025-08-26T14:07:16: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:16: 
+2025-08-26T14:07:16: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:16: 
+2025-08-26T14:07:16: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:16: 
+2025-08-26T14:07:16: Built in 1023 ms
+2025-08-26T14:07:16: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:16: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:16: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:16: Start building sites … 
+2025-08-26T14:07:17: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:17: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:17: Start building sites … 
+2025-08-26T14:07:17: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:17: 
+2025-08-26T14:07:17: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:17: 
+2025-08-26T14:07:17:   {{ $path := "" }}
+2025-08-26T14:07:17:   {{ with .File }}
+2025-08-26T14:07:17: 	{{ $path = .Path }}
+2025-08-26T14:07:17:   {{ else }}
+2025-08-26T14:07:17: 	{{ $path = .Path }}
+2025-08-26T14:07:17: 
+2025-08-26T14:07:17: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:17: 
+2025-08-26T14:07:17: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:17: 
+2025-08-26T14:07:17: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:17: 
+2025-08-26T14:07:17: Built in 596 ms
+2025-08-26T14:07:17: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:17: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:17: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:17: Start building sites … 
+2025-08-26T14:07:17: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:17: 
+2025-08-26T14:07:18: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:18: 
+2025-08-26T14:07:18:   {{ $path := "" }}
+2025-08-26T14:07:18:   {{ with .File }}
+2025-08-26T14:07:18: 	{{ $path = .Path }}
+2025-08-26T14:07:18:   {{ else }}
+2025-08-26T14:07:18: 	{{ $path = .Path }}
+2025-08-26T14:07:18: 
+2025-08-26T14:07:18: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:18: 
+2025-08-26T14:07:18: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:18: 
+2025-08-26T14:07:18: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:18: 
+2025-08-26T14:07:18: Built in 594 ms
+2025-08-26T14:07:18: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:18: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:18: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:18: Start building sites … 
+2025-08-26T14:07:18: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:18: 
+2025-08-26T14:07:18: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:18: 
+2025-08-26T14:07:18:   {{ $path := "" }}
+2025-08-26T14:07:18:   {{ with .File }}
+2025-08-26T14:07:18: 	{{ $path = .Path }}
+2025-08-26T14:07:18:   {{ else }}
+2025-08-26T14:07:18: 	{{ $path = .Path }}
+2025-08-26T14:07:18: 
+2025-08-26T14:07:19: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:19: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:19: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:19: Built in 581 ms
+2025-08-26T14:07:19: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:19: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:19: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:19: Start building sites … 
+2025-08-26T14:07:19: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:19: 
+2025-08-26T14:07:19: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:19: 
+2025-08-26T14:07:19:   {{ $path := "" }}
+2025-08-26T14:07:19:   {{ with .File }}
+2025-08-26T14:07:19: 	{{ $path = .Path }}
+2025-08-26T14:07:19:   {{ else }}
+2025-08-26T14:07:19: 	{{ $path = .Path }}
+2025-08-26T14:07:19: 
+2025-08-26T14:07:20: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:20: 
+2025-08-26T14:07:20: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:20: 
+2025-08-26T14:07:20: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:20: 
+2025-08-26T14:07:20: Built in 630 ms
+2025-08-26T14:07:20: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:20: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:20: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:20: Start building sites … 
+2025-08-26T14:07:20: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:20: 
+2025-08-26T14:07:20: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:20: 
+2025-08-26T14:07:20:   {{ $path := "" }}
+2025-08-26T14:07:20:   {{ with .File }}
+2025-08-26T14:07:20: 	{{ $path = .Path }}
+2025-08-26T14:07:20:   {{ else }}
+2025-08-26T14:07:20: 	{{ $path = .Path }}
+2025-08-26T14:07:20: 
+2025-08-26T14:07:20: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:20: 
+2025-08-26T14:07:20: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:20: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:20: Built in 587 ms
+2025-08-26T14:07:20: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:21: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:21: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:21: Start building sites … 
+2025-08-26T14:07:21: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:21: 
+2025-08-26T14:07:21: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:21: 
+2025-08-26T14:07:21:   {{ $path := "" }}
+2025-08-26T14:07:21:   {{ with .File }}
+2025-08-26T14:07:21: 	{{ $path = .Path }}
+2025-08-26T14:07:21:   {{ else }}
+2025-08-26T14:07:21: 	{{ $path = .Path }}
+2025-08-26T14:07:21:   {{ end }}
+2025-08-26T14:07:21: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:21: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:21: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:21: Built in 580 ms
+2025-08-26T14:07:21: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:21: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:21: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:21: Start building sites … 
+2025-08-26T14:07:21: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:21: 
+2025-08-26T14:07:21: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:21: 
+2025-08-26T14:07:21:   {{ $path := "" }}
+2025-08-26T14:07:21:   {{ with .File }}
+2025-08-26T14:07:21: 	{{ $path = .Path }}
+2025-08-26T14:07:21:   {{ else }}
+2025-08-26T14:07:21: 	{{ $path = .Path }}
+2025-08-26T14:07:21: 
+2025-08-26T14:07:22: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:22: 
+2025-08-26T14:07:22: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:22: 
+2025-08-26T14:07:22: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:22: 
+2025-08-26T14:07:22: Built in 602 ms
+2025-08-26T14:07:22: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:22: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:22: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:22: Start building sites … 
+2025-08-26T14:07:22: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:22: 
+2025-08-26T14:07:22: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:22: 
+2025-08-26T14:07:22:   {{ $path := "" }}
+2025-08-26T14:07:22:   {{ with .File }}
+2025-08-26T14:07:22: 	{{ $path = .Path }}
+2025-08-26T14:07:22:   {{ else }}
+2025-08-26T14:07:22: 	{{ $path = .Path }}
+2025-08-26T14:07:22: 
+2025-08-26T14:07:23: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:23: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:23: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:23: Built in 580 ms
+2025-08-26T14:07:23: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:23: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:23: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:23: Start building sites … 
+2025-08-26T14:07:23: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:23: 
+2025-08-26T14:07:23: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:23: 
+2025-08-26T14:07:23:   {{ $path := "" }}
+2025-08-26T14:07:23:   {{ with .File }}
+2025-08-26T14:07:23: 	{{ $path = .Path }}
+2025-08-26T14:07:23:   {{ else }}
+2025-08-26T14:07:23: 	{{ $path = .Path }}
+2025-08-26T14:07:23: 
+2025-08-26T14:07:23: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:23: 
+2025-08-26T14:07:23: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:23: 
+2025-08-26T14:07:23: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:23: 
+2025-08-26T14:07:23: Built in 644 ms
+2025-08-26T14:07:23: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:24: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:24: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:24: Start building sites … 
+2025-08-26T14:07:24: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:24: 
+2025-08-26T14:07:24: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:24: 
+2025-08-26T14:07:24:   {{ $path := "" }}
+2025-08-26T14:07:24:   {{ with .File }}
+2025-08-26T14:07:24: 	{{ $path = .Path }}
+2025-08-26T14:07:24:   {{ else }}
+2025-08-26T14:07:24: 	{{ $path = .Path }}
+2025-08-26T14:07:24: 
+2025-08-26T14:07:24: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:24: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:24: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:24: Built in 620 ms
+2025-08-26T14:07:24: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:24: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:24: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:24: Start building sites … 
+2025-08-26T14:07:24: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:24: 
+2025-08-26T14:07:25: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:25: 
+2025-08-26T14:07:25:   {{ $path := "" }}
+2025-08-26T14:07:25:   {{ with .File }}
+2025-08-26T14:07:25: 	{{ $path = .Path }}
+2025-08-26T14:07:25:   {{ else }}
+2025-08-26T14:07:25: 	{{ $path = .Path }}
+2025-08-26T14:07:25: 
+2025-08-26T14:07:25: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:25: 
+2025-08-26T14:07:25: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:25: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:25: Built in 603 ms
+2025-08-26T14:07:25: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:25: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:25: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:25: Start building sites … 
+2025-08-26T14:07:25: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:25: 
+2025-08-26T14:07:25: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:25: 
+2025-08-26T14:07:25:   {{ $path := "" }}
+2025-08-26T14:07:25:   {{ with .File }}
+2025-08-26T14:07:25: 	{{ $path = .Path }}
+2025-08-26T14:07:25:   {{ else }}
+2025-08-26T14:07:25: 	{{ $path = .Path }}
+2025-08-26T14:07:25: 
+2025-08-26T14:07:26: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:26: 
+2025-08-26T14:07:26: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:26: 
+2025-08-26T14:07:26: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:26: Built in 604 ms
+2025-08-26T14:07:26: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:26: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:26: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:26: Start building sites … 
+2025-08-26T14:07:26: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:26: 
+2025-08-26T14:07:26: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:26: 
+2025-08-26T14:07:26:   {{ $path := "" }}
+2025-08-26T14:07:26:   {{ with .File }}
+2025-08-26T14:07:26: 	{{ $path = .Path }}
+2025-08-26T14:07:26:   {{ else }}
+2025-08-26T14:07:26: 	{{ $path = .Path }}
+2025-08-26T14:07:26: 
+2025-08-26T14:07:27: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:27: ERROR render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: _default/single.html:4:3: executing "_default/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:27: ERROR TOCSS: failed to transform "main_parsed.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+2025-08-26T14:07:27: Built in 583 ms
+2025-08-26T14:07:27: Error: error building site: render: failed to render pages: render of "page" failed: "/home/user/webapp/themes/hugo-academic/layouts/_default/baseof.html:4:3": execute of template failed: template: docs/single.html:4:3: executing "docs/single.html" at <partial "site_head.html" .>: error calling partial: "/home/user/webapp/themes/hugo-academic/layouts/partials/site_head.html:114:45": execute of template failed: template: partials/site_head.html:114:45: executing "partials/site_head.html" at <resources.Concat>: error calling Concat: slice []interface {} not supported in concat
+2025-08-26T14:07:27: Watching for changes in /home/user/webapp/{assets,content,static,themes}
+2025-08-26T14:07:27: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:07:27: Start building sites … 
+2025-08-26T14:07:27: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:07:27: 
+2025-08-26T14:07:27: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:07:27: 
+2025-08-26T14:07:27:   {{ $path := "" }}
+2025-08-26T14:07:27:   {{ with .File }}
+2025-08-26T14:07:27: 	{{ $path = .Path }}
+2025-08-26T14:07:27:   {{ else }}
+2025-08-26T14:07:27: 	{{ $path = .Path }}
+2025-08-26T14:07:27: 
+2025-08-26T14:08:10: Watching for changes in /home/user/webapp/{assets,content,data,static,themes}
+2025-08-26T14:08:10: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:08:10: Start building sites … 
+2025-08-26T14:08:10: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d+extended linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:08:10: 
+2025-08-26T14:08:11: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:08:11: 
+2025-08-26T14:08:11:   {{ $path := "" }}
+2025-08-26T14:08:11:   {{ with .File }}
+2025-08-26T14:08:11: 	{{ $path = .Path }}
+2025-08-26T14:08:11:   {{ else }}
+2025-08-26T14:08:11: 	{{ $path = .Path }}
+2025-08-26T14:08:11:   {{ end }}
+2025-08-26T14:08:13: 
+2025-08-26T14:08:13:  
+2025-08-26T14:08:13:                   |
+2025-08-26T14:08:13:  EN   
+2025-08-26T14:08:13: 
+2025-08-26T14:08:13: -
+2025-08-26T14:08:13: ------------------+
+2025-08-26T14:08:13: ------
+2025-08-26T14:08:13: 
+2025-08-26T14:08:13:   Pages            | 454  
+2025-08-26T14:08:13:   Paginator pages  |  20  
+2025-08-26T14:08:13:   Non-page files   |  94  
+2025-08-26T14:08:13:   Static files     |  52  
+2025-08-26T14:08:13:   Processed images | 142  
+2025-08-26T14:08:13:   Aliases          | 118  
+2025-08-26T14:08:13:   Sitemaps         |   1  
+2025-08-26T14:08:13:   Cleaned          |   0  
+2025-08-26T14:08:13: 
+2025-08-26T14:08:13: Built in 2692 ms
+2025-08-26T14:08:13: Environment: "development"
+2025-08-26T14:08:13: Serving pages from memory
+2025-08-26T14:08:13: Web Server is available at http://localhost:3000/ (bind address 0.0.0.0)
+2025-08-26T14:08:13: Press Ctrl+C to stop
+2025-08-26T14:24:51: 
+2025-08-26T14:24:51: Change detected, rebuilding site.
+2025-08-26T14:24:51: 2025-08-26 14:24:51.377 +0000
+2025-08-26T14:24:51: Source changed WRITE         "/home/user/webapp/content/authors/admin/_index.md"
+2025-08-26T14:24:52: Total in 995 ms
+2025-08-26T14:24:55: 
+2025-08-26T14:24:55: Change of config file detected, rebuilding site.
+2025-08-26T14:24:55: 2025-08-26 14:24:55.875 +0000
+2025-08-26T14:24:56: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:24:56: 
+2025-08-26T14:24:56:   {{ $path := "" }}
+2025-08-26T14:24:56:   {{ with .File }}
+2025-08-26T14:24:56: 	{{ $path = .Path }}
+2025-08-26T14:24:56:   {{ else }}
+2025-08-26T14:24:56: 	{{ $path = .Path }}
+2025-08-26T14:24:56: 
+2025-08-26T14:24:58: Rebuilt in 2225 ms
+2025-08-26T14:25:00: 
+2025-08-26T14:25:00: Change of config file detected, rebuilding site.
+2025-08-26T14:25:00: 2025-08-26 14:25:00.376 +0000
+2025-08-26T14:25:00: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:25:00: 
+2025-08-26T14:25:00:   {{ $path := "" }}
+2025-08-26T14:25:00:   {{ with .File }}
+2025-08-26T14:25:00: 	{{ $path = .Path }}
+2025-08-26T14:25:00:   {{ else }}
+2025-08-26T14:25:00: 	{{ $path = .Path }}
+2025-08-26T14:25:00: 
+2025-08-26T14:25:02: Rebuilt in 2135 ms
+2025-08-26T14:25:07: 
+2025-08-26T14:25:07: Change detected, rebuilding site.
+2025-08-26T14:25:07: 2025-08-26 14:25:07.379 +0000
+2025-08-26T14:25:07: Source changed WRITE         "/home/user/webapp/content/home/projects.md"
+2025-08-26T14:25:08: Total in 1394 ms
+2025-08-26T14:25:14: 
+2025-08-26T14:25:14: Change of config file detected, rebuilding site.
+2025-08-26T14:25:14: 2025-08-26 14:25:14.383 +0000
+2025-08-26T14:25:14: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:25:14: 
+2025-08-26T14:25:14:   {{ $path := "" }}
+2025-08-26T14:25:14:   {{ with .File }}
+2025-08-26T14:25:14: 	{{ $path = .Path }}
+2025-08-26T14:25:14:   {{ else }}
+2025-08-26T14:25:14: 	{{ $path = .Path }}
+2025-08-26T14:25:14: 
+2025-08-26T14:25:16: Rebuilt in 2043 ms
+2025-08-26T14:25:29: 
+2025-08-26T14:25:29: Change detected, rebuilding site.
+2025-08-26T14:25:29: 2025-08-26 14:25:29.386 +0000
+2025-08-26T14:25:29: Source changed WRITE         "/home/user/webapp/content/home/lab.md"
+2025-08-26T14:25:30: Total in 799 ms
+2025-08-26T14:25:48: 
+2025-08-26T14:25:48: Change detected, rebuilding site.
+2025-08-26T14:25:48: 2025-08-26 14:25:48.390 +0000
+2025-08-26T14:25:48: Source changed WRITE         "/home/user/webapp/content/lab/_index.md"
+2025-08-26T14:25:53: Total in 5567 ms
+2025-08-26T14:26:21: 
+2025-08-26T14:26:21: Change detected, rebuilding site.
+2025-08-26T14:26:21: 2025-08-26 14:26:21.390 +0000
+2025-08-26T14:26:21: Source changed WRITE         "/home/user/webapp/content/authors/admin/_index.md"
+2025-08-26T14:26:22: Total in 826 ms
+2025-08-26T14:26:29: adding created directory to watchlist /home/user/webapp/content/publication/merrin-wang-kiefer-2024
+2025-08-26T14:26:29: adding created directory to watchlist /home/user/webapp/content/publication/wang-merrin-kiefer-2024
+2025-08-26T14:26:29: adding created directory to watchlist /home/user/webapp/content/publication/wang-merrin-wang-liu-kiefer-2025
+2025-08-26T14:26:29: adding created directory to watchlist /home/user/webapp/content/publication/bi-merrin-li-2025
+2025-08-26T14:26:29: 
+2025-08-26T14:26:29: Change detected, rebuilding site.
+2025-08-26T14:26:29: 2025-08-26 14:26:29.378 +0000
+2025-08-26T14:26:30: Total in 783 ms
+2025-08-26T14:26:45: 
+2025-08-26T14:26:45: Change detected, rebuilding site.
+2025-08-26T14:26:45: 2025-08-26 14:26:45.875 +0000
+2025-08-26T14:26:45: Source changed WRITE         "/home/user/webapp/content/publication/merrin-wang-kiefer-2024/index.md"
+2025-08-26T14:26:45: Source changed WRITE         "/home/user/webapp/content/publication/merrin-wang-kiefer-2024/index.md"
+2025-08-26T14:26:47: Total in 1367 ms
+2025-08-26T14:26:58: 
+2025-08-26T14:26:58: Change detected, rebuilding site.
+2025-08-26T14:26:58: 2025-08-26 14:26:58.393 +0000
+2025-08-26T14:26:58: Source changed WRITE         "/home/user/webapp/content/publication/wang-merrin-kiefer-2024/index.md"
+2025-08-26T14:26:58: Source changed WRITE         "/home/user/webapp/content/publication/wang-merrin-kiefer-2024/index.md"
+2025-08-26T14:26:59: Total in 907 ms
+2025-08-26T14:27:08: 
+2025-08-26T14:27:08: Change detected, rebuilding site.
+2025-08-26T14:27:08: 2025-08-26 14:27:08.875 +0000
+2025-08-26T14:27:08: Source changed WRITE         "/home/user/webapp/content/publication/wang-merrin-wang-liu-kiefer-2025/index.md"
+2025-08-26T14:27:08: Source changed WRITE         "/home/user/webapp/content/publication/wang-merrin-wang-liu-kiefer-2025/index.md"
+2025-08-26T14:27:09: Total in 843 ms
+2025-08-26T14:27:27: 
+2025-08-26T14:27:27: Change detected, rebuilding site.
+2025-08-26T14:27:27: 2025-08-26 14:27:27.387 +0000
+2025-08-26T14:27:27: Source changed WRITE         "/home/user/webapp/content/publication/bi-merrin-li-2025/index.md"
+2025-08-26T14:27:27: Source changed WRITE         "/home/user/webapp/content/publication/bi-merrin-li-2025/index.md"
+2025-08-26T14:27:29: Total in 1717 ms
+2025-08-26T14:27:32: adding created directory to watchlist /home/user/webapp/content/publication/merrin-nickodem-catacode-accepted
+2025-08-26T14:27:32: 
+2025-08-26T14:27:32: Change detected, rebuilding site.
+2025-08-26T14:27:32: 2025-08-26 14:27:32.894 +0000
+2025-08-26T14:27:33: Total in 956 ms
+2025-08-26T14:27:52: 
+2025-08-26T14:27:52: Change detected, rebuilding site.
+2025-08-26T14:27:52: 2025-08-26 14:27:52.894 +0000
+2025-08-26T14:27:52: Source changed WRITE         "/home/user/webapp/content/publication/merrin-nickodem-catacode-accepted/index.md"
+2025-08-26T14:27:52: Source changed WRITE         "/home/user/webapp/content/publication/merrin-nickodem-catacode-accepted/index.md"
+2025-08-26T14:27:55: Total in 3022 ms
+2025-08-26T14:28:10: Watching for changes in /home/user/webapp/{assets,content,data,static,themes}
+2025-08-26T14:28:10: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:28:10: Start building sites … 
+2025-08-26T14:28:10: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d+extended linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:28:10: 
+2025-08-26T14:28:10: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:28:10: 
+2025-08-26T14:28:10:   {{ $path := "" }}
+2025-08-26T14:28:10:   {{ with .File }}
+2025-08-26T14:28:10: 	{{ $path = .Path }}
+2025-08-26T14:28:10:   {{ else }}
+2025-08-26T14:28:10: 	{{ $path = .Path }}
+2025-08-26T14:28:10: 
+2025-08-26T14:28:12: 
+2025-08-26T14:28:12:                    | EN   
+2025-08-26T14:28:12: -------------------+------
+2025-08-26T14:28:12:   Pages            | 529  
+2025-08-26T14:28:12:   Paginator pages  |  26  
+2025-08-26T14:28:12:   Non-page files   |  94  
+2025-08-26T14:28:12:   Static files     |  52  
+2025-08-26T14:28:12:   Processed images | 143  
+2025-08-26T14:28:12:   Aliases          | 134  
+2025-08-26T14:28:12:   Sitemaps         |   1  
+2025-08-26T14:28:12:   Cleaned          |   0  
+2025-08-26T14:28:12: 
+2025-08-26T14:28:12: Built in 1973 ms
+2025-08-26T14:28:12: Environment: "development"
+2025-08-26T14:28:12: Serving pages from memory
+2025-08-26T14:28:12: Web Server is available at http://localhost:3000/ (bind address 0.0.0.0)
+2025-08-26T14:28:12: Press Ctrl+C to stop
+2025-08-26T14:45:18: 
+2025-08-26T14:45:18: Change of config file detected, rebuilding site.
+2025-08-26T14:45:18: 2025-08-26 14:45:18.068 +0000
+2025-08-26T14:45:18: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:45:18: 
+2025-08-26T14:45:18:   {{ $path := "" }}
+2025-08-26T14:45:18:   {{ with .File }}
+2025-08-26T14:45:18: 	{{ $path = .Path }}
+2025-08-26T14:45:18:   {{ else }}
+2025-08-26T14:45:18: 	{{ $path = .Path }}
+2025-08-26T14:45:18: 
+2025-08-26T14:45:20: Rebuilt in 2340 ms
+2025-08-26T14:45:23: 
+2025-08-26T14:45:23: Change of config file detected, rebuilding site.
+2025-08-26T14:45:23: 2025-08-26 14:45:23.067 +0000
+2025-08-26T14:45:23: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:45:23: 
+2025-08-26T14:45:23:   {{ $path := "" }}
+2025-08-26T14:45:23:   {{ with .File }}
+2025-08-26T14:45:23: 	{{ $path = .Path }}
+2025-08-26T14:45:23:   {{ else }}
+2025-08-26T14:45:23: 	{{ $path = .Path }}
+2025-08-26T14:45:23:   {{ end }}
+2025-08-26T14:45:24: Rebuilt in 1857 ms
+2025-08-26T14:45:45: 
+2025-08-26T14:45:45: Change detected, rebuilding site.
+2025-08-26T14:45:45: 2025-08-26 14:45:45.568 +0000
+2025-08-26T14:45:45: Source changed WRITE         "/home/user/webapp/content/authors/admin/_index.md"
+2025-08-26T14:45:46: Total in 1345 ms
+2025-08-26T14:45:54: 
+2025-08-26T14:45:54: Change detected, rebuilding site.
+2025-08-26T14:45:54: 2025-08-26 14:45:54.568 +0000
+2025-08-26T14:45:54: Source changed WRITE         "/home/user/webapp/content/home/featured.md"
+2025-08-26T14:45:55: Total in 838 ms
+2025-08-26T14:46:05: 
+2025-08-26T14:46:05: Change detected, rebuilding site.
+2025-08-26T14:46:05: 2025-08-26 14:46:05.568 +0000
+2025-08-26T14:46:05: Source changed WRITE         "/home/user/webapp/content/home/publications.md"
+2025-08-26T14:46:08: Total in 2702 ms
+2025-08-26T14:46:10: 
+2025-08-26T14:46:10: Change detected, rebuilding site.
+2025-08-26T14:46:10: 2025-08-26 14:46:10.567 +0000
+2025-08-26T14:46:10: Source changed WRITE         "/home/user/webapp/content/home/featured.md"
+2025-08-26T14:46:11: Total in 935 ms
+2025-08-26T14:46:18: 
+2025-08-26T14:46:18: Change detected, rebuilding site.
+2025-08-26T14:46:18: 2025-08-26 14:46:18.068 +0000
+2025-08-26T14:46:18: Source changed WRITE         "/home/user/webapp/content/home/featured.md"
+2025-08-26T14:46:18: Total in 805 ms
+2025-08-26T14:46:31: adding created directory to watchlist /home/user/webapp/content/publication/merrin-bailey-kelly-2024
+2025-08-26T14:46:31: 
+2025-08-26T14:46:31: Change detected, rebuilding site.
+2025-08-26T14:46:31: 2025-08-26 14:46:31.569 +0000
+2025-08-26T14:46:32: Total in 1179 ms
+2025-08-26T14:46:47: 
+2025-08-26T14:46:47: Change detected, rebuilding site.
+2025-08-26T14:46:47: 2025-08-26 14:46:47.068 +0000
+2025-08-26T14:46:47: Source changed WRITE         "/home/user/webapp/content/publication/merrin-bailey-kelly-2024/index.md"
+2025-08-26T14:46:47: Source changed WRITE         "/home/user/webapp/content/publication/merrin-bailey-kelly-2024/index.md"
+2025-08-26T14:46:48: Total in 939 ms
+2025-08-26T14:48:13: adding created directory to watchlist /home/user/webapp/content/publication/holt-merrin-wyatt-2025
+2025-08-26T14:48:13: adding created directory to watchlist /home/user/webapp/content/publication/lawrence-merrin-mcfield-2025
+2025-08-26T14:48:13: adding created directory to watchlist /home/user/webapp/content/publication/fusco-holt-merrin-2025
+2025-08-26T14:48:13: adding created directory to watchlist /home/user/webapp/content/publication/heerde-bailey-merrin-2025
+2025-08-26T14:48:13: adding created directory to watchlist /home/user/webapp/content/publication/le-bailey-heerde-2025
+2025-08-26T14:48:13: adding created directory to watchlist /home/user/webapp/content/publication/parodi-holt-aradhya-2025
+2025-08-26T14:48:13: adding created directory to watchlist /home/user/webapp/content/publication/marsico-wyatt-parodi-2025
+2025-08-26T14:48:13: adding created directory to watchlist /home/user/webapp/content/publication/razza-liu-feng-2025
+2025-08-26T14:48:13: 
+2025-08-26T14:48:13: Change detected, rebuilding site.
+2025-08-26T14:48:13: 2025-08-26 14:48:13.568 +0000
+2025-08-26T14:48:13: Source changed CREATE        "/home/user/webapp/content/publication/holt-merrin-wyatt-2025/index.md"
+2025-08-26T14:48:13: Source changed CREATE        "/home/user/webapp/content/publication/lawrence-merrin-mcfield-2025/index.md"
+2025-08-26T14:48:13: Source changed CREATE        "/home/user/webapp/content/publication/fusco-holt-merrin-2025/index.md"
+2025-08-26T14:48:13: Source changed CREATE        "/home/user/webapp/content/publication/heerde-bailey-merrin-2025/index.md"
+2025-08-26T14:48:13: Source changed CREATE        "/home/user/webapp/content/publication/le-bailey-heerde-2025/index.md"
+2025-08-26T14:48:13: Source changed CREATE        "/home/user/webapp/content/publication/parodi-holt-aradhya-2025/index.md"
+2025-08-26T14:48:13: Source changed CREATE        "/home/user/webapp/content/publication/marsico-wyatt-parodi-2025/index.md"
+2025-08-26T14:48:13: Source changed CREATE        "/home/user/webapp/content/publication/razza-liu-feng-2025/index.md"
+2025-08-26T14:48:15: Total in 1434 ms
+2025-08-26T14:48:53: adding created directory to watchlist /home/user/webapp/content/publication/zhang-merrin-slavich-2024
+2025-08-26T14:48:53: adding created directory to watchlist /home/user/webapp/content/publication/grant-merrin-april-2024
+2025-08-26T14:48:53: adding created directory to watchlist /home/user/webapp/content/publication/robillard-merrin-legg-2024
+2025-08-26T14:48:53: adding created directory to watchlist /home/user/webapp/content/publication/rivas-koehl-merrin-espelage-2023
+2025-08-26T14:48:53: adding created directory to watchlist /home/user/webapp/content/publication/leadbeater-merrin-contreras-2023
+2025-08-26T14:48:53: adding created directory to watchlist /home/user/webapp/content/publication/merrin-leadbeater-sturgess-2022
+2025-08-26T14:48:53: adding created directory to watchlist /home/user/webapp/content/publication/merrin-davis-ingram-2020
+2025-08-26T14:48:53: adding created directory to watchlist /home/user/webapp/content/publication/merrin-ames-sturgess-2020
+2025-08-26T14:48:53: adding created directory to watchlist /home/user/webapp/content/publication/merrin-delahaye-espelage-2018
+2025-08-26T14:48:53: 
+2025-08-26T14:48:53: Change detected, rebuilding site.
+2025-08-26T14:48:53: 2025-08-26 14:48:53.569 +0000
+2025-08-26T14:48:53: Source changed CREATE        "/home/user/webapp/content/publication/zhang-merrin-slavich-2024/index.md"
+2025-08-26T14:48:53: Source changed CREATE        "/home/user/webapp/content/publication/grant-merrin-april-2024/index.md"
+2025-08-26T14:48:53: Source changed CREATE        "/home/user/webapp/content/publication/robillard-merrin-legg-2024/index.md"
+2025-08-26T14:48:53: Source changed CREATE        "/home/user/webapp/content/publication/rivas-koehl-merrin-espelage-2023/index.md"
+2025-08-26T14:48:53: Source changed CREATE        "/home/user/webapp/content/publication/leadbeater-merrin-contreras-2023/index.md"
+2025-08-26T14:48:53: Source changed CREATE        "/home/user/webapp/content/publication/merrin-leadbeater-sturgess-2022/index.md"
+2025-08-26T14:48:53: Source changed CREATE        "/home/user/webapp/content/publication/merrin-davis-ingram-2020/index.md"
+2025-08-26T14:48:53: Source changed CREATE        "/home/user/webapp/content/publication/merrin-ames-sturgess-2020/index.md"
+2025-08-26T14:48:53: Source changed CREATE        "/home/user/webapp/content/publication/merrin-delahaye-espelage-2018/index.md"
+2025-08-26T14:48:54: Total in 1133 ms
+2025-08-26T14:49:13: 
+2025-08-26T14:49:13: Change detected, rebuilding site.
+2025-08-26T14:49:13: 2025-08-26 14:49:13.569 +0000
+2025-08-26T14:49:13: Source changed WRITE         "/home/user/webapp/content/home/lab.md"
+2025-08-26T14:49:15: Total in 1652 ms
+2025-08-26T14:49:48: 
+2025-08-26T14:49:48: Change detected, rebuilding site.
+2025-08-26T14:49:48: 2025-08-26 14:49:48.592 +0000
+2025-08-26T14:49:48: Source changed WRITE         "/home/user/webapp/content/publication/bi-merrin-li-2025/index.md"
+2025-08-26T14:49:50: Total in 1529 ms
+2025-08-26T14:50:02: Watching for changes in /home/user/webapp/{assets,content,data,static,themes}
+2025-08-26T14:50:02: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:50:02: Start building sites … 
+2025-08-26T14:50:02: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d+extended linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:50:02: 
+2025-08-26T14:50:02: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:50:02: 
+2025-08-26T14:50:02:   {{ $path := "" }}
+2025-08-26T14:50:02:   {{ with .File }}
+2025-08-26T14:50:02: 	{{ $path = .Path }}
+2025-08-26T14:50:02:   {{ else }}
+2025-08-26T14:50:02: 	{{ $path = .Path }}
+2025-08-26T14:50:02:   {{ end }}
+2025-08-26T14:50:04: 
+2025-08-26T14:50:04:                    | EN   
+2025-08-26T14:50:04: -------------------+------
+2025-08-26T14:50:04:   Pages            | 629  
+2025-08-26T14:50:04:   Paginator pages  |  35  
+2025-08-26T14:50:04:   Non-page files   |  94  
+2025-08-26T14:50:04:   Static files     |  52  
+2025-08-26T14:50:04:   Processed images | 100  
+2025-08-26T14:50:04:   Aliases          | 138  
+2025-08-26T14:50:04:   Sitemaps         |   1  
+2025-08-26T14:50:04:   Cleaned          |   0  
+2025-08-26T14:50:04: 
+2025-08-26T14:50:04: Built in 1825 ms
+2025-08-26T14:50:04: Environment: "development"
+2025-08-26T14:50:04: Serving pages from memory
+2025-08-26T14:50:04: Web Server is available at http://localhost:3000/ (bind address 0.0.0.0)
+2025-08-26T14:50:04: Press Ctrl+C to stop
+2025-08-26T14:51:34: adding created directory to watchlist /home/user/webapp/content/publication/bi-k
+2025-08-26T14:51:34: adding created directory to watchlist /home/user/webapp/content/publication/green-j
+2025-08-26T14:51:34: adding created directory to watchlist /home/user/webapp/content/publication/li-t
+2025-08-26T14:51:34: adding created directory to watchlist /home/user/webapp/content/publication/fairclough-j
+2025-08-26T14:51:34: adding created directory to watchlist /home/user/webapp/content/publication/liu-q
+2025-08-26T14:51:34: adding created directory to watchlist /home/user/webapp/content/publication/bailey-j
+2025-08-26T14:51:34: adding created directory to watchlist /home/user/webapp/content/publication/espelage-d
+2025-08-26T14:51:34: adding created directory to watchlist /home/user/webapp/content/publication/wang-x
+2025-08-26T14:51:34: adding created directory to watchlist /home/user/webapp/content/publication/ames-m
+2025-08-26T14:51:34: adding created directory to watchlist /home/user/webapp/content/publication/forber-pratt-a
+2025-08-26T14:51:34: adding created directory to watchlist /home/user/webapp/content/publication/leadbeater-b
+2025-08-26T14:51:34: adding created directory to watchlist /home/user/webapp/content/publication/valido-a
+2025-08-26T14:51:34: 
+2025-08-26T14:51:34: Change detected, rebuilding site.
+2025-08-26T14:51:34: 2025-08-26 14:51:34.940 +0000
+2025-08-26T14:51:34: Source changed CREATE        "/home/user/webapp/content/publication/bi-k/index.md"
+2025-08-26T14:51:34: Source changed CREATE        "/home/user/webapp/content/publication/green-j/index.md"
+2025-08-26T14:51:34: Source changed CREATE        "/home/user/webapp/content/publication/li-t/index.md"
+2025-08-26T14:51:34: Source changed CREATE        "/home/user/webapp/content/publication/fairclough-j/index.md"
+2025-08-26T14:51:34: Source changed CREATE        "/home/user/webapp/content/publication/liu-q/index.md"
+2025-08-26T14:51:34: Source changed CREATE        "/home/user/webapp/content/publication/bailey-j/index.md"
+2025-08-26T14:51:34: Source changed CREATE        "/home/user/webapp/content/publication/espelage-d/index.md"
+2025-08-26T14:51:34: Source changed CREATE        "/home/user/webapp/content/publication/wang-x/index.md"
+2025-08-26T14:51:34: Source changed CREATE        "/home/user/webapp/content/publication/ames-m/index.md"
+2025-08-26T14:51:34: Source changed CREATE        "/home/user/webapp/content/publication/forber-pratt-a/index.md"
+2025-08-26T14:51:34: Source changed CREATE        "/home/user/webapp/content/publication/leadbeater-b/index.md"
+2025-08-26T14:51:34: Source changed CREATE        "/home/user/webapp/content/publication/valido-a/index.md"
+2025-08-26T14:51:35: Total in 1045 ms
+2025-08-26T14:51:46: Watching for changes in /home/user/webapp/{assets,content,data,static,themes}
+2025-08-26T14:51:46: Watching for config changes in /home/user/webapp/config.toml, /home/user/webapp/config/_default
+2025-08-26T14:51:46: Start building sites … 
+2025-08-26T14:51:46: hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d+extended linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio
+2025-08-26T14:51:46: 
+2025-08-26T14:51:46: WARN  .Path when the page is backed by a file is deprecated and will be removed in a future release. We plan to use Path for a canonical source path and you probably want to check the source is a file. To get the current behaviour, you can use a construct similar to the one below:
+2025-08-26T14:51:46: 
+2025-08-26T14:51:46:   {{ $path := "" }}
+2025-08-26T14:51:46:   {{ with .File }}
+2025-08-26T14:51:46: 	{{ $path = .Path }}
+2025-08-26T14:51:46:   {{ else }}
+2025-08-26T14:51:46: 	{{ $path = .Path }}
+2025-08-26T14:51:46:   {{ end }}
+2025-08-26T14:51:48: 
+2025-08-26T14:51:48:                    | EN   
+2025-08-26T14:51:48: -------------------+------
+2025-08-26T14:51:48:   Pages            | 641  
+2025-08-26T14:51:48:   Paginator pages  |  38  
+2025-08-26T14:51:48:   Non-page files   |  94  
+2025-08-26T14:51:48:   Static files     |  52  
+2025-08-26T14:51:48:   Processed images | 101  
+2025-08-26T14:51:48:   Aliases          | 138  
+2025-08-26T14:51:48:   Sitemaps         |   1  
+2025-08-26T14:51:48:   Cleaned          |   0  
+2025-08-26T14:51:48: 
+2025-08-26T14:51:48: Built in 1746 ms
+2025-08-26T14:51:48: Environment: "development"
+2025-08-26T14:51:48: Serving pages from memory
+2025-08-26T14:51:48: Web Server is available at http://localhost:3000/ (bind address 0.0.0.0)
+2025-08-26T14:51:48: Press Ctrl+C to stop

@@ -8,17 +8,17 @@ color_theme = "syracuse"
 day_night = true 
 
 # Font style.
-#   Choose from `default`, `classic`, or `playfair`.
-font = "playfair"
+#   Choose from `default`, `classic`, `playfair`, or `modern`.
+font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Dr. Gabriel J. Merrin - Assistant Professor at Syracuse University. Expert in adolescent development, identity-based harassment, prevention science, and longitudinal quantitative methods."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "MAP-LAB-LOGO.png"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "gjmerrin"
+twitter = ""
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -51,8 +51,8 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "gjmerrin@syr.edu"
-phone = "(812) 318-1273"
-address = "440 White Hall, Syracuse University, Syracuse, NY, 13244, USA"
+phone = ""
+address = "144 White Hall, Syracuse, NY 13244, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = "By Appointment"
@@ -67,7 +67,7 @@ appointment_url = "https://calendly.com/gabriel-merrin"
 contact_links = [
   {icon = "google-scholar", icon_pack = "ai", name = "Goole Scholar", link = "https://scholar.google.ca/citations?user=BKiMGCkAAAAJ&hl=en"},
   {icon = "researchgate", icon_pack = "fab", name = "Research Gate", link = "https://www.researchgate.net/profile/Gabriel_Merrin"},
-  {icon = "twitter", icon_pack = "fab", name = "@gjmerrin", link = "https://twitter.com/GJMerrin?lang=en"},
+
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:gjmerrin"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},

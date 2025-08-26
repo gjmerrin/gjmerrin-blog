@@ -9,14 +9,14 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Featured Publications"
-subtitle = ""
+subtitle = "Highlighting key contributions to prevention science and methodology"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 5
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -62,3 +62,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+**[View All Publications →](/publication/)**
+
+*77 peer-reviewed publications with 2,521 total citations*
