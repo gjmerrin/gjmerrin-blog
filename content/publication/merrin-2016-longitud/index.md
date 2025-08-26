@@ -63,8 +63,3 @@ slides: ""
 ---
 
 This study examines the longitudinal associations between substance use, crime, and social risk among emerging adults: a longitudinal within and between-person latent variables analysis.
-
-
-
-**DOI:** https://doi.org/10.1016/j.drugalcdep.2016.05.009.
-

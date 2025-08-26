@@ -77,8 +77,3 @@ slides: ""
 ---
 
 This study examines an rct of sources of strength high school primary prevention program on sexual violence perpetration and victimization and dismissiveness of sexual harassment.
-
-
-
-**DOI:** https://doi.org/10.1080/2372966X.2022.2164460
-

@@ -59,8 +59,3 @@ slides: ""
 ---
 
 This study examines family violence and adolescent aggressive behavior: the direct and indirect effects of depression and substance use.
-
-
-
-**DOI:** https://doi.org/10.1007/s11469-022-00971-2
-

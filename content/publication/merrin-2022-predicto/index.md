@@ -63,8 +63,3 @@ slides: ""
 ---
 
 This study examines predictors of early-onset cannabis use in adolescence and risks for substance use disorder symptoms in young adulthood.
-
-
-
-**DOI:** https://doi.org/10.1177/00220426211049356
-

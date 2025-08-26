@@ -67,8 +67,3 @@ slides: ""
 ---
 
 This study examines the co-evolution of bullying perpetration, homophobic teasing, and a school friendship network.
-
-
-
-**DOI:** https://doi.org/10.1007/s10964-017-0783-4.
-

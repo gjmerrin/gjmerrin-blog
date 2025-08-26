@@ -59,8 +59,3 @@ slides: ""
 ---
 
 This study examines adverse childhood experiences and emotion dysregulation phenotypes: an intersectional analysis of race/ethnicity and gender in a nationally representative u.
-
-
-
-**DOI:** https://doi.org/10.1016/j.chiabu.2024.107129
-

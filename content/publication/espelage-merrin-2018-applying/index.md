@@ -60,8 +60,3 @@ slides: ""
 ---
 
 This study examines applying social cognitive and social information processing theory to explore relational aggression across early adolescence: a within- and between-person analysis.
-
-
-
-**DOI:** https://doi.org/10.1007/s10964-018-0910-x
-

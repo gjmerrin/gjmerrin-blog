@@ -64,8 +64,3 @@ slides: ""
 ---
 
 This study examines cultivating adolescents' self-compassion through mindfulness: the role of self-regulation at both the individual- and classroom-level.
-
-
-
-**DOI:** https://doi.org/10.1007/s40688-025-00548-5
-

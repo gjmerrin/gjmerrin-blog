@@ -63,6 +63,3 @@ slides: ""
 This study examines differential growth trajectories of behavioral self-regulation from early childhood to adolescence: implications for youth domain-general and school-specific outcomes.
 
 **Student-led research** - This publication was led by a student researcher.
-
-**DOI:** https://doi.org/10.1080/10888691.2024.2405578
-

@@ -1,5 +1,5 @@
 ---
-title: "Thinking critically about unmeasured confounding in non-experimental psychological research: A practical guide to computing and interpreting E-value (Student-led research)"
+title: "Navigating unmeasured confounding in nonexperimental psychological research: A practical guide to computing and interpreting e-value (Student-led research)"
 authors:
   - "Bi"
   - "K."
@@ -25,7 +25,7 @@ publication_types: ["2"]
 publication: "*Advances in Methods and Practices in Psychological Science*, 8(2), 1-21"
 publication_short: "Advances in Methods and Practices in Psychological Science"
 
-abstract: "This study examines thinking critically about unmeasured confounding in non-experimental psychological research: a practical guide to computing and interpreting e-value."
+abstract: "This study examines navigating unmeasured confounding in nonexperimental psychological research: a practical guide to computing and interpreting e-value."
 
 # Summary
 summary: ""
@@ -66,9 +66,7 @@ projects: []
 slides: ""
 ---
 
-This study examines thinking critically about unmeasured confounding in non-experimental psychological research: a practical guide to computing and interpreting e-value.
+This study examines navigating unmeasured confounding in nonexperimental psychological research: a practical guide to computing and interpreting e-value.
 
 **Student-led research** - This publication was led by a student researcher.
-
-**DOI:** https://doi.org/10.1177/25152459251326571
 

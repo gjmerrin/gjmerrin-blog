@@ -63,8 +63,3 @@ slides: ""
 ---
 
 This study examines victimization, suicidal ideation, and intersectionality among lgbq youth and students with disabilities.
-
-
-
-**DOI:** https://doi.org/10.1177/0014402917736261.
-

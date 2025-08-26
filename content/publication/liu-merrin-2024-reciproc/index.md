@@ -61,6 +61,3 @@ slides: ""
 This study examines reciprocal associations between parenting behaviors and children's self-regulation during the transition from early to middle childhood.
 
 **Student-led research** - This publication was led by a student researcher.
-
-**DOI:** https://doi.org/10.1007/s10826-023-02703-z
-

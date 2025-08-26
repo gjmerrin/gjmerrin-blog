@@ -63,6 +63,3 @@ slides: ""
 This study examines social-emotional functioning among bias-based bullies, victims, and bully-victims.
 
 **Student-led research** - This publication was led by a student researcher.
-
-**DOI:** https://doi.org/10.1037/spq0000620
-

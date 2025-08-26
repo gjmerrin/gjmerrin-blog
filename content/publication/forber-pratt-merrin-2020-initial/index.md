@@ -62,8 +62,3 @@ slides: ""
 ---
 
 This study examines initial factor exploration of disability identity.
-
-
-
-**DOI:** https://doi.org/10.1037/rep0000308
-

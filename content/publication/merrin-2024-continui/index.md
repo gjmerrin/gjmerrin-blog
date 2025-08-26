@@ -68,8 +68,3 @@ slides: ""
 ---
 
 This study examines continuity and change in substance use patterns during the transition from adolescence to young adulthood: examining changes in social roles.
-
-
-
-**DOI:** https://doi.org/10.1007/s11469-024-01342-9
-

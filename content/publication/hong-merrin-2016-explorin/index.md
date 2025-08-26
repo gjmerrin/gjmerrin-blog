@@ -61,8 +61,3 @@ slides: ""
 ---
 
 This study examines exploring the social-ecological determinants of physical fighting in u.
-
-
-
-**DOI:** https://doi.org/10.1007/s10566-015-9330-1.
-

@@ -66,6 +66,3 @@ slides: ""
 This study examines religiosity and associations with substance use and delinquency among urban african american adolescents.
 
 **Student-led research** - This publication was led by a student researcher.
-
-**DOI:** https://doi.org/10.1007/s10943-023-01916-2
-

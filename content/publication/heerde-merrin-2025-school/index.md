@@ -65,8 +65,3 @@ slides: ""
 ---
 
 This study examines school suspension as a predictor of young adult homelessness: the international youth development study.
-
-
-
-**DOI:** https://doi.org/10.1007/s10935-025-00829-y
-

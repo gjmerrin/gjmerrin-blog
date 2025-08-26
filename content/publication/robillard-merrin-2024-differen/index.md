@@ -67,6 +67,3 @@ slides: ""
 This study examines different self-damaging behaviors, similar motives? testing measurement invariance of motives for nonsucidal self-injury, disordered eating, and substance misuse.
 
 **Student-led research** - This publication was led by a student researcher.
-
-**DOI:** https://doi.org/10.1111/bjc.12467
-

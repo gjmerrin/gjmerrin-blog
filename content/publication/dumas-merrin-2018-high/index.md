@@ -63,8 +63,3 @@ slides: ""
 ---
 
 This study examines if you're high status and you know it: teasing apart the within- and between-person effects of peer-nominated and self-reported status in the drinking group on alcohol-related outcomes.
-
-
-
-**DOI:** https://doi.org/10.1037/adb0000352.
-

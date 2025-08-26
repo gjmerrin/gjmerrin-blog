@@ -63,8 +63,3 @@ slides: ""
 ---
 
 This study examines psychometric properties of the disability identity development scale: confirmatory factor and bifactor analyses.
-
-
-
-**DOI:** https://doi.org/10.1037/rep0000445
-

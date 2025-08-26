@@ -60,8 +60,3 @@ slides: ""
 ---
 
 This study examines family violence, sibling, and peer aggression during adolescence: associations with behavioral health outcomes.
-
-
-
-**DOI:** https://doi.org/10.3389/fpsyt.2020.00026
-

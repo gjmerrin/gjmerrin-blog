@@ -60,8 +60,3 @@ slides: ""
 ---
 
 This study examines school disorder and dropping out: the intersection of gender, race, and ethnicity.
-
-
-
-**DOI:** https://doi.org/10.1177/0044118X16668059.
-

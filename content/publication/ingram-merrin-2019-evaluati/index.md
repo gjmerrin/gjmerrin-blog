@@ -65,8 +65,3 @@ slides: ""
 ---
 
 This study examines evaluation of a virtual reality enhanced bullying prevention curriculum pilot trial.
-
-
-
-**DOI:** https://doi.org/10.1016/j.adolescence.2018.12.006
-

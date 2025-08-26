@@ -58,8 +58,3 @@ slides: ""
 ---
 
 This study examines exploring the intersections of disability, race and gender on student outcomes in high school.
-
-
-
-**DOI:** https://doi.org/10.1177/0741932520941201
-

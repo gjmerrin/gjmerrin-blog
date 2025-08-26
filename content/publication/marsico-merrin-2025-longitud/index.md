@@ -67,6 +67,3 @@ slides: ""
 This study examines longitudinal associations between witnessing bias-based harassment and mental health functioning.
 
 **Student-led research** - This publication was led by a student researcher.
-
-**DOI:** https://doi.org/10.1080/15388220.2025.2524335
-

@@ -68,6 +68,3 @@ slides: ""
 This study examines the joint operations of teacher-student and peer relationships on classroom engagement among low-achieving elementary students: a longitudinal multilevel study.
 
 **Student-led research** - This publication was led by a student researcher.
-
-**DOI:** https://doi.org/10.1016/j.cedpsych.2024.102258
-

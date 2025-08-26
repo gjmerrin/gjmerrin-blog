@@ -66,8 +66,3 @@ slides: ""
 ---
 
 This study examines longitudinal associations between adult-supervised drinking during adolescence and alcohol misuse from ages 25–31 years: a comparison of australia and the united states.
-
-
-
-**DOI:** https://doi.org/10.1016/j.addbeh.2024.107984
-

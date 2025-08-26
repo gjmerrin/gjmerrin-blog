@@ -72,8 +72,3 @@ slides: ""
 ---
 
 This study examines adverse childhood experiences and bullying during adolescence: a systematic literature review of two decades.
-
-
-
-**DOI:** https://doi.org/10.1007/s40894-023-00229-5
-

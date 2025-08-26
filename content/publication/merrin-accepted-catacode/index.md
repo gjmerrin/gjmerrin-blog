@@ -23,13 +23,16 @@ publication_types: ["2"]
 publication: "*Advances in Methods and Practices in Psychological Science.*"
 publication_short: "Advances in Methods and Practices in Psychological Science."
 
-abstract: "This study examines catacode: a principled approach for coding check-all-that-apply demographic items."
+abstract: "CATAcode provides a principled approach for coding check-all-that-apply demographic items in survey research. This R package implements systematic methods for handling multiple response data."
 
 # Summary
 summary: ""
 
 tags:
-- Adolescent Development
+- Methodology
+- Survey Research
+- R Package
+- Demographic Analysis
 
 # Display this page in the Featured widget?
 featured: true
@@ -42,7 +45,7 @@ links:
 
 
 url_pdf: ""
-url_code: ""
+url_code: "https://github.com/knickodem/CATAcode"
 url_dataset: ""
 url_poster: ""
 url_project: ""
@@ -63,9 +66,8 @@ projects: []
 slides: ""
 ---
 
-This study examines catacode: a principled approach for coding check-all-that-apply demographic items.
+CATAcode provides a principled approach for coding check-all-that-apply demographic items in survey research. This R package implements systematic methods for handling multiple response data.
 
+**GitHub Repository:** [CATAcode R Package](https://github.com/knickodem/CATAcode)
 
-
-
-
+**Status:** Submitted to CRAN - will be available in R soon!

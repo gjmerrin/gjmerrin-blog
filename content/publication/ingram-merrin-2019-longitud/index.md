@@ -67,8 +67,3 @@ slides: ""
 ---
 
 This study examines longitudinal associations between toxic masculinity and bystander willingness to intervene in bullying among middle school boys.
-
-
-
-**DOI:** https://doi.org/10.1016/j.jsp.2019.10.007
-

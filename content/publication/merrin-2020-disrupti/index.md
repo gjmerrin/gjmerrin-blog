@@ -61,8 +61,3 @@ slides: ""
 ---
 
 This study examines disruption of transitions in high-risk substance use from adolescence to young adulthood: school, employment, and romantic relationship factors.
-
-
-
-**DOI:** https://doi.org/10.1080/10826084.2020.1729200
-

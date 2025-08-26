@@ -66,8 +66,3 @@ slides: ""
 ---
 
 This study examines the roles of alcohol availability, overserving, and enforcement in recreational and social settings on alcohol misuse and harms: a comparison of australia and the united states.
-
-
-
-**DOI:** https://doi.org/10.15288/jsad.24-00036
-

@@ -61,8 +61,3 @@ slides: ""
 ---
 
 This study examines social ecological determinants of substance use treatment entry among serious juvenile offenders from adolescences through emerging adulthood.
-
-
-
-**DOI:** https://doi.org/10.1016/j.jsat.2016.08.004.
-

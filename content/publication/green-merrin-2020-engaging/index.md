@@ -65,8 +65,3 @@ slides: ""
 ---
 
 This study examines engaging professional sports to reduce bullying: an evaluation of the boston vs.
-
-
-
-**DOI:** https://doi.org/10.1080/15388220.2019.1709849
-

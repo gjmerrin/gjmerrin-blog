@@ -63,6 +63,3 @@ slides: ""
 This study examines associations between early material hardship and behavioral self-regulation development across childhood: a person-centered approach.
 
 **Student-led research** - This publication was led by a student researcher.
-
-**DOI:** https://doi.org/10.1080/15427609.2024.2310449
-

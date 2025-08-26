@@ -63,8 +63,3 @@ slides: ""
 ---
 
 This study examines a longitudinal analysis of risk and protective factors of bias-based bullying victimization among adolescents.
-
-
-
-**DOI:** https://doi.org/10.1177/08862605251318276
-

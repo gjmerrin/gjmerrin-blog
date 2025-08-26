@@ -59,8 +59,3 @@ slides: ""
 ---
 
 This study examines peer victimization and suicidality among lgbtq youth: the protective roles of self-compassion, school belonging, and parental support.
-
-
-
-**DOI:** https://doi.org/10.1080/19361653.2018.1543036
-

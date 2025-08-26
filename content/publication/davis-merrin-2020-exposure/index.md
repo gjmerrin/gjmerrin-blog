@@ -61,8 +61,3 @@ slides: ""
 ---
 
 This study examines exposure to parental and community violence and the relationship to bullying perpetration and victimization among early adolescents: a parallel process growth mixture latent transition analysis.
-
-
-
-**DOI:** https://doi.org/10.1111/sjop.12493
-

@@ -56,8 +56,3 @@ slides: ""
 ---
 
 This study examines who benefits from universal sel programming?: assessment of second step© using a growth mixture modeling approach.
-
-
-
-**DOI:** https://doi.org/10.1007/s12310-022-09542-1
-

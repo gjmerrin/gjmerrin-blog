@@ -61,8 +61,3 @@ slides: ""
 ---
 
 This study examines adolescent patterns of peer victimization: concurrent and longitudinal health correlates.
-
-
-
-**DOI:** https://doi.org/10.1111/jabr.12151
-

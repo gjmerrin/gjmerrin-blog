@@ -64,8 +64,3 @@ slides: ""
 ---
 
 This study examines a prospective study of sexual risk patterns associated with delinquency and justice involvement among child welfare system-involved adolescent males.
-
-
-
-**DOI:** https://doi.org/10.1111/psrh.12255
-

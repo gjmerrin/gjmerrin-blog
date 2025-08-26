@@ -63,8 +63,3 @@ slides: ""
 ---
 
 This study examines examining classes of bully perpetration among latinx high school students and associations with substance use and mental health.
-
-
-
-**DOI:** https://doi.org/10.1007/s42380-019-00028-4
-

@@ -60,8 +60,3 @@ slides: ""
 ---
 
 This study examines patterns of marijuana use and physical health indicators among canadian youth.
-
-
-
-**DOI:** https://doi.org/10.1002/ijop.12549
-

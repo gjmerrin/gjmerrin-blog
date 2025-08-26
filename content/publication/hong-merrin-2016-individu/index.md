@@ -64,8 +64,3 @@ slides: ""
 ---
 
 This study examines individual and contextual factors associated with immigrant youth's feeling unsafe in school: a social-ecological analysis.
-
-
-
-**DOI:** https://doi.org/10.1007/s10903-015-0242-9.
-

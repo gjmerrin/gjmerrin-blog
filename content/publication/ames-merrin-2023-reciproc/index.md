@@ -62,8 +62,3 @@ slides: ""
 ---
 
 This study examines reciprocal associations between physical activity, self-concept, somatic symptoms, and depression from adolescence to young adulthood: disaggregating within- and between-person effects.
-
-
-
-**DOI:** https://doi.org/10.1016/j.mhpa.2023.100513
-

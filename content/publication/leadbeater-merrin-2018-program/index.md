@@ -60,8 +60,3 @@ slides: ""
 ---
 
 This study examines how program users enhance fidelity: implementing the wits programs in rural canadian elementary schools.
-
-
-
-**DOI:** https://doi.org/10.1007/s11121-018-0948-8
-

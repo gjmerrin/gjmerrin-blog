@@ -59,8 +59,3 @@ slides: ""
 ---
 
 This study examines transitions in the use of multiple substances from adolescence to young adulthood.
-
-
-
-**DOI:** https://doi.org/10.1016/j.drugalcdep.2018.05.015
-

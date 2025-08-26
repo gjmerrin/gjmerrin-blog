@@ -62,8 +62,3 @@ slides: ""
 ---
 
 This study examines harsh parenting among veterans: parents' military-related ptsd, mentalization, and pre-military trauma.
-
-
-
-**DOI:** https://doi.org/10.3389/fpsyg.2023.1283801
-

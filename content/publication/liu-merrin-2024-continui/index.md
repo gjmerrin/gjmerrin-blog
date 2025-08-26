@@ -63,6 +63,3 @@ slides: ""
 This study examines continuity and change in early material hardship domains on the development of children's behavioral self-regulation in middle childhood.
 
 **Student-led research** - This publication was led by a student researcher.
-
-**DOI:** https://doi.org/10.1016/j.childyouth.2024.107995
-

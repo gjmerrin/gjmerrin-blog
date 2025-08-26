@@ -57,8 +57,3 @@ slides: ""
 ---
 
 This study examines do adolescent patterns of polysubstance use predict differential use of substances in young adulthood? journal of substance use and misuse 53(13), 2112 - 2124.
-
-
-
-**DOI:** https://doi.org/10.1080/10826084.2018.1455702
-

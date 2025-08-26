@@ -60,8 +60,3 @@ slides: ""
 ---
 
 This study examines bias-based harassment among u.
-
-
-
-**DOI:** https://doi.org/10.1007/s12310-024-09648-8
-

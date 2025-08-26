@@ -65,8 +65,3 @@ slides: ""
 ---
 
 This study examines poly-victimization and trajectories of binge drinking from adolescence to young adulthood among serious juvenile offenders.
-
-
-
-**DOI:** https://doi.org/10.1016/j.drugalcdep.2018.01.006.
-

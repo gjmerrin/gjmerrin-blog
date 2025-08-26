@@ -62,6 +62,3 @@ slides: ""
 This study examines assessing the longitudinal measurement invariance of the conflict in adolescent dating relationship inventory (cadri) across heterosexual and sexual minority adolescents in the united states.
 
 **Student-led research** - This publication was led by a student researcher.
-
-**DOI:** https://doi.org/10.1037/vio0000452
-

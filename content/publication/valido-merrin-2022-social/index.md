@@ -71,8 +71,3 @@ slides: ""
 ---
 
 This study examines social-ecological predictors of homophobic name-calling perpetration and victimization among early adolescents.
-
-
-
-**DOI:** https://doi.org/10.1177/02724316211002271
-

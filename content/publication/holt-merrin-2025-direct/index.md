@@ -64,8 +64,3 @@ slides: ""
 ---
 
 This study examines direct and witnessed bias-based harassment exposures among adolescents: associations with functioning and the influence of protective factors.
-
-
-
-**DOI:** https://doi.org/10.1891/VV-2023-0027
-

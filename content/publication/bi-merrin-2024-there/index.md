@@ -68,6 +68,3 @@ slides: ""
 This study examines are there reciprocal interplays among chinese adolescents', fathers', and mothers' depression at the within-family level? a family systems perspective.
 
 **Student-led research** - This publication was led by a student researcher.
-
-**DOI:** https://doi.org/10.1037/abn0000883
-

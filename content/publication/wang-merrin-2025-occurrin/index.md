@@ -62,8 +62,3 @@ slides: ""
 ---
 
 This study examines co-occurring early adolescent aces and associations with later peer relationships.
-
-
-
-**DOI:** https://doi.org/10.1007/s10964-025-02157-0
-

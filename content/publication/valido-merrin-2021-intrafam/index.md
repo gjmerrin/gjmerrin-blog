@@ -64,8 +64,3 @@ slides: ""
 ---
 
 This study examines intrafamilial violence and verbal and physical aggression among early adolescents: moderating role of school sense of belonging.
-
-
-
-**DOI:** https://doi.org/10.1007/s10896-020-00142-8
-

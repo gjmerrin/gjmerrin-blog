@@ -60,8 +60,3 @@ slides: ""
 ---
 
 This study examines examining social-ecological predictors of youth gang entry among serious juvenile offenders: a survival analysis.
-
-
-
-**DOI:** https://doi.org/10.1037/ort0000491
-

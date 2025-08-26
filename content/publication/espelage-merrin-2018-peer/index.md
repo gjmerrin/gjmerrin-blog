@@ -59,8 +59,3 @@ slides: ""
 ---
 
 This study examines peer victimization and dating violence among lgbtq youth: the impact of school violence and crime on mental health outcomes.
-
-
-
-**DOI:** https://doi.org/10.1177/1541204016680408.
-

@@ -60,8 +60,3 @@ slides: ""
 ---
 
 This study examines associations between marijuana use trajectories and educational and occupational success in adulthood.
-
-
-
-**DOI:** https://doi.org/10.1007/s11121-018-0904-7
-

@@ -62,8 +62,3 @@ slides: ""
 ---
 
 This study examines examining the effectiveness of the wits programs in the context of variability in trajectories of child development.
-
-
-
-**DOI:** https://doi.org/10.1007/s11121-021-01327-3
-

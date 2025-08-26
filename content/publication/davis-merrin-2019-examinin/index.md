@@ -65,8 +65,3 @@ slides: ""
 ---
 
 This study examines examining pathways between bully victimization, depression, & school belonging among early adolescents.
-
-
-
-**DOI:** https://doi.org/10.1007/s10826-019-01340-9
-

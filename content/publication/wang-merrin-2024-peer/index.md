@@ -71,8 +71,3 @@ slides: ""
 ---
 
 This study examines peer relations of adolescents with adverse childhood experiences: a systematic review of two decades.
-
-
-
-**DOI:** https://doi.org/10.1007/s40894-023-00226-8
-

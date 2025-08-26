@@ -65,8 +65,3 @@ slides: ""
 ---
 
 This study examines effect of victimization on impulse control and binge drinking among juvenile delinquents from adolescence to young adulthood.
-
-
-
-**DOI:** https://doi.org/10.1007/s10964-017-0676-6.
-

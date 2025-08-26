@@ -61,8 +61,3 @@ slides: ""
 ---
 
 This study examines bullying as a developmental precursor to sexual violence throughout adolescence: decade in review.
-
-
-
-**DOI:** https://doi.org/10.1177/15248380211043811
-
