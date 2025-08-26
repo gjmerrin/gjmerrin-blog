@@ -53,10 +53,10 @@ The **Methodology, Adolescent Development, and Problem Behavior (MAP) Lab** comb
 
 ### Current Focus Areas
 
-- **🎯 Identity-Based Harassment Research** - NIJ-funded nationwide studies
-- **📊 Advanced Statistical Methods** - Growth mixture modeling, machine learning  
-- **🧠 Prevention Science** - School-based intervention evaluation
-- **🌈 LGBTQ+ Youth Advocacy** - Evidence-based support strategies
+- **Identity-Based Harassment Research** - NIJ-funded nationwide studies
+- **Advanced Statistical Methods** - Growth mixture modeling, machine learning  
+- **Prevention Science** - School-based intervention evaluation
+- **LGBTQ+ Youth Advocacy** - Evidence-based support strategies
 
 ### Lab Highlights
 
@@ -71,4 +71,4 @@ The **Methodology, Adolescent Development, and Problem Behavior (MAP) Lab** comb
 - **SEL Research**: Groundbreaking work on differential effectiveness of social-emotional learning programs  
 - **Open Science**: Committed to reproducible research and transparent methodological practices
 
-[Explore the MAP Lab →](/lab/)    Peer Experiences Project
+[Explore the MAP Lab](/lab/)
