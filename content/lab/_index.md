@@ -11,15 +11,11 @@ view: 3
 
 # Optional header image.
 header:
-  caption: ""
-  image: ""
+  caption: "Map Lab"
+  image: "MAP-LAB-LOGO"
 ---
 
 # The **M**ethodology, **A**dolescent Development, and **P**roblem Behavior (**MAP**) Lab
-
-image:
-  caption: MAP Lab
-  focal_point: Smart
 
 Welcome to the MAP Lab at Syracuse University, directed by Dr. Gabriel J. Merrin. Our lab is dedicated to advancing our understanding of adolescent development while translating research findings into practical prevention and intervention strategies that improve outcomes for young people.
 
