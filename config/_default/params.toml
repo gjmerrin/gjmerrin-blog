@@ -12,10 +12,10 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Dr. Gabriel J. Merrin - Assistant Professor at Syracuse University. Expert in adolescent development, identity-based harassment, prevention science, and longitudinal quantitative methods."
+description = "Dr. Gabriel J. Merrin - Assistant Professor at Syracuse University. Prevention scientist and applied methodologist advancing resilience, equity, and positive youth development through rigorous quantitative methods."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "MAP-LAB-LOGO.png"
+sharing_image = "MAP-LAB-LOGO-2.png"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = ""
