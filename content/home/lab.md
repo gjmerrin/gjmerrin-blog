@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "The MAP Lab"
-subtitle = "Methodology, Adolescent Development, and Problem Behavior Laboratory"
+subtitle = "Methodology, Adolescent Development, and Prevention Laboratory"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,14 +49,15 @@ subtitle = "Methodology, Adolescent Development, and Problem Behavior Laboratory
 
 ## 🔬 Research Excellence at Syracuse
 
-The **Methodology, Adolescent Development, and Problem Behavior (MAP) Lab** combines cutting-edge methodologies with applied prevention science to improve outcomes for adolescents, particularly those from marginalized communities.
+The **Methodology, Adolescent Development, and Prevention (MAP) Lab** combines cutting-edge methodologies with applied prevention science to improve outcomes for adolescents, particularly those from marginalized communities. Our work emphasizes resilience, equity, and the application of advanced quantitative methods to foster positive youth development.
 
 ### Current Focus Areas
 
-- **Identity-Based Harassment Research** - NIJ-funded nationwide studies
-- **Advanced Statistical Methods** - Growth mixture modeling, machine learning  
-- **Prevention Science** - School-based intervention evaluation
-- **LGBTQ+ Youth Advocacy** - Evidence-based support strategies
+- **School-Based Prevention** - Comprehensive intervention research and program evaluation
+- **Resilience & Equity** - Promoting positive development across diverse youth populations
+- **Advanced Methodological Innovation** - Growth mixture modeling, network analysis, machine learning  
+- **Harassment Prevention** - NIJ-funded nationwide studies on identity-based harassment
+- **Trauma-Informed Practices** - ACEs research informing prevention strategies
 
 ### Lab Highlights
 
@@ -67,8 +68,10 @@ The **Methodology, Adolescent Development, and Problem Behavior (MAP) Lab** comb
 
 ### Recent Research Impact
 
-- **NIJ Funding**: Leading nationwide study on bias-based harassment with Boston University collaboration
-- **SEL Research**: Groundbreaking work on differential effectiveness of social-emotional learning programs  
+- **NIJ Funding**: Leading nationwide study on bias-based harassment prevention with Boston University collaboration
+- **Prevention Innovation**: Groundbreaking work on differential effectiveness of school-based prevention programs
+- **Methodological Contributions**: Development of CATAcode R package for demographic data analysis
 - **Open Science**: Committed to reproducible research and transparent methodological practices
+- **Community Engagement**: Translating research findings into actionable prevention strategies
 
 [Explore the MAP Lab](/lab/)

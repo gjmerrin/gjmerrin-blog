@@ -1,6 +1,6 @@
 ---
 title: 
-summary: "The MAP Lab at Syracuse University focuses on translating rigorous developmental research into actionable prevention and intervention strategies for adolescents."
+summary: "The MAP Lab at Syracuse University advances understanding of resilience, equity, and positive youth development through rigorous quantitative methods and community-engaged research."
 date: "2024-01-01"
 
 # View.
@@ -15,24 +15,24 @@ header:
   image: ""
 ---
 
-# The **M**ethodology, **A**dolescent Development, and **P**roblem Behavior (**MAP**) Lab
+# The **M**ethodology, **A**dolescent Development, and **P**revention (**MAP**) Lab
 
-Welcome to the MAP Lab at Syracuse University, directed by Dr. Gabriel J. Merrin. Our lab is dedicated to advancing our understanding of adolescent development while translating research findings into practical prevention and intervention strategies that improve outcomes for young people.
+Welcome to the MAP Lab at Syracuse University, directed by Dr. Gabriel J. Merrin. Our lab is dedicated to advancing understanding of how risk and protective processes shape adolescent development and the transition to young adulthood. Our work emphasizes resilience, equity, and the translation of rigorous quantitative methods into actionable prevention strategies that improve outcomes for youth and families.
 
 ## Our Mission
 
-The MAP Lab leverages innovative methods and advanced statistical approaches to understand how adolescents' experiences across multiple contexts (families, peers, schools, and communities) influence developmental trajectories. We are particularly committed to improving outcomes for marginalized youth and addressing disparities in adolescent wellbeing.
+The MAP Lab combines cutting-edge methodologies with applied prevention science to examine how individual, peer, family, school, and community contexts interact to influence developmental pathways. Our work highlights not only risks but also protective factors that promote resilience and positive development, with particular attention to equity and outcomes for marginalized youth populations.
 
 ## Research Focus Areas
 
-### **Identity-Based Harassment & Victimization**
-Examining the development, persistence, and consequences of bias-based harassment among adolescents, with special attention to LGBTQ+ youth and other marginalized populations.
+### **School-Based Prevention and Harassment**
+Investigating how school environments shape adolescent development, with a focus on bullying and identity-based harassment. This work uses longitudinal models, social network methods, and randomized controlled trials to evaluate school-based prevention programs such as Second Step, WITS, Boston vs. Bullies, and Sources of Strength.
 
-### **Prevention Science & Intervention Evaluation**
-Rigorous evaluation of school-based prevention programs using advanced statistical methods including growth mixture modeling, latent class analysis, and machine learning approaches.
+### **Substance Use and Developmental Transitions**
+Examining trajectories of adolescent and young adult polysubstance use and related developmental changes. Using advanced person-centered methods such as latent class analysis and multidimensional growth mixture modeling, this work explores how shifting social roles contribute to both risk and resilience.
 
-### **Social-Emotional Learning**
-Understanding differential effectiveness of SEL programming across diverse student populations and identifying key mechanisms of change.
+### **Adverse Childhood Experiences (ACEs) and Psychosocial Outcomes**
+Synthesizing decades of research and conducting new longitudinal studies to understand how distinct ACEs shape peer relationships, mental health, and resilience. This work challenges cumulative ACE models and informs trauma-informed, prevention-oriented practices.
 
 ### **Advanced Quantitative Methods**
 Developing and applying innovative statistical approaches to better understand complex developmental processes, including:
@@ -58,18 +58,19 @@ A three-year longitudinal study examining bias-based harassment among adolescent
 
 Evaluating the differential effectiveness of universal SEL programming across diverse student populations using advanced statistical modeling approaches.
 
-### **Adverse Childhood Experiences & Resilience**
-**Longitudinal analysis | Ongoing**
+### **ACEs and Resilience Research**
+**Longitudinal analysis & Systematic Review | Ongoing**
 
-Examining how adverse childhood experiences interact with protective factors to influence peer relationships and behavioral outcomes during adolescence.
+Examining how distinct adverse childhood experiences shape peer relationships, mental health, and resilience through comprehensive systematic reviews and new longitudinal studies that challenge traditional cumulative ACE approaches.
 
 ## Lab Philosophy
 
 We believe in:
-- **Methodological rigor** combined with practical relevance
+- **Prevention-oriented** research that promotes resilience and positive development
+- **Equity and inclusion** in all aspects of our research and practice
+- **Methodological innovation** combined with practical relevance
 - **Open science** practices and reproducible research
-- **Collaborative** approaches that bridge research and practice
-- **Equity-focused** research that centers marginalized voices
+- **Community engagement** that bridges research and practice
 - **Translation** of findings into actionable prevention strategies
 
 ## Research Methods & Tools
