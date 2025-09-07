@@ -13,7 +13,7 @@ authors:
   - "M."
   - "Espelage"
   - "D."
-date: "accepted-01-01"
+date: "2024-01-01"
 doi: ""
 
 # Publication type
@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: "*Advances in Methods and Practices in Psychological Science.*"
 publication_short: "Advances in Methods and Practices in Psychological Science."
 
-abstract: "CATAcode provides a principled approach for coding check-all-that-apply demographic items in survey research. This R package implements systematic methods for handling multiple response data."
+abstract: "CATAcode provides a principled approach for coding check-all-that-apply demographic items in survey research. This R package implements systematic methods for handling multiple response data, offering significant contributions to transparency, generalizability, and reproducibility in research. Now available on CRAN with comprehensive documentation and vignettes."
 
 # Summary
 summary: ""
@@ -46,6 +46,7 @@ links:
 
 url_pdf: ""
 url_code: "https://github.com/knickodem/CATAcode"
+url_source: "https://cran.r-project.org/web/packages/CATAcode/index.html"
 url_dataset: ""
 url_poster: ""
 url_project: ""
@@ -66,8 +67,25 @@ projects: []
 slides: ""
 ---
 
-CATAcode provides a principled approach for coding check-all-that-apply demographic items in survey research. This R package implements systematic methods for handling multiple response data.
+CATAcode provides a principled approach for coding check-all-that-apply demographic items in survey research. This R package implements systematic methods for handling multiple response data, offering significant contributions to transparency, generalizability, and reproducibility in research.
 
-**GitHub Repository:** [CATAcode R Package](https://github.com/knickodem/CATAcode)
+The package addresses critical gaps in measuring and analyzing identity categories in social science research by providing principled methods for coding Check-All-That-Apply demographic items.
 
-**Status:** Submitted to CRAN - will be available in R soon!
+## Package Resources
+
+**📦 CRAN Package:** [CATAcode on CRAN](https://cran.r-project.org/web/packages/CATAcode/index.html)
+
+**📚 Documentation:** [Package Vignette](https://cran.r-project.org/web/packages/CATAcode/vignettes/CATAcode-overview.html)
+
+**💻 GitHub Repository:** [CATAcode R Package](https://github.com/knickodem/CATAcode)
+
+## Installation
+
+The package can now be installed directly from CRAN:
+
+```r
+install.packages("CATAcode")
+library(CATAcode)
+```
+
+**Status:** ✅ **Published on CRAN** - Available for installation in R!

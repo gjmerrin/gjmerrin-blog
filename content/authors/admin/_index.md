@@ -60,7 +60,7 @@ His research includes three interconnected lines of inquiry:
 
 **Methodological Innovations**
 
-Dr. Merrin led the development of **CATAcode**, an innovative R package that addresses critical gaps in measuring and analyzing identity categories in social science research. This tool provides principled methods for coding Check-All-That-Apply demographic items, offering significant contributions to transparency, generalizability, and reproducibility in research.
+Dr. Merrin led the development of **CATAcode**, an innovative R package that addresses critical gaps in measuring and analyzing identity categories in social science research. Now published on [CRAN](https://cran.r-project.org/web/packages/CATAcode/index.html), this tool provides principled methods for coding Check-All-That-Apply demographic items, offering significant contributions to transparency, generalizability, and reproducibility in research. The package includes comprehensive documentation and a [detailed vignette](https://cran.r-project.org/web/packages/CATAcode/vignettes/CATAcode-overview.html) demonstrating its applications across diverse research contexts.
 
 **Recognition & Awards**
 
