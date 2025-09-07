@@ -70,7 +70,7 @@ The **Methodology, Adolescent Development, and Prevention (MAP) Lab** combines c
 
 - **NIJ Funding**: Leading nationwide study on bias-based harassment prevention with Boston University collaboration
 - **Prevention Innovation**: Groundbreaking work on differential effectiveness of school-based prevention programs
-- **Methodological Contributions**: Development of CATAcode R package for demographic data analysis
+- **Methodological Contributions**: [CATAcode R package](https://cran.r-project.org/web/packages/CATAcode/index.html) now published on CRAN for demographic data analysis
 - **Open Science**: Committed to reproducible research and transparent methodological practices
 - **Community Engagement**: Translating research findings into actionable prevention strategies
 

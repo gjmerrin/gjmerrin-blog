@@ -82,6 +82,7 @@ Our lab specializes in:
 - **Network analysis** for understanding peer relationships
 - **Reproducible workflows** using R, Python, and version control
 - **Community-based participatory research** methods
+- **Demographic data analysis** using our [CATAcode R package](https://cran.r-project.org/web/packages/CATAcode/index.html)
 
 ## Collaborate With Us
 
@@ -96,6 +97,9 @@ We welcome collaborations with:
 
 ### Publications & Presentations
 Our lab has published extensively in top-tier journals including *Prevention Science*, *Journal of School Mental Health*, *Psychology of Violence*, and *Developmental Psychology*.
+
+### CATAcode R Package
+Our lab developed **CATAcode**, an innovative R package now published on [CRAN](https://cran.r-project.org/web/packages/CATAcode/index.html) that addresses critical gaps in measuring and analyzing identity categories in social science research. The package provides principled methods for coding Check-All-That-Apply demographic items and includes a [comprehensive vignette](https://cran.r-project.org/web/packages/CATAcode/vignettes/CATAcode-overview.html) with practical examples.
 
 ### Data & Code Sharing
 We are committed to open science practices and regularly share de-identified datasets and analysis code to advance the field.
