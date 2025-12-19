@@ -11,8 +11,8 @@ view: 3
 
 # Optional header image.
 header:
-  caption: ""
-  image: ""
+  caption: "MAP Lab - Methodology, Adolescent Development, and Prevention"
+  image: "MAP-LAB-LOGO.png"
 ---
 
 # The **M**ethodology, **A**dolescent Development, and **P**revention (**MAP**) Lab
