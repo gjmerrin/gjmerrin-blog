@@ -47,31 +47,32 @@ subtitle = "Methodology, Adolescent Development, and Prevention Laboratory"
  css_class = ""
 +++
 
-## 🔬 Research Excellence at Syracuse
+## 🔬 Research Excellence at Syracuse University
 
-The **Methodology, Adolescent Development, and Prevention (MAP) Lab** combines cutting-edge methodologies with applied prevention science to improve outcomes for adolescents, particularly those from marginalized communities. Our work emphasizes resilience, equity, and the application of advanced quantitative methods to foster positive youth development.
+The **Methodology, Adolescent Development, and Prevention (MAP) Lab** integrates cutting-edge quantitative methodologies with applied prevention science to advance evidence-based interventions that enhance outcomes for adolescents, with particular emphasis on supporting youth from historically marginalized communities. Our scholarly work emphasizes the cultivation of resilience, the promotion of equity, and the rigorous application of advanced quantitative methods to foster positive developmental trajectories.
 
-### Current Focus Areas
+### Research Foci
 
-- **School-Based Prevention** - Comprehensive intervention research and program evaluation
-- **Resilience & Equity** - Promoting positive development across diverse youth populations
-- **Advanced Methodological Innovation** - Growth mixture modeling, network analysis, machine learning  
-- **Harassment Prevention** - NIJ-funded nationwide studies on identity-based harassment
-- **Trauma-Informed Practices** - ACEs research informing prevention strategies
+- **School-Based Prevention Science** - Rigorous intervention research and comprehensive program evaluation utilizing randomized controlled trial designs
+- **Resilience and Equity Promotion** - Investigating protective mechanisms that support positive development across diverse youth populations
+- **Methodological Innovation** - Employing sophisticated analytic techniques including growth mixture modeling, social network analysis, and machine learning applications  
+- **Identity-Based Harassment Prevention** - NIJ-funded multi-site investigations examining root causes and consequences of bias-based harassment
+- **Trauma-Informed Scholarship** - Examining adverse childhood experiences to inform developmentally sensitive prevention frameworks
 
-### Lab Highlights
+### Scholarly Impact
 
 - **2,500+** Research Citations
-- **10+** Years School Research Experience  
+- **10+** Years of School-Based Research Experience  
 - **77** Peer-Reviewed Publications
-- **NIJ Funding** - Leading nationwide study on bias-based harassment
+- **13** Student-Led Publications
+- **NIJ Funding** - Principal investigator on nationwide study examining bias-based harassment
 
-### Recent Research Impact
+### Recent Research Contributions
 
-- **NIJ Funding**: Leading nationwide study on bias-based harassment prevention with Boston University collaboration
-- **Prevention Innovation**: Groundbreaking work on differential effectiveness of school-based prevention programs
-- **Methodological Contributions**: [CATAcode R package](https://cran.r-project.org/web/packages/CATAcode/index.html) now published on CRAN for demographic data analysis
-- **Open Science**: Committed to reproducible research and transparent methodological practices
-- **Community Engagement**: Translating research findings into actionable prevention strategies
+- **Federal Funding**: Leading multi-site investigation on bias-based harassment prevention through NIJ support in collaboration with Boston University
+- **Prevention Innovation**: Pioneering work examining differential effectiveness and heterogeneous treatment effects in school-based prevention programming
+- **Methodological Development**: [CATAcode R package](https://cran.r-project.org/web/packages/CATAcode/index.html) published on CRAN, advancing principled approaches to demographic measurement and analysis
+- **Open Science Commitment**: Dedicated to transparent, reproducible research practices and methodological rigor
+- **Community-Engaged Scholarship**: Actively translating empirical findings into actionable, evidence-based prevention strategies for community partners
 
 [Explore the MAP Lab](/lab/)
