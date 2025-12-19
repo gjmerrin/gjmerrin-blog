@@ -27,13 +27,15 @@ date_format = "Jan 2006"
   date_start = "2021-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Primary responsibilities include:
   
-  * Research
-  * Teaching
-  * Mentorship
-  * Grant Writing 
-  * Community Outreach and Engagement
+  * Directing the Methodology, Adolescent Development, and Prevention (MAP) Lab
+  * Conducting NIH-funded research on bias-based harassment and adolescent development
+  * Teaching undergraduate and graduate courses on child and adolescent development, risk and resilience, and advanced quantitative methods
+  * Mentoring undergraduate and graduate students, supporting 13 student-led publications
+  * Developing and managing extramural grant funding
+  * Collaborating with schools and community organizations on evidence-based prevention initiatives
+  * Serving on community boards advancing youth mental health and well-being
   """
 
 [[experience]]
@@ -43,15 +45,15 @@ date_format = "Jan 2006"
   company_url = "http://www.depts.ttu.edu/hs/hdfs/"
   location = "Lubbock, Texas"
   date_start = "2019-09-01"
-  date_end = "2021-08-15"
+  date_end = "2021-08-31"
   description = """
-  Responsibilities include:
+  Primary responsibilities included:
   
-  * Research
-  * Teaching
-  * Mentorship
-  * Grant Writing 
-  * Community Outreach and Engagement
+  * Conducting developmental research on adolescent risk and resilience
+  * Teaching graduate courses in advanced quantitative methods and structural equation modeling
+  * Mentoring undergraduate and graduate students in research
+  * Developing grant proposals and building collaborative research partnerships
+  * Engaging in community-based prevention science initiatives
   """
 
 [[experience]]
@@ -60,15 +62,15 @@ date_format = "Jan 2006"
   *Department of Health Management and Informatics*"""
   company_url = "https://ccie.ucf.edu/hmi/"
   location = "Orlando, Florida"
-  date_start = "2018-12-20"
+  date_start = "2018-12-01"
   date_end = "2019-08-31"
   description = """
-  Responsibilities include:
+  Primary responsibilities included:
   
-  * R Programming
-  * Reproducible Workflows
-  * Data Science
-  * Research
+  * Developing advanced R programming workflows for health data analysis
+  * Creating reproducible research pipelines and data science methodologies
+  * Conducting quantitative research in health management
+  * Contributing to interdisciplinary health informatics projects
   """
 
 [[experience]]
@@ -77,13 +79,14 @@ date_format = "Jan 2006"
   *Department of Psychology*"""
   company_url = "https://www.uvic.ca/socialsciences/psychology/"
   location = "Victoria, British Columbia"
-  date_start = "2017-08-15"
+  date_start = "2017-05-01"
   date_end = "2018-11-30"
   description = """
-  Responsibilities include:
+  Primary responsibilities included:
   
-  * Research
-  * Teaching
-  * Grant Writing
+  * Conducting longitudinal research on adolescent substance use trajectories
+  * Teaching undergraduate courses in psychology
+  * Developing grant proposals and securing external funding
+  * Collaborating on international youth development studies
   """
 +++

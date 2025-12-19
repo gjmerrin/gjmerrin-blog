@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Prevention scientist and applied methodologist advancing resilience, equity, and positive youth development through rigorous quantitative methods and community-engaged research.
+bio: Prevention scientist and applied developmental methodologist advancing adolescent resilience, equity, and positive development through rigorous quantitative methods and community-engaged scholarship.
 education:
   courses:
   - course: Ph.D. in Educational Psychology
@@ -15,12 +15,11 @@ education:
     year: 2009
 email: "gjmerrin@syr.edu"
 interests: 
-- Prevention science and school-based intervention research
-- Resilience and positive youth development
-- Identity-based harassment prevention and equity
-- Adverse childhood experiences and trauma-informed practices
-- Advanced quantitative methods and methodological innovation
-- Open science and reproducible research
+- Prevention science and school-based program evaluation
+- Healthy adolescent development in the transition to young adulthood
+- Identity-based harassment, bullying, and psychosocial outcomes
+- Adolescent risk, resilience, and developmental trajectories
+- Longitudinal quantitative methods and R programming
 
 
 name: Gabriel J. Merrin
@@ -44,25 +43,25 @@ user_groups:
 - Visitors
 ---
 
-Dr. Gabriel "Joey" Merrin is an Assistant Professor in the Department of Human Development and Family Science at Syracuse University, where he directs the **Methodology, Adolescent Development, and Prevention (MAP) Lab**. A prevention scientist and applied developmental methodologist, Dr. Merrin's research advances understanding of how risk and protective processes shape adolescent development and the transition to young adulthood. His work emphasizes resilience, equity, and the translation of rigorous quantitative methods into actionable prevention strategies that improve outcomes for youth and families.
+Dr. Gabriel "Joey" Merrin is an Assistant Professor in the Department of Human Development and Family Science at Syracuse University, where he directs the **Methodology, Adolescent Development, and Prevention (MAP) Lab**. As a prevention scientist and applied developmental methodologist, Dr. Merrin's research program advances scholarly understanding of how risk and protective processes interact to shape adolescent development and the transition to young adulthood. His work emphasizes the promotion of resilience and equity through rigorous quantitative methods translated into evidence-based prevention strategies that enhance outcomes for diverse youth and families.
 
 **Research Program**
 
-Dr. Merrin's program of research examines how individual, peer, family, school, and community contexts interact to influence developmental pathways related to harassment, victimization, mental health, and risk behaviors such as substance use and aggression. His work highlights not only risks but also protective factors that promote resilience and positive development.
+Dr. Merrin's program of research systematically examines how individual, peer, family, school, and community contexts interact dynamically to influence developmental pathways related to harassment, victimization, mental health, and risk behaviors including substance use and aggression. His scholarship elucidates not only risk factors but also protective mechanisms that foster resilience and promote positive developmental trajectories.
 
-His research includes three interconnected lines of inquiry:
+His research comprises three interconnected lines of scholarly inquiry:
 
-**School-Based Prevention and Harassment** – Investigating how school environments shape adolescent development, with a focus on bullying and identity-based harassment. This work uses longitudinal models, social network methods, and randomized controlled trials to evaluate school-based prevention programs such as Second Step, WITS, Boston vs. Bullies, and Sources of Strength.
+**School-Based Prevention and Identity-Based Harassment** – Investigating how school environments and peer ecologies shape adolescent developmental outcomes, with particular emphasis on bullying and bias-based harassment. This work employs longitudinal analytical models, social network methods, and rigorous randomized controlled trial designs to evaluate the effectiveness of school-based prevention programs including Second Step, WITS Programs, Boston vs. Bullies, and Sources of Strength. Recent work focuses on understanding the root causes and consequences of bias-based harassment across multiple levels of the social ecology.
 
-**Substance Use and Developmental Transitions** – Examining trajectories of adolescent and young adult polysubstance use and related developmental changes. Using advanced person-centered methods such as latent class analysis and multidimensional growth mixture modeling, this work explores how shifting social roles contribute to both risk and resilience.
+**Substance Use Trajectories and Developmental Transitions** – Examining longitudinal patterns of adolescent and young adult polysubstance use and associated developmental transitions. Utilizing advanced person-centered analytic approaches including latent class analysis, growth mixture modeling, and latent transition analysis, this work elucidates how shifting social roles and contexts (e.g., educational transitions, employment, romantic relationships) contribute to both risk escalation and resilience during critical developmental periods.
 
-**Adverse Childhood Experiences (ACEs) and Psychosocial Outcomes** – Synthesizing decades of research and conducting new longitudinal studies to understand how distinct ACEs shape peer relationships, mental health, and resilience. This work challenges cumulative ACE models and informs trauma-informed, prevention-oriented practices.
+**Adverse Childhood Experiences and Psychosocial Development** – Synthesizing two decades of empirical research and conducting novel longitudinal investigations to understand how distinct adverse childhood experiences differentially shape peer relationships, mental health, and resilience. This work challenges traditional cumulative ACE scoring models by examining specific ACE profiles and their unique developmental consequences, thereby informing more nuanced trauma-informed and prevention-oriented practices.
 
-**Methodological Innovations**
+**Methodological Innovation and Open Science Contributions**
 
-Dr. Merrin led the development of **CATAcode**, an innovative R package that addresses critical gaps in measuring and analyzing identity categories in social science research. Now published on [CRAN](https://cran.r-project.org/web/packages/CATAcode/index.html), this tool provides principled methods for coding Check-All-That-Apply demographic items, offering significant contributions to transparency, generalizability, and reproducibility in research. The package includes comprehensive documentation and a [detailed vignette](https://cran.r-project.org/web/packages/CATAcode/vignettes/CATAcode-overview.html) demonstrating its applications across diverse research contexts.
+Dr. Merrin has spearheaded the development of **CATAcode**, an innovative R package that addresses critical methodological gaps in measuring and analyzing identity categories within social science research. Published on [CRAN](https://cran.r-project.org/web/packages/CATAcode/index.html) and featured in *Advances in Methods and Practices in Psychological Science*, this computational tool provides principled, transparent methods for coding Check-All-That-Apply demographic items. CATAcode makes substantial contributions to measurement transparency, research generalizability, and analytical reproducibility across diverse research contexts. The package includes comprehensive technical documentation and a [detailed methodological vignette](https://cran.r-project.org/web/packages/CATAcode/vignettes/CATAcode-overview.html) demonstrating applications across varied substantive domains.
 
-**Recognition & Awards**
+**Scholarly Recognition**
 
 - **2025-2027 National Institutes of Health Loan Repayment Program Award**
 
@@ -72,12 +71,12 @@ Dr. Merrin led the development of **CATAcode**, an innovative R package that add
 
 - **Texas Tech University 2021-2022 Alumni Association New Faculty Award**
 
-**Laboratory Leadership**
+**Laboratory Leadership and Mentorship**
 
-Dr. Merrin directs the **Methodology, Adolescent Development, and Prevention (MAP) Lab**, which focuses on translating rigorous research into actionable prevention and intervention strategies. The lab has produced **13 student-led publications** and provides extensive mentorship opportunities for both undergraduate and graduate students.
+Dr. Merrin directs the **Methodology, Adolescent Development, and Prevention (MAP) Lab**, which is dedicated to translating rigorous developmental science into actionable, evidence-based prevention and intervention strategies. The lab emphasizes collaborative scholarship and has successfully produced **13 student-led peer-reviewed publications**, providing comprehensive mentorship opportunities that support both undergraduate and graduate student scholarly development.
 
-Together, these efforts place Dr. Merrin's work at the intersection of developmental science, prevention science, and methodological innovation, advancing knowledge while translating findings into meaningful strategies that foster healthy development for diverse youth populations.
+Collectively, these scholarly efforts position Dr. Merrin's work at the critical intersection of developmental science, prevention science, and methodological innovation—advancing theoretical knowledge while simultaneously translating empirical findings into meaningful, practical strategies that foster healthy development across diverse youth populations.
 
-As an applied scholar committed to community impact, Dr. Merrin works with schools and community organizations serving at-risk youth, which includes serving on the board of directors at Elmcrest Children's Center. His work addresses four fundamental questions: (1) What long-term processes influence healthy adolescent development? (2) When and for whom do these processes differ? (3) How do these processes interact? (4) How can findings inform prevention and intervention efforts?
+As an applied scholar deeply committed to community impact, Dr. Merrin collaborates actively with schools and community organizations serving vulnerable youth populations, including serving on the board of directors at Elmcrest Children's Center. His integrated research program addresses four fundamental scientific questions: (1) What longitudinal processes influence healthy adolescent development? (2) When and for whom do these developmental processes operate differently? (3) How do individual and contextual processes interact dynamically over time? (4) How can empirical findings be effectively translated into prevention and intervention efforts that promote positive youth outcomes?
 
 [Download my CV](/files/cv.pdf)
