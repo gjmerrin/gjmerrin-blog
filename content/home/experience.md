@@ -30,9 +30,9 @@ date_format = "Jan 2006"
   Primary responsibilities include:
   
   * Directing the Methodology, Adolescent Development, and Prevention (MAP) Lab
-  * Conducting NIH-funded research on bias-based harassment and adolescent development
+  * Conducting NIJ-funded research on bias-based harassment and adolescent development
   * Teaching undergraduate and graduate courses on child and adolescent development, risk and resilience, and advanced quantitative methods
-  * Mentoring undergraduate and graduate students, supporting 13 student-led publications
+  * Mentoring undergraduate and graduate students
   * Developing and managing extramural grant funding
   * Collaborating with schools and community organizations on evidence-based prevention initiatives
   * Serving on community boards advancing youth mental health and well-being
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   Primary responsibilities included:
   
   * Conducting developmental research on adolescent risk and resilience
-  * Teaching graduate courses in advanced quantitative methods and structural equation modeling
+  * Teaching graduate courses in advanced quantitative methods
   * Mentoring undergraduate and graduate students in research
   * Developing grant proposals and building collaborative research partnerships
   * Engaging in community-based prevention science initiatives
@@ -70,7 +70,6 @@ date_format = "Jan 2006"
   * Developing advanced R programming workflows for health data analysis
   * Creating reproducible research pipelines and data science methodologies
   * Conducting quantitative research in health management
-  * Contributing to interdisciplinary health informatics projects
   """
 
 [[experience]]

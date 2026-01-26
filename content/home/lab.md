@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "The MAP Lab"
-subtitle = "Methodology, Adolescent Development, and Prevention Laboratory"
+subtitle = "**M**ethodology, **A**dolescent Development, and **P**revention Lab"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -47,32 +47,7 @@ subtitle = "Methodology, Adolescent Development, and Prevention Laboratory"
  css_class = ""
 +++
 
-## 🔬 Research Excellence at Syracuse University
 
-The **Methodology, Adolescent Development, and Prevention (MAP) Lab** integrates cutting-edge quantitative methodologies with applied prevention science to advance evidence-based interventions that enhance outcomes for adolescents, with particular emphasis on supporting youth from historically marginalized communities. Our scholarly work emphasizes the cultivation of resilience, the promotion of equity, and the rigorous application of advanced quantitative methods to foster positive developmental trajectories.
-
-### Research Foci
-
-- **School-Based Prevention Science** - Rigorous intervention research and comprehensive program evaluation utilizing randomized controlled trial designs
-- **Resilience and Equity Promotion** - Investigating protective mechanisms that support positive development across diverse youth populations
-- **Methodological Innovation** - Employing sophisticated analytic techniques including growth mixture modeling, social network analysis, and machine learning applications  
-- **Identity-Based Harassment Prevention** - NIJ-funded multi-site investigations examining root causes and consequences of bias-based harassment
-- **Trauma-Informed Scholarship** - Examining adverse childhood experiences to inform developmentally sensitive prevention frameworks
-
-### Scholarly Impact
-
-- **2,500+** Research Citations
-- **10+** Years of School-Based Research Experience  
-- **77** Peer-Reviewed Publications
-- **13** Student-Led Publications
-- **NIJ Funding** - Principal investigator on nationwide study examining bias-based harassment
-
-### Recent Research Contributions
-
-- **Federal Funding**: Leading multi-site investigation on bias-based harassment prevention through NIJ support in collaboration with Boston University
-- **Prevention Innovation**: Pioneering work examining differential effectiveness and heterogeneous treatment effects in school-based prevention programming
-- **Methodological Development**: [CATAcode R package](https://cran.r-project.org/web/packages/CATAcode/index.html) published on CRAN, advancing principled approaches to demographic measurement and analysis
-- **Open Science Commitment**: Dedicated to transparent, reproducible research practices and methodological rigor
-- **Community-Engaged Scholarship**: Actively translating empirical findings into actionable, evidence-based prevention strategies for community partners
+The **Methodology, Adolescent Development, and Prevention (MAP) Lab** combines quantitative methods with applied prevention science to improve outcomes for adolescents, with particular attention to youth from marginalized communities. Our work focuses on resilience, equity, and the use of advanced analytic approaches to understand and support positive development.
 
 [Explore the MAP Lab](/lab/)
