@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Featured Publications"
-subtitle = "Highlighting key contributions to prevention science and methodology"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -64,5 +64,3 @@ subtitle = "Highlighting key contributions to prevention science and methodology
 +++
 
 **[View All Publications →](/publication/)**
-
-*77 peer-reviewed publications with 2,521 total citations*
