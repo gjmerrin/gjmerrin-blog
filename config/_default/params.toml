@@ -66,7 +66,6 @@ appointment_url = "https://calendly.com/gabriel-merrin"
 
 contact_links = [
   {icon = "google-scholar", icon_pack = "ai", name = "Goole Scholar", link = "https://scholar.google.ca/citations?user=BKiMGCkAAAAJ&hl=en"},
-  {icon = "researchgate", icon_pack = "fab", name = "Research Gate", link = "https://www.researchgate.net/profile/Gabriel_Merrin"},
 
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:gjmerrin"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},

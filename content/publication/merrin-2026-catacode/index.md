@@ -13,15 +13,15 @@ authors:
   - "M."
   - "Espelage"
   - "D."
-date: "2024-01-01"
-doi: ""
+date: "2026-01-01"
+doi: "10.1177/25152459251401184"
 
 # Publication type
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
-publication: "*Advances in Methods and Practices in Psychological Science.*"
-publication_short: "Advances in Methods and Practices in Psychological Science."
+publication: "*Advances in Methods and Practices in Psychological Science*, 8(4)"
+publication_short: "Advances in Methods and Practices in Psychological Science"
 
 abstract: "CATAcode provides a principled approach for coding check-all-that-apply demographic items in survey research. This R package implements systematic methods for handling multiple response data, offering significant contributions to transparency, generalizability, and reproducibility in research. Now available on CRAN with comprehensive documentation and vignettes."
 
@@ -44,7 +44,7 @@ links:
 
 
 
-url_pdf: ""
+url_pdf: "https://doi.org/10.1177/25152459251401184"
 url_code: "https://github.com/knickodem/CATAcode"
 url_source: "https://cran.r-project.org/web/packages/CATAcode/index.html"
 url_dataset: ""

@@ -20,7 +20,7 @@ doi: "10.1007/s40688-025-00548-5"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
-publication: "*Contemporary School Psychology 1-12.*"
+publication: "*Contemporary School Psychology*, 1-12"
 publication_short: "Contemporary School Psychology 1-12."
 
 abstract: "This study examines cultivating adolescents' self-compassion through mindfulness: the role of self-regulation at both the individual- and classroom-level."

@@ -20,7 +20,7 @@ doi: "10.1891/VV-2023-0027"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
-publication: "*Violence and Victims*, 1, -43"
+publication: "*Violence and Victims*, 40(5), 1-43"
 publication_short: "Violence and Victims"
 
 abstract: "This study examines direct and witnessed bias-based harassment exposures among adolescents: associations with functioning and the influence of protective factors."

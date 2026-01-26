@@ -16,14 +16,14 @@ authors:
   - "E. A."
   - "Toumbourou"
   - "J. W."
-date: "2024-01-01"
+date: "2025-01-01"
 doi: "10.1007/s11469-024-01342-9"
 
 # Publication type
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
-publication: "*International Journal of Mental Health and Addiction 1-23.*"
+publication: "*International Journal of Mental Health and Addiction*, 23, 4155–4177"
 publication_short: "International Journal of Mental Health and Addiction 1-23."
 
 abstract: "This study examines continuity and change in substance use patterns during the transition from adolescence to young adulthood: examining changes in social roles."
