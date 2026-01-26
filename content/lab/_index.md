@@ -15,105 +15,62 @@ header:
   image: ""
 ---
 
-# The **M**ethodology, **A**dolescent Development, and **P**revention (**MAP**) Lab
+# The Methodology, Adolescent Development, and Prevention (MAP) Lab
 
-Welcome to the MAP Lab at Syracuse University, directed by Dr. Gabriel J. Merrin. Our lab is dedicated to advancing understanding of how risk and protective processes shape adolescent development and the transition to young adulthood. Our work emphasizes resilience, equity, and the translation of rigorous quantitative methods into actionable prevention strategies that improve outcomes for youth and families.
+The MAP Lab at Syracuse University is directed by Dr. Gabriel "Joey" Merrin. Our research examines how risk and protective processes shape adolescent development and during the transition to young adulthood, with an emphasis on resilience, equity, and translating quantitative methods into prevention strategies that improve outcomes for youth and families.
 
-## Our Mission
+## What We Study
 
-The MAP Lab combines cutting-edge methodologies with applied prevention science to examine how individual, peer, family, school, and community contexts interact to influence developmental pathways. Our work highlights not only risks but also protective factors that promote resilience and positive development, with particular attention to equity and outcomes for marginalized youth populations.
-
-## Research Focus Areas
+The MAP Lab investigates how individual, peer, family, school, and community contexts interact to shape developmental pathways. Our work focuses on risk and protective factors, with particular attention to equity and outcomes for marginalized youth.
 
 ### **School-Based Prevention and Harassment**
-Investigating how school environments shape adolescent development, with a focus on bullying and identity-based harassment. This work uses longitudinal models, social network methods, and randomized controlled trials to evaluate school-based prevention programs such as Second Step, WITS, Boston vs. Bullies, and Sources of Strength.
+
+We investigate how school environments shape adolescent development, with a focus on bullying and identity-based harassment. This work employs longitudinal models, social network methods, and randomized controlled trials to evaluate school-based prevention programs, including Second Step, WITS, Boston vs. Bullies, and Sources of Strength.
 
 ### **Substance Use and Developmental Transitions**
-Examining trajectories of adolescent and young adult polysubstance use and related developmental changes. Using advanced person-centered methods such as latent class analysis and multidimensional growth mixture modeling, this work explores how shifting social roles contribute to both risk and resilience.
 
-### **Adverse Childhood Experiences (ACEs) and Psychosocial Outcomes**
-Synthesizing decades of research and conducting new longitudinal studies to understand how distinct ACEs shape peer relationships, mental health, and resilience. This work challenges cumulative ACE models and informs trauma-informed, prevention-oriented practices.
+We examine trajectories of adolescent and young adult polysubstance use and related developmental changes. Using person-centered methods, including latent class analysis and growth mixture modeling, this work explores how shifting social roles contribute to both risk and resilience.
 
-### **Advanced Quantitative Methods**
-Developing and applying innovative statistical approaches to better understand complex developmental processes, including:
-- Longitudinal mixture modeling
-- Network analysis
-- Machine learning applications in prevention science
-- Reproducible research workflows
+### **Adverse Childhood Experiences and Psychosocial Outcomes**
 
-## Recent Projects
+We synthesize existing research and conduct longitudinal studies to understand how distinct adverse childhood experiences shape peer relationships, mental health, and resilience. This work challenges cumulative ACE models and informs trauma-informed prevention practices.
 
-### **Peer Experiences Project** (2021-2024)
-**NIJ-funded nationwide study | Co-I: Dr. Gabriel J. Merrin**
+### **Longitudinal Quantitative Methods**
 
-A three-year longitudinal study examining bias-based harassment among adolescents using a nationally representative sample. This collaboration with Boston University focuses on identifying risk and protective factors across multiple social contexts.
+We apply advanced statistical methods to understand complex developmental processes, including structural equation models, multilevel models, mixture models, social network analysis, and other emerging methods, all within reproducible research workflows.
 
-**Key Objectives:**
-- Map prevalence and patterns of identity-based harassment
-- Identify social-ecological predictors and consequences
-- Develop evidence-based recommendations for schools and communities
+## Methods and Tools
 
-### **Social-Emotional Learning Effectiveness Study**
-**Multi-site evaluation | Co-Investigator: Dr. Gabriel J. Merrin**
+Our lab uses a range of quantitative approaches:
 
-Evaluating the differential effectiveness of universal SEL programming across diverse student populations using advanced statistical modeling approaches.
+- Longitudinal data analysis (growth curve modeling, survival analysis)
+- Mixture modeling (latent class analysis, growth mixture modeling, latent transition analysis)
+- Network analysis for understanding peer relationships
+- Reproducible workflows using R and version control
+- Community-based participatory research methods
 
-### **ACEs and Resilience Research**
-**Longitudinal analysis & Systematic Review | Ongoing**
+We developed the **CATAcode** R package, available on [CRAN](https://cran.r-project.org/web/packages/CATAcode/index.html), which provides methods for coding check-all-that-apply demographic items in survey research. The package tutorial is published in *Advances in Methods and Practices in Psychological Science*.
 
-Examining how distinct adverse childhood experiences shape peer relationships, mental health, and resilience through comprehensive systematic reviews and new longitudinal studies that challenge traditional cumulative ACE approaches.
+## Mentorship
 
-## Lab Philosophy
+The MAP Lab supports both undergraduate and graduate student research. To date, lab members have produced 14 student-led peer-reviewed publications.
 
-We believe in:
-- **Prevention-oriented** research that promotes resilience and positive development
-- **Equity and inclusion** in all aspects of our research and practice
-- **Methodological innovation** combined with practical relevance
-- **Open science** practices and reproducible research
-- **Community engagement** that bridges research and practice
-- **Translation** of findings into actionable prevention strategies
+### **Training Opportunities**
 
-## Research Methods & Tools
+We provide training in advanced longitudinal quantitative methods, prevention science, and reproducible research practices for students in our lab.
 
-Our lab specializes in:
-- **Longitudinal data analysis** (growth curve modeling, survival analysis)
-- **Mixture modeling** approaches (LCA, GMM, LTA)
-- **Machine learning** applications in prevention research
-- **Network analysis** for understanding peer relationships
-- **Reproducible workflows** using R, Python, and version control
-- **Community-based participatory research** methods
-- **Demographic data analysis** using our [CATAcode R package](https://cran.r-project.org/web/packages/CATAcode/index.html)
+## Collaboration
 
-## Collaborate With Us
+We welcome collaborations with schools, community organizations, researchers, prevention practitioners, and students interested in prevention science.
 
-We welcome collaborations with:
-- Schools and educational organizations
-- Community-based organizations serving youth
-- Researchers studying adolescent development
-- Prevention practitioners and program developers
-- Graduate students interested in prevention science
-
-## Lab Resources
-
-### Publications & Presentations
-Our lab has published extensively in top-tier journals including *Prevention Science*, *Journal of School Mental Health*, *Psychology of Violence*, and *Developmental Psychology*.
-
-### CATAcode R Package
-Our lab developed **CATAcode**, an innovative R package now published on [CRAN](https://cran.r-project.org/web/packages/CATAcode/index.html) that addresses critical gaps in measuring and analyzing identity categories in social science research. The package provides principled methods for coding Check-All-That-Apply demographic items and includes a [comprehensive vignette](https://cran.r-project.org/web/packages/CATAcode/vignettes/CATAcode-overview.html) with practical examples.
-
-### Data & Code Sharing
-We are committed to open science practices and regularly share de-identified datasets and analysis code to advance the field.
-
-### Training Opportunities
-We provide training in advanced quantitative methods, prevention science, and reproducible research practices for students and early-career researchers.
-
-## Contact the Lab
+## Contact
 
 **Dr. Gabriel J. Merrin, Lab Director**  
 Department of Human Development and Family Science  
+College of Arts and Sciences  
 Syracuse University  
 144 White Hall  
-Syracuse, NY 13244  
+Syracuse, NY 13244
 
 Email: gjmerrin@syr.edu  
 [Google Scholar](https://scholar.google.ca/citations?user=BKiMGCkAAAAJ&hl=en)
@@ -121,4 +78,3 @@ Email: gjmerrin@syr.edu
 ---
 
 *The MAP Lab is housed within the Department of Human Development and Family Science within the College of Arts & Sciences at Syracuse University.*
-
