@@ -49,7 +49,7 @@ Our lab uses a range of quantitative approaches:
 - Reproducible workflows using R and version control
 - Community-based participatory research methods
 
-We developed the **CATAcode** R package, available on [CRAN](https://cran.r-project.org/web/packages/CATAcode/index.html), which provides methods for coding check-all-that-apply demographic items in survey research. The package tutorial is published in [Advances in Methods and Practices in Psychological Science] (https://doi-org.libezproxy2.syr.edu/10.1177/25152459251401184).
+We developed the **CATAcode** R package, available on [CRAN](https://cran.r-project.org/web/packages/CATAcode/index.html), which provides methods for coding check-all-that-apply demographic items in survey research. The package tutorial is published in [Advances in Methods and Practices in Psychological Science](https://doi-org.libezproxy2.syr.edu/10.1177/25152459251401184).
 
 ## Mentorship
 
