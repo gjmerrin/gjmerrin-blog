@@ -11,7 +11,9 @@ authors:
   - "T."
   - "Liu"
   - "Y."
+  - "Chen"
   - "J."
+  - "Chen"
   - "H."
   - "Xie"
   - "Z."
@@ -19,8 +21,8 @@ authors:
   - "G. J."
   - "Yip"
   - "P."
-date: "in press-01-01"
-doi: ""
+date: "2025-01-01"
+doi: "10.1177/216770262513698"
 
 # Publication type
 publication_types: ["2"]
