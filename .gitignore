@@ -10,3 +10,4 @@ public/ # if using Netlify
 resources/_gen/
 public/
 logs/
+.positai
