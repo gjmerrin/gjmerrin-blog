@@ -1,1089 +1,1750 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/publication_types/2/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/publication/parodi-merrin-2026-longitud/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/aggression/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/tags/adolescent-development/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/authors/amador/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/bonnie-j.-leadbeater/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/authors/aradhya/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/bullying/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/authors/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/clea-sturgess/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/tags/bias-based-harassment/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/merrin-ames-sturgess-leadbeater-2020/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/tags/bullying/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/dorothy-l.-espelage/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/authors/chen/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/employment/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/publication/huang-merrin-2026-developm/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/ingram-espelage-davis-merrin-2020/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/publication/liu-merrin-2026-differen/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/jordan-p.-davis/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/publication/lawerence-merrin-2026-disentan/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/katherine-m.-ingram/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/authors/green/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/latent-transition-analysis/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/authors/holt/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/megan-e.-ames/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/authors/huang/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/peer-deviance/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/authors/kwok/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/authors/lawerence/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/authors/liu/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/romantic-relationships/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/publication/marsico-merrin-2026-longitud/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/school/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/authors/marsico/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/substance-use/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/authors/medina/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/tags/mental-health/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/trauma/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/authors/merrin/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/adolescence/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/authors/palmer/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/parodi/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication_types/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/razza/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/scale-development/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/self-regulation/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/student-research/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/substance-use/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/wyatt/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/zaff/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/zhang/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/adverse-childhood-experiences/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/bailey/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/batmaz/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/bi/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/merrin-2026-catacode/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/causal-inference/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/chai/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/wang-merrin-2025-occurrin/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/merrin-2025-continui/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/cross-national-research/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/razza-merrin-2025-cultivat/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/bi-merrin-2025-dynamic/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/demographic-analysis/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/developmental-transitions/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/holt-merrin-2025-direct/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/doery/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/espelage/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/family-processes/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/family-violence/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/lawrence-merrin-2025-family/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/feng/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/fogelman/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/fusco/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/gini/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/grant./</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/hao/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/heerde/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/kelly/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/kiefer/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/kirkman/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/lawrence/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/le/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/li/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/lu/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/mcfield/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/methodology/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/mindfulness/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/bi-merrin-2025-thinking/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/nickodem/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/patton/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/peer-relationships/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/prevention-science/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/r-package/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/raniti/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/resilience/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/sawyer/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/heerde-merrin-2025-school/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/school-based-intervention/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/fusco-merrin-2025-social/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/sun/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/survey-research/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/le-merrin-2025-roles/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/toumbourou/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/wang/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/weerakoon/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/xie/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/yip/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/lab/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/grant-merrin-2024-prospect/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/abd-elmonem/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/merrin-2024-adverse/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/zhang-merrin-2024-adverse/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/ames/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/espelage-merrin-2024-sources/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/april/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/april-sandars/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/bi-merrin-2024-there/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/arora/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/liu-merrin-2024-associat/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/green-merrin-2024-bias/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/blake/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/liu-merrin-2024-continui/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/robillard-merrin-2024-differen/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/liu-merrin-2024-differen/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/fairclough/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/gomez/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/gordon/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/hoagland/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/hong/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/huckaby/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/ingram/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/jackson/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/kuehl/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/legg/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/lomurray/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/bailey-merrin-2024-longitud/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/mcmorris/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/mintz/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/pascarella/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/wang-merrin-2024-peer/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/quintero/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/ramirez/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/liu-merrin-2024-reciproc/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/fairclough-merrin-2024-religios/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/robillard/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/robinson/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/rulison/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/schmeelk-cone/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/slavich/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/smith/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/song/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/li-merrin-2024-joint/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/turner/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/valido/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/vasilenko/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/voisin/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/wan/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/woolweaver/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/wyman/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/xiao/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/rivas-koehl-merrin-2023-assessin/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/contreras/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/dalhee/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/wang-merrin-2023-harsh/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/henderson/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/keller/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/leadbeater/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/lowe/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/ames-merrin-2023-reciproc/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/rivas-koehl/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/ryan/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/leadbeater-merrin-2023-trajecto/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/merrin-2023-benefits/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/espelage-merrin-2022-bullying/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/el-sheikh/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/leadbeater-merrin-2022-examinin/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/forber-pratt/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/hanebutt/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/lewis/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/merrin-2022-predicto/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/price/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/forber-pratt-merrin-2022-psychome/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/rush/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/valido-merrin-2022-social/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/sturgess/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/sukhawathanakul/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/thompson/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/torgal/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/lgbtq&#43;-youth/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/longitudinal-research/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/project/peer-experiences-project/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/prevention/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/project/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/school-climate/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/davis/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/forber-pratt-merrin-2021-explorin/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/valido-merrin-2021-intrafam/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/merrin-2020-disrupti/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/anjali-j.-forber-pratt/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/tags/education/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/assessment/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/publication/green-merrin-2020-engaging/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/bonnie-leadbeater/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/publication/merrin-2020-examinin/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/carlyn-o.-mueller/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/publication/davis-merrin-2020-exposure/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/child-trauma/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/publication/ingram-merrin-2020-family/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/delinqunecy/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/publication/forber-pratt-merrin-2020-initial/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/depression/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/authors/kettrey/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/disability-identity/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/tags/methods/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/ellery-robinson/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/authors/mueller/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/green-holt-oblath-robinson-storey-merrin-2020/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/authors/oblath/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/exploratory-factor-analysis/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/publication/ames-merrin-2020-patterns/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/davis-ingram-merrin-espelage-2020/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/tags/social-emotional-learning/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/growth-mixture-model/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/project/sel-effectiveness-study/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/heather-hensman-kettrey/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/authors/story/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/identity-formation/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/forber_pratt-merrin-mueller-price-kettrey-2020/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jennifer-greif-green/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/kara-thompson/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/kim-storey/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/larry-r.-price/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/marijuana/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/megan-ames/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/melissa-k.-holt/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/ames-leadbeater-merrin-thompson-2020/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/physical-health/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/prevention-program/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/rachel-oblath/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/schools/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/victimization/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/young-adulthood/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/alberto-valido/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/bystander-intervention/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/cagil-torgal/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/lgbtq-youth/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/ingram-davis-espelage-hatchel-merrin-valido-torgal-2019/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mental-health/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/hatchel-merrin-espelage-2019/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/school-connectedness/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/suicide/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/tyler-hatchel/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/willingness-to-intervene/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ashleigh-e.-jones/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/jones-espelage-valido-ingram-merrin-2019/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/katherine-ingram/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/latent-class-analysis/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/latinx-student/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/categories/</loc>
     <lastmod>2019-06-20T12:19:08-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/post/</loc>
     <lastmod>2019-06-20T12:19:08-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/r-post/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/categories/r-post/</loc>
     <lastmod>2019-06-20T12:19:08-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/2019/06/20/test-post/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/2019/06/20/test-post/</loc>
     <lastmod>2019-06-20T12:19:08-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/anthony-a.-peguero/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/education/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jun-sung-hong/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/kecia-r.-johnson/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/race/ethnicity/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/peguero-merrin-hong-johnson-2019/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/school-dropout/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/social-inequality/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/ames-leadbeater-merrin-sturgess-2019/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/peer-victimization/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2019/02/05/display-jupyter-notebooks-with-academic/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/thompson-leadbeater-ames-merrin-2019/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/occupational-outcomes/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/america-j.-el-sheikh/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/daniel-berry/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/merrin-davis-berry-espelage-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deviance/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/ingram-espelage-merrin-valido-heinhorst-joyce-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/davis-merrin-ingram-espelage-valido-elsheikh-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/grant-merrin-king-espelage-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/family-violence/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jennifer-heinhorst/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/mary-joyce/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/matthew-t.-king/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nickholas-j.-grant/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/parenting/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/peers/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/prevention-science/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/school-belonging/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/school-based-prevention/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/virtual-reality/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/espelage-hong-merrin-davis-rose-little-2018/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/chade-a.-rose/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/homophobic-teasing/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/sexual-harassment/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/sexual-violence/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/todd-d.-little/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/youth-violence/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/espelage-merrin-hong-resko-2018/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/relational-aggression/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/social-cognitive-theory/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/social-information-processing-theory/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/stella-m.-resko/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/academic-achievement/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/child-abuse/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/danielle-madden/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/davis-dumas-merrin-espelage-tan-madden-2018/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/fidelity/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/leadbeater-thompson-sukhawathanakul-merrin-2018/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/implementation/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/kevin-tan/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/paweena-sukhawathanakul/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/tara-m.-dumas/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/wits-program/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/polysubstance-use/</loc>
-    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/merrin-thompson-leadbeater-2018/</loc>
-    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/dayna-bulstein/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/drinking-groups/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/dumas-davis-merrin-puccia-blustein-2018/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/latent-growth-model/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/maria-puccia/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/peer-groups/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/status/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/alcohol/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/cigarette/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/merrin-leadbeater-2018/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/illicit-drugs/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/espelage-merrin-hatchel-2018/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/school-violence/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/teen-dating-violence/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/brett-ewing/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/harold-d.-green-jr/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/joan-s.-tucker/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/kayla-de-la-haye/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/matthew-hoover/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/social-networks/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/merrin-de_la_haye-espelage-ewing-tucker-hoover-green-2018/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/benjamin-berey/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/binge-drinking/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/danielle-r.-madden/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/disability/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/intersectionality/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/kristen-l.-bub/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/lgbq/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/poly-victimization/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/davis-dumas-berey-merrin-tan-madden-2018/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/suicidality/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/king-merrin-espelage-grant-bub-2018/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/merrin-espelage-hong-2018/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/thompson-merrin-ames-leadbeater-2018/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/brent-w.-roberts/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/child-maltreatment/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/davis-dumas-berey-merrin-cimpian-roberts-2017/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/impulse-control/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/joseph-r.-cimpian/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/eric-f.-wagner/</loc>
-    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/juvenile-offenders/</loc>
-    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/davis-dumas-wagner-merrin-2016/</loc>
-    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/a.-antonio-gonzales-prendes/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/cannabis/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/debra-m.-hernandez-jozefowicz/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deviant-peers/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/douglas-c.-smith/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/emerging-adults/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/davis-merrin-berry-dumas-hong-smith-2016/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/hong-merrin-peguero-gonzalez-prendes-lee-2016/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/fighting/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/immigrants/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/hong-merrin-crosby-hernandez_jozefowicz-lee-allen_meares-2016/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jeoung-min-lee/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/na-young-lee/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/paula-allen-meares/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/school-safety/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/shantel-crosby/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/social-ecological-framework/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/youth/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/criminal-behavior/</loc>
-    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/elizabeth-j.-damico/</loc>
-    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/multilevel-model/</loc>
-    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/merrin-davis-berry-damico-dumas-2016/</loc>
-    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/adolescence-development/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/lab/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/lab/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/lab/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2016/04/20/academic-the-website-builder-for-hugo/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2015/07/23/my-personal-page/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/2019/02/05/display-jupyter-notebooks-with-academic/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/ames-merrin-2019-adolesce/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/thompson-merrin-2019-associat/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/berry/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/merrin-2019-developm/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/ingram-merrin-2019-evaluati/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/jones-merrin-2019-examinin/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/davis-merrin-2019-examinin/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/grant-merrin-2019-examinin/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/hatchel/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/heinhorst/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/johnson/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/jones/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/joyce/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/king/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/ingram-merrin-2019-longitud/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/hatchel-merrin-2019-peer/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/peguero/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/peguero-merrin-2019-school/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/espelage-merrin-2018-longitud/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/espelage-merrin-2018-applying/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/merrin-2018-applying/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/berey/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/blustein/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/bub/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/de-la-haye/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/merrin-2018-adolesce/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/dumas/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/ewing/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/davis-merrin-2018-examinin/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/g.-j./</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/hoover/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/leadbeater-merrin-2018-program/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/dumas-merrin-2018-high/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/little/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/madden/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/espelage-merrin-2018-peer/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/davis-merrin-2018-poly/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/puccia/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/resko/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/rose/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/tan/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/merrin-2018-evolutio/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/thompson-merrin-2018-trajecto/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/merrin-2018-transiti/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/tucker/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/king-merrin-2018-victimiz/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/davis-merrin-2017-effect/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/roberts/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/robinson-cimpian/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/2016/04/20/academic-the-website-builder-for-hugo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/allen-meares/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/crosby/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/damico/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/davis-merrin-2016-examinin/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/hong-merrin-2016-explorin/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/gonzalez-prendes/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/hernandez-jozefowicz/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/hong-merrin-2016-individu/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/lee/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/davis-merrin-2016-social/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/publication/merrin-2016-longitud/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/wagner/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/tags/adolescence-development/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/2015/07/23/my-personal-page/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/tags/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/statistics/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/merrin-hong-espelage-2015/</loc>
-    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/tags/statistics/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/protective-factors/</loc>
-    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/publication/merrin-2015-risk/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/risk-factors/</loc>
-    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/authors/a./</loc>
   </url>
   
   <url>
-    <loc>/tags/youth-gangs/</loc>
-    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+    <loc>https://gabrieljmerrin.rbind.io/authors/a.-a./</loc>
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>https://gabrieljmerrin.rbind.io/authors/a.-b./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/a.-e./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/a.-j./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/a.-k./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/b./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/b.-j./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/b.-l./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/b.-w./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/c./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/c.-a./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/c.-l./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/c.-m.-b./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/c.-o./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/d./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/d.-c./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/d.-j./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/d.-l./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/d.-m./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/d.-r./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/e./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/e.-a./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/e.-f./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/e.-j./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/g./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/g.-c./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/g.-m./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/h./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/h.-d./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/h.-h./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/i./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/j./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/j.-a./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/j.-e.-h./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/j.-g./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/j.-h./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/j.-l./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/j.-m./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/j.-p./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/j.-s./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/j.-w./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/k./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/k.-a./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/k.-b./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/k.-l./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/k.-m./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/k.-r./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/l./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/l.-a./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/l.-e./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/l.-r./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/liu.-q./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/m./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/m.-d./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/m.-e./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/m.-k./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/m.-m./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/m.-s./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/m.-t./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/n./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/n.-d.-w./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/n.-j./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/n.-k./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/n.-v./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/n.-y./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/o./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/p./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/p.-a./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/p.-l./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/p.-s.-f./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/q./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/r./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/r.-a./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/s./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/s.-a./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/s.-m./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/t./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/t.-d./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/t.-i./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/t.-m./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/v.-t./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/x./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/y./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabrieljmerrin.rbind.io/authors/z./</loc>
   </url>
   
 </urlset>

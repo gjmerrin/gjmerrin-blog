@@ -41,7 +41,7 @@
   
   
   
-  <meta name="theme-color" content="#ff3860">
+  <meta name="theme-color" content="#F76900">
   
 
   
@@ -76,13 +76,13 @@
 
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Playfair+Display:400,700|Fauna+One">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.5639a900f287512be6f1a6aa875fc739.css">
+  <link rel="stylesheet" href="/css/academic.min.69cc85be087ea3fede73b5e01f4c5bec.css">
 
   
 
@@ -105,8 +105,8 @@
   
 
   
-  <link rel="alternate" href="/courses/example/index.xml" type="application/rss+xml" title="Gabriel J. Merrin">
-  <link rel="feed" href="/courses/example/index.xml" type="application/rss+xml" title="Gabriel J. Merrin">
+  <link rel="alternate" href="/courses/example/index.xml" type="application/rss+xml" title="Dr. Gabriel J. Merrin | Syracuse University">
+  <link rel="feed" href="/courses/example/index.xml" type="application/rss+xml" title="Dr. Gabriel J. Merrin | Syracuse University">
   
 
   <link rel="manifest" href="/site.webmanifest">
@@ -123,13 +123,10 @@
   
   <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="twitter:site" content="@gjmerrin">
-  <meta property="twitter:creator" content="@gjmerrin">
-  
-  <meta property="og:site_name" content="Gabriel J. Merrin">
+  <meta property="og:site_name" content="Dr. Gabriel J. Merrin | Syracuse University">
   <meta property="og:url" content="https://gabrieljmerrin.rbind.io/courses/example/">
-  <meta property="og:title" content="Course Overview | Gabriel J. Merrin">
-  <meta property="og:description" content="This course largely focuses on Structural Equation Modeling, but will also incorporate exploratory factor analysis and some advanced longitudinal analytic techniques."><meta property="og:image" content="https://gabrieljmerrin.rbind.io/img/MAP-LAB-LOGO.png">
+  <meta property="og:title" content="Course Overview | Dr. Gabriel J. Merrin | Syracuse University">
+  <meta property="og:description" content="This course largely focuses on Structural Equation Modeling, but will also incorporate exploratory factor analysis and some advanced longitudinal analytic techniques."><meta property="og:image" content="https://gabrieljmerrin.rbind.io/img/MAP-LAB-LOGO-2.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="og:updated_time" content="2018-09-09T00:00:00&#43;00:00">
@@ -139,12 +136,24 @@
 
 
   
+<script>
+  (function() {
+    try {
+      var stored = localStorage.getItem('theme');
+      
+      var theme = (stored === 'dark') ? 'dark' : 'light';
+      document.documentElement.setAttribute('data-theme', theme);
+      
+      if (stored === null) { localStorage.setItem('theme', 'light'); }
+      
+      
+      localStorage.setItem('dark_mode', theme === 'dark' ? '1' : '0');
+    } catch (e) {   }
+  })();
+</script>
 
 
-
-
-
-  <title>Course Overview | Gabriel J. Merrin</title>
+  <title>Course Overview | Dr. Gabriel J. Merrin | Syracuse University</title>
 
 </head>
 
@@ -188,7 +197,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Gabriel J. Merrin</a>
+      <a class="navbar-brand" href="/">Dr. Gabriel J. Merrin | Syracuse University</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -279,6 +288,26 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/lab/"><span>MAP Lab</span></a>
         </li>
 
         
@@ -472,7 +501,7 @@
   
 
   <p class="powered-by">
-    © 2021 &middot; 
+    © 2026 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
@@ -589,12 +618,60 @@
     
     
     
-    <script src="/js/academic.min.79fd01dcc54fc3c04fcf5dd1a5f94d87.js"></script>
+    <script src="/js/academic.min.3394a224b26ce58ff36f44c54743e0ab.js"></script>
 
     
+<script>
+  (function() {
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      if (theme === 'dark') {
+        document.body.classList.add('dark');
+      } else {
+        document.body.classList.remove('dark');
+      }
+      try {
+        localStorage.setItem('theme', theme);
+        localStorage.setItem('dark_mode', theme === 'dark' ? '1' : '0');
+      } catch (e) {}
+      
+      var icon = document.querySelector('.js-dark-toggle i');
+      if (icon) {
+        if (theme === 'dark') {
+          icon.classList.remove('fa-moon');
+          icon.classList.add('fa-sun');
+        } else {
+          icon.classList.remove('fa-sun');
+          icon.classList.add('fa-moon');
+        }
+      }
+    }
 
+    function init() {
+      
+      var current = document.documentElement.getAttribute('data-theme') || 'light';
+      applyTheme(current);
 
+      
+      
+      var btn = document.querySelector('.js-dark-toggle');
+      if (btn) {
+        btn.addEventListener('click', function(e) {
+          e.preventDefault();
+          e.stopImmediatePropagation();
+          var now = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+          applyTheme(now);
+        }, true);
+      }
+    }
 
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      init();
+    }
+  })();
+</script>
 
 
 
