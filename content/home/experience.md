@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Assistant Professor"
+  title = "Associate Professor & Zeta Psi Endowed Faculty Fellow"
   company = """**Syracuse University**  
   *Department of Human Development and Family Science*"""
   company_url = "https://falk.syr.edu/hdfs/"
