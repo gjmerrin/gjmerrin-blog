@@ -20,10 +20,10 @@ doi: "10.1080/15388220.2025.2524335"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
-publication: "*Journal of School Violence*, 25(1), 15-29"
+publication: "*Journal of School Violence*, 25(1), 15–29"
 publication_short: "Journal of School Violence"
 
-abstract: "This study examines longitudinal associations between witnessing bias-based harassment and mental health functioning."
+abstract: "This study examines longitudinal associations between witnessing bias-based harassment and adolescent mental health functioning. The authors document how bystander exposure to identity-targeted aggression contributes to internalizing symptoms over time, independent of direct victimization."
 
 # Summary
 summary: ""
@@ -31,6 +31,7 @@ summary: ""
 tags:
 - Adolescent Development
 - Student Research
+- Bias-Based Harassment
 
 # Display this page in the Featured widget?
 featured: false
@@ -59,6 +60,7 @@ projects: []
 slides: ""
 ---
 
-This study examines longitudinal associations between witnessing bias-based harassment and mental health functioning.
+This study examines longitudinal associations between witnessing bias-based harassment and adolescent mental health functioning. The authors document how bystander exposure to identity-targeted aggression contributes to internalizing symptoms over time, independent of direct victimization.
+
 
 **Student-led research** - This publication was led by a student researcher.

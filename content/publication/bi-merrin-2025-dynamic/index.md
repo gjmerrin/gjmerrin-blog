@@ -1,5 +1,5 @@
 ---
-title: "Day-to-day dynamic coupling of affective symptomatology in Chinese mother-adolescent and father-adolescent dyads (Student-led research)"
+title: "Day-to-day dynamic coupling of affective symptoms in Chinese mother-adolescent and father-adolescent dyads (Student-led research)"
 authors:
   - "Bi"
   - "K."
@@ -20,7 +20,7 @@ authors:
   - "Merrin"
   - "G. J."
   - "Yip"
-  - "P."
+  - "P. S. F."
 date: "2025-01-01"
 doi: "10.1177/216770262513698"
 
@@ -28,10 +28,10 @@ doi: "10.1177/216770262513698"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
-publication: "*Clinical Psychological Science.*"
-publication_short: "Clinical Psychological Science."
+publication: "*Clinical Psychological Science*"
+publication_short: "Clinical Psychological Science"
 
-abstract: "This study examines day-to-day dynamic coupling of affective symptomatology in chinese mother-adolescent and father-adolescent dyads."
+abstract: "This study examines day-to-day dynamic coupling of affective symptoms in Chinese mother-adolescent and father-adolescent dyads. The authors apply intensive longitudinal modeling to clarify how parent and adolescent affect co-vary across daily contexts and how parent-specific dyadic dynamics differ."
 
 # Summary
 summary: ""
@@ -39,17 +39,13 @@ summary: ""
 tags:
 - Adolescent Development
 - Student Research
+- Family Processes
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links
 links:
-
-
-
-
-
 url_pdf: ""
 url_code: ""
 url_dataset: ""
@@ -72,9 +68,7 @@ projects: []
 slides: ""
 ---
 
-This study examines day-to-day dynamic coupling of affective symptomatology in chinese mother-adolescent and father-adolescent dyads.
+This study examines day-to-day dynamic coupling of affective symptoms in Chinese mother-adolescent and father-adolescent dyads. The authors apply intensive longitudinal modeling to clarify how parent and adolescent affect co-vary across daily contexts and how parent-specific dyadic dynamics differ.
+
 
 **Student-led research** - This publication was led by a student researcher.
-
-
-
