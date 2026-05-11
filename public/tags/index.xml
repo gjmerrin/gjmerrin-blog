@@ -1,860 +1,311 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Gabriel J. Merrin</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Gabriel J. Merrin</description>
+    <title>Tags on Dr. Gabriel J. Merrin | Syracuse University</title>
+    <link>https://gabrieljmerrin.rbind.io/tags/</link>
+    <description>Recent content in Tags on Dr. Gabriel J. Merrin | Syracuse University</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://gabrieljmerrin.rbind.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Aggression</title>
-      <link>/tags/aggression/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Adolescent Development</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/adolescent-development/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>/tags/aggression/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/adolescent-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bias-Based Harassment</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/bias-based-harassment/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrieljmerrin.rbind.io/tags/bias-based-harassment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bullying</title>
-      <link>/tags/bullying/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <link>https://gabrieljmerrin.rbind.io/tags/bullying/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>/tags/bullying/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Employment</title>
-      <link>/tags/employment/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/employment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Latent Transition Analysis</title>
-      <link>/tags/latent-transition-analysis/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/latent-transition-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peer Deviance</title>
-      <link>/tags/peer-deviance/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/peer-deviance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Romantic Relationships</title>
-      <link>/tags/romantic-relationships/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/romantic-relationships/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>School</title>
-      <link>/tags/school/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/school/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Substance Use</title>
-      <link>/tags/substance-use/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/substance-use/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trauma</title>
-      <link>/tags/trauma/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/trauma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adolescence</title>
-      <link>/tags/adolescence/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/adolescence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Assessment</title>
-      <link>/tags/assessment/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/assessment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Child Trauma</title>
-      <link>/tags/child-trauma/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/child-trauma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Delinqunecy</title>
-      <link>/tags/delinqunecy/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/delinqunecy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Depression</title>
-      <link>/tags/depression/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/depression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disability Identity</title>
-      <link>/tags/disability-identity/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/disability-identity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploratory Factor Analysis</title>
-      <link>/tags/exploratory-factor-analysis/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/exploratory-factor-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Growth Mixture Model</title>
-      <link>/tags/growth-mixture-model/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/growth-mixture-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identity Formation</title>
-      <link>/tags/identity-formation/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/identity-formation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marijuana</title>
-      <link>/tags/marijuana/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/marijuana/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Physical Health</title>
-      <link>/tags/physical-health/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/physical-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prevention Program</title>
-      <link>/tags/prevention-program/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/prevention-program/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Schools</title>
-      <link>/tags/schools/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/schools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Victimization</title>
-      <link>/tags/victimization/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/victimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Young Adulthood</title>
-      <link>/tags/young-adulthood/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/young-adulthood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bystander Intervention</title>
-      <link>/tags/bystander-intervention/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/bystander-intervention/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LGBTQ youth</title>
-      <link>/tags/lgbtq-youth/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/lgbtq-youth/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/bullying/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mental Health</title>
-      <link>/tags/mental-health/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <link>https://gabrieljmerrin.rbind.io/tags/mental-health/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>/tags/mental-health/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/mental-health/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>School Connectedness</title>
-      <link>/tags/school-connectedness/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <title>Scale Development</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/scale-development/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>/tags/school-connectedness/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/scale-development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Suicide</title>
-      <link>/tags/suicide/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <title>Self-Regulation</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/self-regulation/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>/tags/suicide/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/self-regulation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Willingness to Intervene</title>
-      <link>/tags/willingness-to-intervene/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <title>Student Research</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/student-research/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>/tags/willingness-to-intervene/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/student-research/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Latent Class Analysis</title>
-      <link>/tags/latent-class-analysis/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Substance Use</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/substance-use/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>/tags/latent-class-analysis/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/substance-use/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Latinx Student</title>
-      <link>/tags/latinx-student/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Adverse Childhood Experiences</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/adverse-childhood-experiences/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>/tags/latinx-student/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/adverse-childhood-experiences/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Education</title>
-      <link>/tags/education/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Causal Inference</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/causal-inference/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>/tags/education/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/causal-inference/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Race/Ethnicity</title>
-      <link>/tags/race/ethnicity/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Cross-National Research</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/cross-national-research/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>/tags/race/ethnicity/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/cross-national-research/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>School dropout</title>
-      <link>/tags/school-dropout/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Demographic Analysis</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/demographic-analysis/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>/tags/school-dropout/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/demographic-analysis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Social inequality</title>
-      <link>/tags/social-inequality/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Developmental Transitions</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/developmental-transitions/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>/tags/social-inequality/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/developmental-transitions/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Peer Victimization</title>
-      <link>/tags/peer-victimization/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Family Processes</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/family-processes/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>/tags/peer-victimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Occupational outcomes</title>
-      <link>/tags/occupational-outcomes/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/occupational-outcomes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deviance</title>
-      <link>/tags/deviance/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/deviance/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/family-processes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Family Violence</title>
-      <link>/tags/family-violence/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <link>https://gabrieljmerrin.rbind.io/tags/family-violence/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>/tags/family-violence/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/family-violence/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Parenting</title>
-      <link>/tags/parenting/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Methodology</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/methodology/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>/tags/parenting/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/methodology/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Peers</title>
-      <link>/tags/peers/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Mindfulness</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/mindfulness/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>/tags/peers/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/mindfulness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Relationships</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/peer-relationships/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrieljmerrin.rbind.io/tags/peer-relationships/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prevention Science</title>
-      <link>/tags/prevention-science/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <link>https://gabrieljmerrin.rbind.io/tags/prevention-science/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>/tags/prevention-science/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/prevention-science/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>School Belonging</title>
-      <link>/tags/school-belonging/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <title>R Package</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/r-package/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>/tags/school-belonging/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/r-package/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>School-based prevention</title>
-      <link>/tags/school-based-prevention/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Resilience</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/resilience/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>/tags/school-based-prevention/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/resilience/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Virtual reality</title>
-      <link>/tags/virtual-reality/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <title>School-Based Intervention</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/school-based-intervention/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>/tags/virtual-reality/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/school-based-intervention/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Homophobic Teasing</title>
-      <link>/tags/homophobic-teasing/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Survey Research</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/survey-research/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>/tags/homophobic-teasing/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/survey-research/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sexual Harassment</title>
-      <link>/tags/sexual-harassment/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <title>LGBTQ&#43; Youth</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/lgbtq&#43;-youth/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/sexual-harassment/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/lgbtq&#43;-youth/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sexual Violence</title>
-      <link>/tags/sexual-violence/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Longitudinal Research</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/longitudinal-research/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/sexual-violence/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/longitudinal-research/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Youth Violence</title>
-      <link>/tags/youth-violence/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Prevention</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/prevention/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/youth-violence/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/prevention/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Relational aggression</title>
-      <link>/tags/relational-aggression/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <title>School Climate</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/school-climate/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/relational-aggression/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/school-climate/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Social cognitive theory</title>
-      <link>/tags/social-cognitive-theory/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <title>Education</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/education/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/social-cognitive-theory/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Social information processing theory</title>
-      <link>/tags/social-information-processing-theory/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <title>Methods</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/methods/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/social-information-processing-theory/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/methods/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Academic Achievement</title>
-      <link>/tags/academic-achievement/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <title>Social-Emotional Learning</title>
+      <link>https://gabrieljmerrin.rbind.io/tags/social-emotional-learning/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/academic-achievement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Child Abuse</title>
-      <link>/tags/child-abuse/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/child-abuse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fidelity</title>
-      <link>/tags/fidelity/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/fidelity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Implementation</title>
-      <link>/tags/implementation/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/implementation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WITS Program</title>
-      <link>/tags/wits-program/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/wits-program/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Polysubstance use</title>
-      <link>/tags/polysubstance-use/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/polysubstance-use/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Drinking Groups</title>
-      <link>/tags/drinking-groups/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/drinking-groups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Latent Growth Model</title>
-      <link>/tags/latent-growth-model/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/latent-growth-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peer Groups</title>
-      <link>/tags/peer-groups/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/peer-groups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Status</title>
-      <link>/tags/status/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/status/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>alcohol</title>
-      <link>/tags/alcohol/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/alcohol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cigarette</title>
-      <link>/tags/cigarette/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cigarette/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>illicit drugs</title>
-      <link>/tags/illicit-drugs/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/illicit-drugs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>School violence</title>
-      <link>/tags/school-violence/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/school-violence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teen dating violence</title>
-      <link>/tags/teen-dating-violence/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/teen-dating-violence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social networks</title>
-      <link>/tags/social-networks/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/social-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Binge Drinking</title>
-      <link>/tags/binge-drinking/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/binge-drinking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disability</title>
-      <link>/tags/disability/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/disability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Intersectionality</title>
-      <link>/tags/intersectionality/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/intersectionality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LGBQ</title>
-      <link>/tags/lgbq/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/lgbq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poly-Victimization</title>
-      <link>/tags/poly-victimization/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/poly-victimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Suicidality</title>
-      <link>/tags/suicidality/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/suicidality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Child Maltreatment</title>
-      <link>/tags/child-maltreatment/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/child-maltreatment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impulse Control</title>
-      <link>/tags/impulse-control/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/impulse-control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Juvenile Offenders</title>
-      <link>/tags/juvenile-offenders/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/juvenile-offenders/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cannabis</title>
-      <link>/tags/cannabis/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cannabis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deviant Peers</title>
-      <link>/tags/deviant-peers/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/deviant-peers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emerging Adults</title>
-      <link>/tags/emerging-adults/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/emerging-adults/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fighting</title>
-      <link>/tags/fighting/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/fighting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Immigrants</title>
-      <link>/tags/immigrants/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/immigrants/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>School Safety</title>
-      <link>/tags/school-safety/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/school-safety/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social Ecological Framework</title>
-      <link>/tags/social-ecological-framework/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/social-ecological-framework/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Youth</title>
-      <link>/tags/youth/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/youth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Criminal Behavior</title>
-      <link>/tags/criminal-behavior/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/criminal-behavior/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multilevel Model</title>
-      <link>/tags/multilevel-model/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/multilevel-model/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/social-emotional-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adolescence Development</title>
-      <link>/tags/adolescence-development/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <link>https://gabrieljmerrin.rbind.io/tags/adolescence-development/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/adolescence-development/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/adolescence-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/tags/r/</link>
+      <link>https://gabrieljmerrin.rbind.io/tags/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/r/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistics</title>
-      <link>/tags/statistics/</link>
+      <link>https://gabrieljmerrin.rbind.io/tags/statistics/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Protective Factors</title>
-      <link>/tags/protective-factors/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/protective-factors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Risk Factors</title>
-      <link>/tags/risk-factors/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/risk-factors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Youth Gangs</title>
-      <link>/tags/youth-gangs/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/youth-gangs/</guid>
+      <guid>https://gabrieljmerrin.rbind.io/tags/statistics/</guid>
       <description></description>
     </item>
     

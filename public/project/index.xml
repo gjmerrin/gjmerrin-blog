@@ -1,41 +1,163 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Gabriel J. Merrin</title>
-    <link>/project/</link>
-    <description>Recent content in Projects on Gabriel J. Merrin</description>
+    <title>Projects on Dr. Gabriel J. Merrin | Syracuse University</title>
+    <link>https://gabrieljmerrin.rbind.io/project/</link>
+    <description>Recent content in Projects on Dr. Gabriel J. Merrin | Syracuse University</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://gabrieljmerrin.rbind.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Peer Experiences Project</title>
+      <link>https://gabrieljmerrin.rbind.io/project/peer-experiences-project/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>/project/external-project/</guid>
-      <description></description>
+      <guid>https://gabrieljmerrin.rbind.io/project/peer-experiences-project/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Peer Experiences Project&lt;/strong&gt; is a three-year, NIJ-funded longitudinal study examining bias-based harassment among adolescents using a nationally representative sample. This collaboration between Syracuse University and Boston University focuses on identifying risk and protective factors across multiple social contexts.&lt;/p&gt;
+&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Principal Investigator:&lt;/strong&gt; Dr. Gabriel J. Merrin (Syracuse University)&lt;br&gt;
+&lt;strong&gt;Co-Principal Investigator:&lt;/strong&gt; Dr. [Collaborator Name] (Boston University)&lt;br&gt;
+&lt;strong&gt;Funding:&lt;/strong&gt; National Institute of Justice (NIJ)&lt;br&gt;
+&lt;strong&gt;Duration:&lt;/strong&gt; 2021-2024&lt;br&gt;
+&lt;strong&gt;Sample:&lt;/strong&gt; Nationally representative sample of adolescents&lt;/p&gt;
+&lt;h2 id=&#34;key-objectives&#34;&gt;Key Objectives&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Map prevalence and patterns&lt;/strong&gt; of identity-based harassment across different demographic groups&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Identify social-ecological predictors&lt;/strong&gt; of bias-based harassment perpetration and victimization&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Examine long-term consequences&lt;/strong&gt; of harassment experiences on academic, social, and psychological outcomes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Develop evidence-based recommendations&lt;/strong&gt; for schools, communities, and policymakers&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;research-innovation&#34;&gt;Research Innovation&lt;/h2&gt;
+&lt;p&gt;This study employs cutting-edge methodological approaches including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Advanced longitudinal modeling techniques&lt;/li&gt;
+&lt;li&gt;Machine learning applications for pattern identification&lt;/li&gt;
+&lt;li&gt;Social network analysis of peer relationships&lt;/li&gt;
+&lt;li&gt;Multi-informant data collection (students, teachers, parents)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;impact--dissemination&#34;&gt;Impact &amp;amp; Dissemination&lt;/h2&gt;
+&lt;p&gt;Findings from this project will directly inform:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;School-based prevention programming&lt;/li&gt;
+&lt;li&gt;Policy recommendations for educational settings&lt;/li&gt;
+&lt;li&gt;Training materials for educators and administrators&lt;/li&gt;
+&lt;li&gt;Evidence-based guidelines for supporting LGBTQ+ youth&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;learn-more&#34;&gt;Learn More&lt;/h2&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://www.peerexperiencesproject.org/&#34;&gt;Peer Experiences Project website&lt;/a&gt; for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Latest research findings and publications&lt;/li&gt;
+&lt;li&gt;Resources for educators and families&lt;/li&gt;
+&lt;li&gt;Information about participating in research&lt;/li&gt;
+&lt;li&gt;Updates on project milestones and impact&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Social-Emotional Learning Effectiveness Study</title>
+      <link>https://gabrieljmerrin.rbind.io/project/sel-effectiveness-study/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <guid>https://gabrieljmerrin.rbind.io/project/sel-effectiveness-study/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Social-Emotional Learning (SEL) Effectiveness Study&lt;/strong&gt; examines who benefits most from universal SEL programming in elementary schools using innovative growth mixture modeling approaches. This multi-site evaluation addresses critical questions about differential program effectiveness across diverse student populations.&lt;/p&gt;
+&lt;h2 id=&#34;research-questions&#34;&gt;Research Questions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Who benefits most&lt;/strong&gt; from universal SEL programming?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What factors predict&lt;/strong&gt; differential response trajectories?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How can programs be adapted&lt;/strong&gt; to better serve all students?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What are the mechanisms&lt;/strong&gt; driving positive outcomes?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;methodological-innovation&#34;&gt;Methodological Innovation&lt;/h2&gt;
+&lt;p&gt;This study employs cutting-edge statistical approaches including:&lt;/p&gt;
+&lt;h3 id=&#34;growth-mixture-modeling-gmm&#34;&gt;Growth Mixture Modeling (GMM)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Identifies distinct subgroups of students with similar response patterns&lt;/li&gt;
+&lt;li&gt;Examines heterogeneity in treatment response&lt;/li&gt;
+&lt;li&gt;Provides person-centered perspective on program effectiveness&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;multi-level-modeling&#34;&gt;Multi-Level Modeling&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Accounts for nesting within classrooms and schools&lt;/li&gt;
+&lt;li&gt;Examines contextual factors influencing outcomes&lt;/li&gt;
+&lt;li&gt;Controls for implementation fidelity variations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;machine-learning-applications&#34;&gt;Machine Learning Applications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Predictive modeling of program response&lt;/li&gt;
+&lt;li&gt;Feature importance analysis for intervention targets&lt;/li&gt;
+&lt;li&gt;Pattern recognition in complex datasets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-findings&#34;&gt;Key Findings&lt;/h2&gt;
+&lt;p&gt;Our research has revealed important insights about SEL program effectiveness:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📊 Differential Response Patterns&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Not all students benefit equally from universal programming&lt;/li&gt;
+&lt;li&gt;Response trajectories vary by baseline characteristics and contextual factors&lt;/li&gt;
+&lt;li&gt;Targeted adaptations can improve outcomes for specific subgroups&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🎯 Predictive Factors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Baseline social skills and emotional regulation predict response magnitude&lt;/li&gt;
+&lt;li&gt;Classroom climate and teacher implementation quality moderate outcomes&lt;/li&gt;
+&lt;li&gt;Student demographic factors interact with program components&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;💡 Implementation Insights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;High-fidelity implementation is necessary but not sufficient&lt;/li&gt;
+&lt;li&gt;Teacher training and ongoing support critical for success&lt;/li&gt;
+&lt;li&gt;School-level factors influence program sustainability&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;impact--translation&#34;&gt;Impact &amp;amp; Translation&lt;/h2&gt;
+&lt;p&gt;This research directly informs:&lt;/p&gt;
+&lt;h3 id=&#34;program-development&#34;&gt;&lt;strong&gt;Program Development&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Evidence-based adaptations for diverse learners&lt;/li&gt;
+&lt;li&gt;Improved training protocols for educators&lt;/li&gt;
+&lt;li&gt;Enhanced curriculum components based on effectiveness data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;policy-recommendations&#34;&gt;&lt;strong&gt;Policy Recommendations&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Guidelines for SEL program selection and implementation&lt;/li&gt;
+&lt;li&gt;Standards for educator preparation in SEL&lt;/li&gt;
+&lt;li&gt;Framework for ongoing program evaluation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;practice-applications&#34;&gt;&lt;strong&gt;Practice Applications&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tools for identifying students needing additional support&lt;/li&gt;
+&lt;li&gt;Strategies for differentiating SEL instruction&lt;/li&gt;
+&lt;li&gt;Metrics for monitoring program effectiveness&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publications--dissemination&#34;&gt;Publications &amp;amp; Dissemination&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Key Publication:&lt;/strong&gt;&lt;br&gt;
+Merrin, G. J., &amp;amp; Lowe, S. (2022). Who benefits from universal SEL programming?: Assessment of Second Step© using a growth mixture modeling approach. &lt;em&gt;Journal of School Mental Health&lt;/em&gt;. &lt;a href=&#34;https://doi.org/10.1007/s12310-022-09542-1&#34;&gt;https://doi.org/10.1007/s12310-022-09542-1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conference Presentations:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Society for Prevention Research (multiple years)&lt;/li&gt;
+&lt;li&gt;American Educational Research Association&lt;/li&gt;
+&lt;li&gt;International Society for Developmental and Behavioral Pediatrics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaborative-network&#34;&gt;Collaborative Network&lt;/h2&gt;
+&lt;p&gt;This project involves partnerships with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Elementary schools across multiple districts&lt;/li&gt;
+&lt;li&gt;SEL program developers and publishers&lt;/li&gt;
+&lt;li&gt;Prevention researchers at partner universities&lt;/li&gt;
+&lt;li&gt;Educational practitioners and administrators&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h2&gt;
+&lt;p&gt;Ongoing work includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Long-term follow-up studies examining sustained effects&lt;/li&gt;
+&lt;li&gt;Development of personalized SEL intervention approaches&lt;/li&gt;
+&lt;li&gt;Investigation of cultural adaptations for diverse populations&lt;/li&gt;
+&lt;li&gt;Integration of technology-enhanced SEL programming&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
