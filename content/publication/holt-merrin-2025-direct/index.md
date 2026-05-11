@@ -20,16 +20,18 @@ doi: "10.1891/VV-2023-0027"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
-publication: "*Violence and Victims*, 40(5), 1-43"
+publication: "*Violence and Victims*, 40(5), 1–43"
 publication_short: "Violence and Victims"
 
-abstract: "This study examines direct and witnessed bias-based harassment exposures among adolescents: associations with functioning and the influence of protective factors."
+abstract: "This study examines direct and witnessed bias-based harassment exposures among adolescents and their associations with psychosocial functioning. The authors test the moderating influence of protective factors and clarify how peer, school, and family supports buffer the impact of identity-targeted aggression."
 
 # Summary
 summary: ""
 
 tags:
 - Adolescent Development
+- Bias-Based Harassment
+- Resilience
 
 # Display this page in the Featured widget?
 featured: false
@@ -58,4 +60,5 @@ projects: []
 slides: ""
 ---
 
-This study examines direct and witnessed bias-based harassment exposures among adolescents: associations with functioning and the influence of protective factors.
+This study examines direct and witnessed bias-based harassment exposures among adolescents and their associations with psychosocial functioning. The authors test the moderating influence of protective factors and clarify how peer, school, and family supports buffer the impact of identity-targeted aggression.
+

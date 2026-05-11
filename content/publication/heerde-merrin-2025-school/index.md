@@ -4,6 +4,7 @@ authors:
   - "Heerde"
   - "J. A."
   - "Bailey"
+  - "J. A."
   - "Merrin"
   - "G. J."
   - "Raniti"
@@ -21,16 +22,17 @@ doi: "10.1007/s10935-025-00829-y"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
-publication: "*Journal of Prevention*, 46, 467-485"
+publication: "*Journal of Prevention*, 46, 467–485"
 publication_short: "Journal of Prevention"
 
-abstract: "This study examines school suspension as a predictor of young adult homelessness: the international youth development study."
+abstract: "This study examines school suspension as a longitudinal predictor of young adult homelessness using data from the International Youth Development Study. The authors identify school exclusion as an early-life marker of later housing instability and discuss prevention implications."
 
 # Summary
 summary: ""
 
 tags:
 - Adolescent Development
+- Prevention Science
 
 # Display this page in the Featured widget?
 featured: false
@@ -59,4 +61,5 @@ projects: []
 slides: ""
 ---
 
-This study examines school suspension as a predictor of young adult homelessness: the international youth development study.
+This study examines school suspension as a longitudinal predictor of young adult homelessness using data from the International Youth Development Study. The authors identify school exclusion as an early-life marker of later housing instability and discuss prevention implications.
+

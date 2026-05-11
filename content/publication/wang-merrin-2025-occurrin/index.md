@@ -5,6 +5,7 @@ authors:
   - "J. H."
   - "Merrin"
   - "G. J."
+  - "Wang"
   - "X."
   - "Liu"
   - "Q."
@@ -17,10 +18,10 @@ doi: "10.1007/s10964-025-02157-0"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
-publication: "*Journal of Youth and Adolescence*, 54, 1827-1844"
+publication: "*Journal of Youth and Adolescence*, 54, 1827–1844"
 publication_short: "Journal of Youth and Adolescence"
 
-abstract: "This study examines co-occurring early adolescent aces and associations with later peer relationships."
+abstract: "This study examines how co-occurring adverse childhood experiences (ACEs) in early adolescence shape later peer relationships. The authors apply person-centered methods to identify ACE profiles and trace their differential implications for adolescent peer functioning."
 
 # Summary
 summary: ""
@@ -28,6 +29,7 @@ summary: ""
 tags:
 - Adolescent Development
 - Adverse Childhood Experiences
+- Peer Relationships
 
 # Display this page in the Featured widget?
 featured: true
@@ -56,4 +58,5 @@ projects: []
 slides: ""
 ---
 
-This study examines co-occurring early adolescent aces and associations with later peer relationships.
+This study examines how co-occurring adverse childhood experiences (ACEs) in early adolescence shape later peer relationships. The authors apply person-centered methods to identify ACE profiles and trace their differential implications for adolescent peer functioning.
+

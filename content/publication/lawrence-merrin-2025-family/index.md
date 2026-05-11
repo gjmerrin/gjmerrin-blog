@@ -14,10 +14,10 @@ doi: "10.1007/s11469-022-00971-2"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
-publication: "*International Journal of Mental Health and Addiction*, 23, 1-14"
+publication: "*International Journal of Mental Health and Addiction*, 23, 1–14"
 publication_short: "International Journal of Mental Health and Addiction"
 
-abstract: "This study examines family violence and adolescent aggressive behavior: the direct and indirect effects of depression and substance use."
+abstract: "This study examines associations between family violence exposure and adolescent aggressive behavior, testing the direct and indirect effects of depression and substance use. The authors apply mediation modeling to clarify mechanisms linking early adversity to externalizing outcomes."
 
 # Summary
 summary: ""
@@ -25,6 +25,7 @@ summary: ""
 tags:
 - Adolescent Development
 - Substance Use
+- Family Violence
 
 # Display this page in the Featured widget?
 featured: false
@@ -53,4 +54,5 @@ projects: []
 slides: ""
 ---
 
-This study examines family violence and adolescent aggressive behavior: the direct and indirect effects of depression and substance use.
+This study examines associations between family violence exposure and adolescent aggressive behavior, testing the direct and indirect effects of depression and substance use. The authors apply mediation modeling to clarify mechanisms linking early adversity to externalizing outcomes.
+

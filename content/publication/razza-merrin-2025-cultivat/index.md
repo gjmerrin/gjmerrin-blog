@@ -20,16 +20,18 @@ doi: "10.1007/s40688-025-00548-5"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
-publication: "*Contemporary School Psychology*, 1-12"
-publication_short: "Contemporary School Psychology 1-12."
+publication: "*Contemporary School Psychology*, 1–12"
+publication_short: "Contemporary School Psychology"
 
-abstract: "This study examines cultivating adolescents' self-compassion through mindfulness: the role of self-regulation at both the individual- and classroom-level."
+abstract: "This study examines how mindfulness practice cultivates adolescents' self-compassion, with attention to the moderating role of self-regulation at both the individual and classroom levels. The authors identify multilevel mechanisms supporting positive socioemotional development in school contexts."
 
 # Summary
 summary: ""
 
 tags:
 - Adolescent Development
+- Mindfulness
+- School-Based Intervention
 
 # Display this page in the Featured widget?
 featured: false
@@ -58,4 +60,5 @@ projects: []
 slides: ""
 ---
 
-This study examines cultivating adolescents' self-compassion through mindfulness: the role of self-regulation at both the individual- and classroom-level.
+This study examines how mindfulness practice cultivates adolescents' self-compassion, with attention to the moderating role of self-regulation at both the individual and classroom levels. The authors identify multilevel mechanisms supporting positive socioemotional development in school contexts.
+
