@@ -1,0 +1,58 @@
+{{/* ---------------------------------------------------------------------------
+  Custom JS additions for gjmerrin-blog
+  - Bridges the existing Hugo Academic .js-dark-toggle button to a
+    `data-theme` attribute on <html> (needed by custom.scss CSS variables).
+  - Persists user choice in localStorage under the key 'theme'.
+  - Default light, no system-preference detection (per site policy).
+   --------------------------------------------------------------------------- */}}
+<script>
+  (function() {
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      if (theme === 'dark') {
+        document.body.classList.add('dark');
+      } else {
+        document.body.classList.remove('dark');
+      }
+      try {
+        localStorage.setItem('theme', theme);
+        localStorage.setItem('dark_mode', theme === 'dark' ? '1' : '0');
+      } catch (e) {}
+      // Update icon (sun/moon) if the theme button is present.
+      var icon = document.querySelector('.js-dark-toggle i');
+      if (icon) {
+        if (theme === 'dark') {
+          icon.classList.remove('fa-moon');
+          icon.classList.add('fa-sun');
+        } else {
+          icon.classList.remove('fa-sun');
+          icon.classList.add('fa-moon');
+        }
+      }
+    }
+
+    function init() {
+      // Honor the pre-paint script's choice; fall back to light.
+      var current = document.documentElement.getAttribute('data-theme') || 'light';
+      applyTheme(current);
+
+      // Hijack the existing toggle button. We add a capturing listener so we
+      // run before academic.js's own click handler does its body-fade dance.
+      var btn = document.querySelector('.js-dark-toggle');
+      if (btn) {
+        btn.addEventListener('click', function(e) {
+          e.preventDefault();
+          e.stopImmediatePropagation();
+          var now = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+          applyTheme(now);
+        }, true);
+      }
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      init();
+    }
+  })();
+</script>
