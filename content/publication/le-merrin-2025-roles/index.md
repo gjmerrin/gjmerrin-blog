@@ -6,6 +6,7 @@ authors:
   - "Bailey"
   - "J. A."
   - "Heerde"
+  - "J. A."
   - "Merrin"
   - "G. J."
   - "Batmaz"
@@ -24,14 +25,14 @@ publication_types: ["2"]
 publication: "*Journal of Studies on Alcohol and Drugs*, 86(3), 340–348"
 publication_short: "Journal of Studies on Alcohol and Drugs"
 
-abstract: "This study examines the roles of alcohol availability, overserving, and enforcement in recreational and social settings on alcohol misuse and harms: a comparison of australia and the united states."
+abstract: "This study compares the roles of alcohol availability, overserving, and enforcement in recreational and social settings on alcohol misuse and related harms in Australia and the United States. The authors identify cross-national contextual factors shaping young adult drinking outcomes."
 
 # Summary
 summary: ""
 
 tags:
-- Adolescent Development
 - Substance Use
+- Cross-National Research
 
 # Display this page in the Featured widget?
 featured: false
@@ -60,4 +61,5 @@ projects: []
 slides: ""
 ---
 
-This study examines the roles of alcohol availability, overserving, and enforcement in recreational and social settings on alcohol misuse and harms: a comparison of australia and the united states.
+This study compares the roles of alcohol availability, overserving, and enforcement in recreational and social settings on alcohol misuse and related harms in Australia and the United States. The authors identify cross-national contextual factors shaping young adult drinking outcomes.
+

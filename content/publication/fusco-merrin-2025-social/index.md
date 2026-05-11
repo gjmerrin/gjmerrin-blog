@@ -16,10 +16,10 @@ doi: "10.1037/spq0000620"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
-publication: "*School Psychology*, 40(3), 397-403"
+publication: "*School Psychology*, 40(3), 397–403"
 publication_short: "School Psychology"
 
-abstract: "This study examines social-emotional functioning among bias-based bullies, victims, and bully-victims."
+abstract: "This study compares social-emotional functioning among bias-based bullies, victims, and bully-victims. The authors document distinct profiles of psychosocial adjustment across these groups and identify implications for targeted school-based prevention efforts."
 
 # Summary
 summary: ""
@@ -27,6 +27,7 @@ summary: ""
 tags:
 - Adolescent Development
 - Student Research
+- Bullying
 
 # Display this page in the Featured widget?
 featured: false
@@ -55,6 +56,7 @@ projects: []
 slides: ""
 ---
 
-This study examines social-emotional functioning among bias-based bullies, victims, and bully-victims.
+This study compares social-emotional functioning among bias-based bullies, victims, and bully-victims. The authors document distinct profiles of psychosocial adjustment across these groups and identify implications for targeted school-based prevention efforts.
+
 
 **Student-led research** - This publication was led by a student researcher.

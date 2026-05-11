@@ -10,6 +10,7 @@ authors:
   - "Le"
   - "V. T."
   - "Heerde"
+  - "J. A."
   - "Doery"
   - "E."
   - "Batmaz"
@@ -24,9 +25,9 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
 publication: "*International Journal of Mental Health and Addiction*, 23, 4155–4177"
-publication_short: "International Journal of Mental Health and Addiction 1-23."
+publication_short: "International Journal of Mental Health and Addiction"
 
-abstract: "This study examines continuity and change in substance use patterns during the transition from adolescence to young adulthood: examining changes in social roles."
+abstract: "This study examines continuity and change in substance use patterns during the transition from adolescence to young adulthood. The authors investigate how shifts in social roles—including educational, employment, and relational transitions—reshape polysubstance use trajectories during a developmentally sensitive period."
 
 # Summary
 summary: ""
@@ -34,6 +35,7 @@ summary: ""
 tags:
 - Adolescent Development
 - Substance Use
+- Developmental Transitions
 
 # Display this page in the Featured widget?
 featured: true
@@ -62,4 +64,5 @@ projects: []
 slides: ""
 ---
 
-This study examines continuity and change in substance use patterns during the transition from adolescence to young adulthood: examining changes in social roles.
+This study examines continuity and change in substance use patterns during the transition from adolescence to young adulthood. The authors investigate how shifts in social roles—including educational, employment, and relational transitions—reshape polysubstance use trajectories during a developmentally sensitive period.
+

@@ -22,7 +22,7 @@ subtitle = "**M**ethodology, **A**dolescent Development, and **P**revention Lab"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "white"
+  # color = "white"  # Removed: now driven by CSS variables for light/dark theme support
   
   # Background gradient.
   # gradient_start = "#F76900"
@@ -33,7 +33,7 @@ subtitle = "**M**ethodology, **A**dolescent Development, and **P**revention Lab"
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = false
+  # text_color_light = false  # Removed: handled via CSS variables
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -44,7 +44,7 @@ subtitle = "**M**ethodology, **A**dolescent Development, and **P**revention Lab"
  css_style = ""
  
  # CSS class.
- css_class = ""
+ css_class = "map-lab-section"
 +++
 
 

@@ -22,17 +22,18 @@ doi: "10.1177/25152459251326571"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
-publication: "*Advances in Methods and Practices in Psychological Science*, 8(2), 1-21"
+publication: "*Advances in Methods and Practices in Psychological Science*, 8(2), 1–21"
 publication_short: "Advances in Methods and Practices in Psychological Science"
 
-abstract: "This study examines navigating unmeasured confounding in nonexperimental psychological research: a practical guide to computing and interpreting e-value."
+abstract: "This paper provides a practical guide to navigating unmeasured confounding in nonexperimental psychological research. The authors demonstrate how to compute and interpret the e-value as a sensitivity analysis tool, offering applied researchers a transparent framework for evaluating the robustness of causal inferences."
 
 # Summary
 summary: ""
 
 tags:
-- Adolescent Development
+- Methodology
 - Student Research
+- Causal Inference
 
 # Display this page in the Featured widget?
 featured: true
@@ -61,7 +62,7 @@ projects: []
 slides: ""
 ---
 
-This study examines navigating unmeasured confounding in nonexperimental psychological research: a practical guide to computing and interpreting e-value.
+This paper provides a practical guide to navigating unmeasured confounding in nonexperimental psychological research. The authors demonstrate how to compute and interpret the e-value as a sensitivity analysis tool, offering applied researchers a transparent framework for evaluating the robustness of causal inferences.
+
 
 **Student-led research** - This publication was led by a student researcher.
-

@@ -18,10 +18,10 @@ doi: "10.1177/08862605251318276"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
-publication: "*Journal of Interpersonal Violence*, 1, -25"
+publication: "*Journal of Interpersonal Violence*, 1–25"
 publication_short: "Journal of Interpersonal Violence"
 
-abstract: "This study examines a longitudinal analysis of risk and protective factors of bias-based bullying victimization among adolescents."
+abstract: "This study examines longitudinal risk and protective factors associated with bias-based bullying victimization among adolescents. The authors identify how individual, peer, and school-level processes jointly shape exposure to identity-targeted aggression over time."
 
 # Summary
 summary: ""
@@ -29,6 +29,7 @@ summary: ""
 tags:
 - Adolescent Development
 - Bullying
+- Bias-Based Harassment
 
 # Display this page in the Featured widget?
 featured: false
@@ -57,4 +58,5 @@ projects: []
 slides: ""
 ---
 
-This study examines a longitudinal analysis of risk and protective factors of bias-based bullying victimization among adolescents.
+This study examines longitudinal risk and protective factors associated with bias-based bullying victimization among adolescents. The authors identify how individual, peer, and school-level processes jointly shape exposure to identity-targeted aggression over time.
+

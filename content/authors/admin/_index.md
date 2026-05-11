@@ -26,7 +26,7 @@ name: Gabriel J. Merrin
 organizations:
 - name: Syracuse University - Department of Human Development and Family Science
   url: "https://artsandsciences.syracuse.edu/people/faculty/joey-merrin/"
-role: Assistant Professor & Zeta Psi Endowed Faculty Fellow
+role: Associate Professor & Zeta Psi Endowed Faculty Fellow
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,7 +43,7 @@ user_groups:
 - Visitors
 ---
 
-Dr. Gabriel "Joey" Merrin is an Assistant Professor and Zeta Psi Endowed Faculty Fellow in the Department of Human Development and Family Science at Syracuse University, where he directs the [**Methodology, Adolescent Development, and Prevention (MAP) Lab**](/lab). As a prevention scientist and developmental methodologist, he examines how risk and protective factors shape healthy development across adolescence and during the transition to young adulthood. His work advances resilience and equity through novel longitudinal quantitative methods that inform evidence-based prevention strategies for diverse youth and families.
+Dr. Gabriel "Joey" Merrin is an Associate Professor and Zeta Psi Endowed Faculty Fellow in the Department of Human Development and Family Science at Syracuse University, where he directs the [**Methodology, Adolescent Development, and Prevention (MAP) Lab**](/lab). As a prevention scientist and developmental methodologist, he examines how risk and protective factors shape healthy development across adolescence and during the transition to young adulthood. His work advances resilience and equity through novel longitudinal quantitative methods that inform evidence-based prevention strategies for diverse youth and families.
 
 **Research Program**
 

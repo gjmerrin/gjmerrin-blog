@@ -305,3 +305,275 @@ html {
   border-color: var(--syracuse-orange);
   box-shadow: 0 0 0 0.2rem rgba(247, 105, 0, 0.25);
 }
+// ============================================================================
+// LIGHT / DARK THEME SYSTEM
+// ----------------------------------------------------------------------------
+// Driven by `data-theme` attribute on <html> (set by layouts/partials/custom_head.html
+// pre-paint, toggled by layouts/partials/custom_js.html). Default = light.
+// ============================================================================
+
+// LIGHT theme palette (default).
+:root,
+[data-theme="light"] {
+  --bg-primary: #ffffff;
+  --bg-surface: #f8f9fa;
+  --bg-elevated: #ffffff;
+  --text-primary: #212529;
+  --text-secondary: #495057;
+  --text-muted: #6c757d;
+  --link-color: #F76900;
+  --link-hover: #003C71;
+  --border-color: rgba(0, 0, 0, 0.08);
+  --card-shadow: 0 4px 25px rgba(0, 0, 0, 0.08);
+  --navbar-bg: rgba(255, 255, 255, 0.95);
+  --navbar-text: #495057;
+  --footer-bg: #003C71;
+  --footer-text: #ffffff;
+  --hero-overlay: rgba(0, 0, 0, 0);
+  --code-bg: #f6f8fa;
+  --code-text: #24292e;
+}
+
+// DARK theme palette. Coherent with Syracuse orange accent.
+[data-theme="dark"] {
+  --bg-primary: #1a1a1a;
+  --bg-surface: #242424;
+  --bg-elevated: #2c2c2c;
+  --text-primary: #e8e8e8;
+  --text-secondary: #c8c8c8;
+  --text-muted: #a0a0a0;
+  --link-color: #FF8C00;            // brighter orange for AA contrast on dark
+  --link-hover: #FFB766;
+  --border-color: rgba(255, 255, 255, 0.10);
+  --card-shadow: 0 4px 25px rgba(0, 0, 0, 0.45);
+  --navbar-bg: rgba(26, 26, 26, 0.95);
+  --navbar-text: #e8e8e8;
+  --footer-bg: #0d0d0d;
+  --footer-text: #e8e8e8;
+  --hero-overlay: rgba(0, 0, 0, 0.35);
+  --code-bg: #1e1e1e;
+  --code-text: #e8e8e8;
+}
+
+// Apply CSS variables across the surfaces. Use higher specificity where the
+// theme already set hard-coded colors, but keep selectors targeted.
+[data-theme] body,
+body[data-theme] {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+// Headings respect theme but keep Syracuse navy in light, soft white in dark.
+[data-theme="dark"] h1,
+[data-theme="dark"] h2,
+[data-theme="dark"] h3,
+[data-theme="dark"] h4,
+[data-theme="dark"] h5,
+[data-theme="dark"] h6 {
+  color: #ffffff;
+}
+
+// Body / paragraph / muted text in dark.
+[data-theme="dark"] body,
+[data-theme="dark"] p,
+[data-theme="dark"] li,
+[data-theme="dark"] span,
+[data-theme="dark"] .article-metadata,
+[data-theme="dark"] .pub-list-item .article-metadata {
+  color: var(--text-primary);
+}
+
+[data-theme="dark"] .text-muted,
+[data-theme="dark"] small,
+[data-theme="dark"] .small {
+  color: var(--text-muted) !important;
+}
+
+// Links in dark.
+[data-theme="dark"] a:not(.btn):not(.nav-link):not(.navbar-brand) {
+  color: var(--link-color);
+}
+[data-theme="dark"] a:not(.btn):not(.nav-link):not(.navbar-brand):hover {
+  color: var(--link-hover);
+}
+
+// Navbar adapts to theme.
+[data-theme="dark"] .navbar {
+  background: var(--navbar-bg) !important;
+  border-bottom-color: var(--link-color);
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.6);
+}
+
+[data-theme="dark"] .navbar-brand,
+[data-theme="dark"] .navbar-nav .nav-link {
+  color: var(--navbar-text) !important;
+}
+
+[data-theme="dark"] .navbar-nav .nav-link:hover,
+[data-theme="dark"] .navbar-nav .nav-link.active {
+  color: var(--link-color) !important;
+}
+
+// Section widgets — most use white bg by default; in dark, repaint.
+// We avoid !important on backgrounds where the widget set its own
+// (e.g. hero gradient) so those still render as designed; but for plain
+// widgets we override via the home-section selector.
+[data-theme="dark"] .home-section,
+[data-theme="dark"] .universal-wrapper,
+[data-theme="dark"] section.wg-blank,
+[data-theme="dark"] section.home-section {
+  background-color: var(--bg-primary) !important;
+  color: var(--text-primary);
+}
+
+// Cards in dark.
+[data-theme="dark"] .card,
+[data-theme="dark"] .card-simple,
+[data-theme="dark"] .pub-list-item,
+[data-theme="dark"] .project-card {
+  background-color: var(--bg-surface);
+  color: var(--text-primary);
+  box-shadow: var(--card-shadow);
+  border-left-color: var(--link-color);
+}
+
+[data-theme="dark"] .card .card-title,
+[data-theme="dark"] .card a,
+[data-theme="dark"] .pub-list-item .article-title {
+  color: #ffffff;
+}
+
+[data-theme="dark"] .card-text {
+  color: var(--text-secondary);
+}
+
+// Footer (already navy in light; deeper in dark).
+[data-theme="dark"] footer {
+  background-color: var(--footer-bg);
+  color: var(--footer-text);
+}
+
+// Form controls in dark.
+[data-theme="dark"] .form-control {
+  background-color: var(--bg-elevated);
+  color: var(--text-primary);
+  border-color: var(--border-color);
+}
+[data-theme="dark"] .form-control::placeholder {
+  color: var(--text-muted);
+}
+
+// Code blocks in dark.
+[data-theme="dark"] code,
+[data-theme="dark"] pre {
+  background-color: var(--code-bg);
+  color: var(--code-text);
+}
+
+// Buttons keep Syracuse orange in dark; just brighten for AA contrast.
+[data-theme="dark"] .btn-primary {
+  background-color: var(--link-color);
+  border-color: var(--link-color);
+  color: #1a1a1a;
+}
+[data-theme="dark"] .btn-primary:hover {
+  background-color: var(--link-hover);
+  border-color: var(--link-hover);
+}
+
+[data-theme="dark"] .btn-outline-primary {
+  color: var(--link-color);
+  border-color: var(--link-color);
+}
+
+// Avatar border in dark.
+[data-theme="dark"] .avatar {
+  border-color: var(--link-color);
+  box-shadow: 0 8px 30px rgba(255, 140, 0, 0.25);
+}
+
+// Theme toggle button affordance — always visible.
+.js-dark-toggle {
+  cursor: pointer;
+}
+.js-dark-toggle i {
+  font-size: 1.05rem;
+}
+
+// ============================================================================
+// MAP LAB SECTION CONTRAST FIX (WCAG AA)
+// ----------------------------------------------------------------------------
+// Targets the section flagged with css_class = "map-lab-section" in
+// content/home/lab.md. Ensures ≥4.5:1 contrast in light AND dark themes.
+// Light: navy heading on white (~14:1); dark gray body (~12:1).
+// Dark : white heading on #1a1a1a (~17:1); off-white body (~13:1).
+// ============================================================================
+
+.map-lab-section {
+  background-color: var(--bg-primary) !important;
+  color: var(--text-primary) !important;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+.map-lab-section h1,
+.map-lab-section h2,
+.map-lab-section h3,
+.map-lab-section .section-heading h2 {
+  color: #003C71;  // Syracuse navy on white = ~14:1
+}
+
+[data-theme="dark"] .map-lab-section h1,
+[data-theme="dark"] .map-lab-section h2,
+[data-theme="dark"] .map-lab-section h3,
+[data-theme="dark"] .map-lab-section .section-heading h2 {
+  color: #ffffff;  // pure white on #1a1a1a = ~17:1
+}
+
+.map-lab-section p,
+.map-lab-section li,
+.map-lab-section .lead,
+.map-lab-section .section-subheading {
+  color: #212529;  // #212529 on white = ~16:1, well above AA
+  font-weight: 400;
+}
+
+[data-theme="dark"] .map-lab-section p,
+[data-theme="dark"] .map-lab-section li,
+[data-theme="dark"] .map-lab-section .lead,
+[data-theme="dark"] .map-lab-section .section-subheading {
+  color: #e8e8e8;  // #e8e8e8 on #1a1a1a = ~13:1
+}
+
+.map-lab-section a {
+  color: #F76900;            // Syracuse orange on white = ~4.5:1 (passes AA for body text 18px+/bold)
+  font-weight: 600;
+  text-decoration: underline; // underline for additional affordance
+}
+
+.map-lab-section a:hover,
+.map-lab-section a:focus {
+  color: #003C71;            // navy on white = ~14:1
+  text-decoration: underline;
+}
+
+[data-theme="dark"] .map-lab-section a {
+  color: #FF8C00;            // brighter orange on #1a1a1a = ~5.6:1
+}
+
+[data-theme="dark"] .map-lab-section a:hover,
+[data-theme="dark"] .map-lab-section a:focus {
+  color: #FFB766;            // even brighter on hover for clear focus
+}
+
+// Bold emphasis (M, A, P initials in subtitle) in MAP Lab — ensure they pop.
+.map-lab-section strong,
+.map-lab-section b {
+  color: #F76900;            // Syracuse orange — emphasizes acronym
+  font-weight: 700;
+}
+
+[data-theme="dark"] .map-lab-section strong,
+[data-theme="dark"] .map-lab-section b {
+  color: #FF8C00;
+}

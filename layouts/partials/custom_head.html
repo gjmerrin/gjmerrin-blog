@@ -1,0 +1,23 @@
+{{/* ---------------------------------------------------------------------------
+  Custom <head> additions for gjmerrin-blog
+  - Pre-paint theme initialization (no FOUC).
+  - Reads 'theme' from localStorage; defaults to 'light' (no system-pref detection).
+  - Sets data-theme attribute on <html> before first paint.
+  - Also sets body.dark class on DOMContentLoaded for compatibility with the
+    existing Hugo Academic dark-mode rules.
+   --------------------------------------------------------------------------- */}}
+<script>
+  (function() {
+    try {
+      var stored = localStorage.getItem('theme');
+      // Default to 'light' on first visit; ignore system preference per site policy.
+      var theme = (stored === 'dark') ? 'dark' : 'light';
+      document.documentElement.setAttribute('data-theme', theme);
+      // Persist explicit default so subsequent reads are consistent.
+      if (stored === null) { localStorage.setItem('theme', 'light'); }
+      // Mirror to the legacy `dark_mode` key used by themes/hugo-academic/assets/js/academic.js
+      // so the existing toggle JS stays in sync (1 = dark, 0 = light).
+      localStorage.setItem('dark_mode', theme === 'dark' ? '1' : '0');
+    } catch (e) { /* localStorage unavailable; fall through to default light */ }
+  })();
+</script>

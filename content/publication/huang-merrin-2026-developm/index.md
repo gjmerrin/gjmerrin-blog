@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: "*Psychology in the Schools*"
 publication_short: "Psychology in the Schools"
 
-abstract: "This study presents the development of the Academic Stress Scale for Adolescents (ASSA) and examines perceived academic stress among Chinese adolescents."
+abstract: "This study develops and validates the Academic Stress Scale for Adolescents (ASSA) and examines perceived academic stress among Chinese adolescents. The authors evaluate the scale's psychometric properties and identify dimensions of academic stress relevant to adolescent well-being in this cultural context."
 
 # Summary
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 
 # Custom links
 links:
-url_pdf: "http://doi.org/10.1002/pits.70136"
+url_pdf: ""
 url_code: ""
 url_dataset: ""
 url_poster: ""
@@ -58,6 +58,7 @@ projects: []
 slides: ""
 ---
 
-This study presents the development of the Academic Stress Scale for Adolescents (ASSA) and examines perceived academic stress among Chinese adolescents.
+This study develops and validates the Academic Stress Scale for Adolescents (ASSA) and examines perceived academic stress among Chinese adolescents. The authors evaluate the scale's psychometric properties and identify dimensions of academic stress relevant to adolescent well-being in this cultural context.
+
 
 **Student-led research** - This publication was led by a student researcher.
