@@ -14,7 +14,7 @@ authors:
   - "Allen-Meares"
   - "P."
 date: "2016-01-01"
-doi: "10.1007/s10903-015-0242-9."
+doi: "10.1007/s10903-015-0242-9"
 
 # Publication type
 publication_types: ["2"]

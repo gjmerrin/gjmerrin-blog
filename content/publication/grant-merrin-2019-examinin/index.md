@@ -10,7 +10,7 @@ authors:
   - "Espelage"
   - "D. L."
 date: "2019-01-01"
-doi: ""
+doi: "10.1037/vio0000210"
 
 # Publication type
 publication_types: ["2"]

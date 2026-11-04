@@ -11,7 +11,7 @@ authors:
   - "Lee"
   - "N. Y."
 date: "2016-01-01"
-doi: "10.1007/s10566-015-9330-1."
+doi: "10.1007/s10566-015-9330-1"
 
 # Publication type
 publication_types: ["2"]

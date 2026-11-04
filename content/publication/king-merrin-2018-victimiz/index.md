@@ -12,7 +12,7 @@ authors:
   - "Bub"
   - "K. L."
 date: "2018-01-01"
-doi: "10.1177/0014402917736261."
+doi: "10.1177/0014402917736261"
 
 # Publication type
 publication_types: ["2"]

@@ -16,7 +16,7 @@ authors:
   - "Hong"
   - "J. S."
 date: "2018-01-01"
-doi: ""
+doi: "10.1037/adb0000394"
 
 # Publication type
 publication_types: ["2"]

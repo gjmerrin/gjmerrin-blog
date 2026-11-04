@@ -51,7 +51,7 @@ Dr. Merrin's research examines how individual, peer, family, school, and communi
 
 His research program spans three interconnected lines of inquiry:
 
-**School-Based Prevention and Identity-Based Harassment** – This line of research examines how school environments and peer ecologies shape adolescent outcomes, with particular attention to bullying and bias-based harassment. This work leverages longitudinal and social network methods, as well as randomized controlled trials, to inform and evaluate school-based prevention programs, including Second Step, WITS Programs, Boston vs. Bullies, and Sources of Strength. Recent work examines the causes and consequences of bias-based harassment across multiple levels of the social ecology. Dr. Merrin currently serves as Co-Investigator and lead methodologist on a National Institute of Justice-funded multi-site study examining these issues in collaboration with colleagues at Boston University.
+**School-Based Prevention and Identity-Based Harassment** – This line of research examines how school environments and peer ecologies shape adolescent outcomes, with particular attention to bullying and bias-based harassment. This work leverages longitudinal and social network methods, as well as randomized controlled trials, to inform and evaluate school-based prevention programs, including Second Step, WITS Programs, Boston vs. Bullies, and Sources of Strength. Recent work examines the causes and consequences of bias-based harassment across multiple levels of the social ecology. Dr. Merrin served as Co-Investigator and lead methodologist on a National Institute of Justice-funded multi-site study (2021–2024) examining these issues in collaboration with colleagues at Boston University, and his team continues to publish from this work on co-occurring trajectories of bias-based harassment and adolescent mental health.
 
 **Substance Use Trajectories and Developmental Transitions** – This line of research examines longitudinal patterns of adolescent and young adult polysubstance use across developmental transitions. Using person-centered approaches, including latent class analysis, multidimensional growth mixture modeling, and latent transition analysis, this work investigates how shifting social roles and contexts (such as educational transitions, employment, and romantic relationships) contribute to both risk escalation and resilience during critical developmental transitions.
 
@@ -60,6 +60,17 @@ His research program spans three interconnected lines of inquiry:
 **Methodological Contributions**
 
 Dr. Merrin led the development of **CATAcode**, an R package that addresses methodological gaps in measuring and analyzing identity categories in social science research. Published on [CRAN](https://cran.r-project.org/web/packages/CATAcode/index.html) and featured in *Advances in Methods and Practices in Psychological Science*, the package provides principled, transparent methods for coding check-all-that-apply demographic items, with applications to measurement transparency, research generalizability, and analytical reproducibility.
+
+**Funded Research**
+
+Dr. Merrin's research has been supported by federal, foundation, and international funders, including:
+
+- **William T. Grant Foundation** (2026–2028, Co-I) – *Co-developing a measure of digital mental health help-seeking with and for Black adolescents*
+- **Social Sciences and Humanities Research Council of Canada, Insight Grant** (2026–2031, Collaborator) – *Recovery from nonsuicidal self-injury in early adulthood: An accelerated longitudinal design*
+- **National Institute of Justice** (2021–2024, Co-I) – *Root causes of bias-based harassment in schools: Risk and protective factors across multiple levels of the social ecology*
+- **Centers for Disease Control and Prevention, NCIPC (U01)** (2016–2020, Co-I) – *The impact of Sources of Strength on sexual violence perpetration among Colorado high school students*
+- **Canadian Institutes of Health Research** (2018–2019, Co-I) – *Trajectories of marijuana use across a decade*
+- **Fulbright Canada** (2018–2019, PI) – *Polysubstance use, treatment utilization, and health service outcomes*
 
 **Recognition**
 
@@ -70,6 +81,8 @@ Dr. Merrin led the development of **CATAcode**, an R package that addresses meth
 - **2024 Falk College Faculty of the Year Award for Excellence in Research, Syracuse University**
 
 - **2024 Excellence in Graduate Education Faculty Award, Syracuse University**
+
+- **2025–2026 SOURCE Research Assistant Grant, Syracuse University**
 
 - **2021–2022 Alumni Association New Faculty Award, Texas Tech University**
 

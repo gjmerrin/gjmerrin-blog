@@ -14,7 +14,7 @@ authors:
   - "Roberts"
   - "B. W."
 date: "2017-01-01"
-doi: "10.1007/s10964-017-0676-6."
+doi: "10.1007/s10964-017-0676-6"
 
 # Publication type
 publication_types: ["2"]

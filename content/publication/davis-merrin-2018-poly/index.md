@@ -14,7 +14,7 @@ authors:
   - "Madden"
   - "D. R."
 date: "2018-01-01"
-doi: "10.1016/j.drugalcdep.2018.01.006."
+doi: "10.1016/j.drugalcdep.2018.01.006"
 
 # Publication type
 publication_types: ["2"]

@@ -1,30 +1,13 @@
-
-# Most Common Updates:
-#   To Update Your Bio:
-#   Edit: content/authors/admin/_index.md
-# 
-# To Update Lab Info:
-#   Edit: content/lab/_index.md
-# 
-# To Update Contact Info:
-#   Edit: config/_default/params.toml
-# 
-# To Add/Edit Publications:
-#   Create or edit files in: content/publication/[paper-name]/index.md
-# 
-# To Update Homepage Sections:
-#   Edit files in: content/home/
-#   
-# Pro Tips:
-#   After editing: The site will auto-reload in your browser (thanks to blogdown::serve_site())
-# 
-# Publication shortcuts: Use the Python scripts we created (create_complete_accurate_publications.py) if you need to batch-add more publications
-# 
-# Images: Place in static/ folder and reference as /image.jpg
-# 
-# Backup: Always commit changes to Git before major edits
-
-
-# Run to update changes to site
+# Local preview of the site with blogdown (run from RStudio with gjmerrin-blog.Rproj open)
+#
+# Most common updates:
+#   Bio / interests / awards ...... content/authors/admin/_index.md
+#   Experience timeline ........... content/home/experience.md
+#   MAP Lab page .................. content/lab/_index.md
+#   Contact info .................. config/_default/params.toml
+#   Publications .................. content/publication/<slug>/index.md
+#   CV download ................... static/files/cv.pdf
+#
+# See README.md for publishing instructions (push to master -> Netlify deploys).
 
 blogdown::serve_site()

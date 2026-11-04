@@ -16,7 +16,7 @@ authors:
   - "Green"
   - "H. D."
 date: "2018-01-01"
-doi: "10.1007/s10964-017-0783-4."
+doi: "10.1007/s10964-017-0783-4"
 
 # Publication type
 publication_types: ["2"]

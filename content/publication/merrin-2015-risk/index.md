@@ -8,7 +8,7 @@ authors:
   - "Espelage"
   - "D. L."
 date: "2015-01-01"
-doi: ""
+doi: "10.1037/ort0000094"
 
 # Publication type
 publication_types: ["2"]

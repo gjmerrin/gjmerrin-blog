@@ -21,21 +21,38 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Associate Professor & Zeta Psi Endowed Faculty Fellow"
   company = """**Syracuse University**  
-  *Department of Human Development and Family Science*"""
-  company_url = "https://falk.syr.edu/hdfs/"
+  *Department of Human Development and Family Science, College of Arts and Sciences*"""
+  company_url = "https://artsandsciences.syracuse.edu/human-development-and-family-science/"
   location = "Syracuse, New York"
-  date_start = "2021-09-01"
+  date_start = "2026-01-01"
   date_end = ""
   description = """
   Primary responsibilities include:
   
   * Directing the Methodology, Adolescent Development, and Prevention (MAP) Lab
-  * Conducting NIJ-funded research on bias-based harassment and adolescent development
+  * Conducting funded research on bias-based harassment, adolescent mental health, and substance use trajectories (William T. Grant Foundation, SSHRC, NIJ)
   * Teaching undergraduate and graduate courses on child and adolescent development, risk and resilience, and advanced quantitative methods
   * Mentoring undergraduate and graduate students
   * Developing and managing extramural grant funding
   * Collaborating with schools and community organizations on evidence-based prevention initiatives
   * Serving on community boards advancing youth mental health and well-being
+  """
+
+[[experience]]
+  title = "Assistant Professor"
+  company = """**Syracuse University**  
+  *Department of Human Development and Family Science*"""
+  company_url = "https://artsandsciences.syracuse.edu/human-development-and-family-science/"
+  location = "Syracuse, New York"
+  date_start = "2021-09-01"
+  date_end = "2025-12-31"
+  description = """
+  Primary responsibilities included:
+  
+  * Founding and directing the MAP Lab
+  * Serving as Co-Investigator and lead methodologist on an NIJ-funded multi-site study of bias-based harassment in schools
+  * Teaching courses in child development, youth gangs, risk and resilience, developmental research methods, and applied structural equation modeling
+  * Mentoring doctoral and master's students; serving on dissertation and thesis committees
   """
 
 [[experience]]

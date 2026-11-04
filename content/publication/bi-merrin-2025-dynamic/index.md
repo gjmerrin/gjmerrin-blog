@@ -22,7 +22,7 @@ authors:
   - "Yip"
   - "P. S. F."
 date: "2025-01-01"
-doi: "10.1177/216770262513698"
+doi: "10.1177/21677026251369840"
 
 # Publication type
 publication_types: ["2"]

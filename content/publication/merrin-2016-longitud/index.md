@@ -12,7 +12,7 @@ authors:
   - "Dumas"
   - "T. M."
 date: "2016-01-01"
-doi: "10.1016/j.drugalcdep.2016.05.009."
+doi: "10.1016/j.drugalcdep.2016.05.009"
 
 # Publication type
 publication_types: ["2"]

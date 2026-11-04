@@ -1,13 +1,23 @@
-.Rproj.user
+# --- R / RStudio / blogdown ---
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
-blogdown
-.DS_Store # if a windows user, Thumbs.db instead
-public/ # if using Netlify
-# Hugo build artifacts
-.hugo_build.lock
-resources/_gen/
+blogdown/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Hugo build artifacts (Netlify rebuilds these on every deploy) ---
 public/
+resources/_gen/
+.hugo_build.lock
+
+# --- Local tooling / sandbox only ---
+hugo
+hugo_extended.tar.gz
 logs/
+ecosystem.config.js
 .positai
+node_modules/
