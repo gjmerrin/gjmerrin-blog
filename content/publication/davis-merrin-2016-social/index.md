@@ -10,7 +10,7 @@ authors:
   - "Merrin"
   - "G. J."
 date: "2016-01-01"
-doi: "10.1016/j.jsat.2016.08.004."
+doi: "10.1016/j.jsat.2016.08.004"
 
 # Publication type
 publication_types: ["2"]

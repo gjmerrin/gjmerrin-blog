@@ -49,11 +49,17 @@ Our lab uses a range of quantitative approaches:
 - Reproducible workflows using R and version control
 - Community-based participatory research methods
 
-We developed the **CATAcode** R package, available on [CRAN](https://cran.r-project.org/web/packages/CATAcode/index.html), which provides methods for coding check-all-that-apply demographic items in survey research. The package tutorial is published in [Advances in Methods and Practices in Psychological Science](https://doi-org.libezproxy2.syr.edu/10.1177/25152459251401184).
+We developed the **CATAcode** R package, available on [CRAN](https://cran.r-project.org/web/packages/CATAcode/index.html), which provides methods for coding check-all-that-apply demographic items in survey research. The package tutorial is published in [Advances in Methods and Practices in Psychological Science](https://doi.org/10.1177/25152459251401184), and a plain-language summary is available as a [Lerner Center Population Health Research Brief](https://doi.org/10.14305/rt.lerner.2026.3).
+
+## Current Funded Projects
+
+- **Co-developing a measure of digital mental health help-seeking with and for Black adolescents** (William T. Grant Foundation, 2026–2028; Dr. Merrin, Co-I)
+- **Recovery from nonsuicidal self-injury in early adulthood: Testing facilitators and barriers of change in an accelerated longitudinal design** (Social Sciences and Humanities Research Council of Canada, Insight Grant, 2026–2031; Dr. Merrin, Collaborator)
+- **Root causes of bias-based harassment in schools** (National Institute of Justice, 2021–2024; Dr. Merrin, Co-I) – ongoing analyses and publications from this multi-site longitudinal study
 
 ## Mentorship
 
-The MAP Lab supports both undergraduate and graduate student research. To date, lab members have produced 14 student-led peer-reviewed publications.
+The MAP Lab supports both undergraduate and graduate student research. To date, lab members have produced 18 student-led peer-reviewed publications.
 
 ### **Training Opportunities**
 

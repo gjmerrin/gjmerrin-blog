@@ -12,7 +12,7 @@ authors:
   - "Blustein"
   - "D."
 date: "2018-01-01"
-doi: "10.1037/adb0000352."
+doi: "10.1037/adb0000352"
 
 # Publication type
 publication_types: ["2"]

@@ -13,7 +13,7 @@ authors:
   - "M."
   - "Espelage"
   - "D."
-date: "2025-01-01"
+date: "2026-01-01"
 doi: "10.1177/25152459251401184"
 
 # Publication type

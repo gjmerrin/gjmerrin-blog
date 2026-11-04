@@ -14,7 +14,7 @@ authors:
   - "Smith"
   - "D. C."
 date: "2016-01-01"
-doi: ""
+doi: "10.1037/adb0000121"
 
 # Publication type
 publication_types: ["2"]

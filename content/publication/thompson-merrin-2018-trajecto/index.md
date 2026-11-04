@@ -1,5 +1,5 @@
 ---
-title: "Trajectories of marijuana use in Canadian youth and association with substance use, mental health, and behavioral problems in adolescence and young adulthood"
+title: "Marijuana trajectories in Canadian youth: Associations with substance use and mental health"
 authors:
   - "Thompson"
   - "K."
@@ -10,13 +10,13 @@ authors:
   - "Leadbeater"
   - "B. J."
 date: "2018-01-01"
-doi: ""
+doi: "10.1037/cbs0000090"
 
 # Publication type
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
-publication: "*Canadian Journal of Behavioural Sciences 50(1)*, 17, -28"
+publication: "*Canadian Journal of Behavioural Science*, 50(1), 17-28"
 publication_short: "Canadian Journal of Behavioural Sciences 50(1)"
 
 abstract: "This study examines trajectories of marijuana use in canadian youth and association with substance use, mental health, and behavioral problems in adolescence and young adulthood."

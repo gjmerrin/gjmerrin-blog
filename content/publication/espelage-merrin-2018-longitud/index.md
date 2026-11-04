@@ -14,7 +14,7 @@ authors:
   - "Little"
   - "T. D."
 date: "2018-01-01"
-doi: ""
+doi: "10.1037/vio0000083"
 
 # Publication type
 publication_types: ["2"]

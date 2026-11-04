@@ -8,7 +8,7 @@ authors:
   - "Hong"
   - "J. S."
 date: "2018-01-01"
-doi: ""
+doi: "10.1037/vio0000084"
 
 # Publication type
 publication_types: ["2"]

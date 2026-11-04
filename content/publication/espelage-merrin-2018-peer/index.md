@@ -8,7 +8,7 @@ authors:
   - "Hatchel"
   - "T."
 date: "2018-01-01"
-doi: "10.1177/1541204016680408."
+doi: "10.1177/1541204016680408"
 
 # Publication type
 publication_types: ["2"]

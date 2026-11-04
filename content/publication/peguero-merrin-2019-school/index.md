@@ -10,7 +10,7 @@ authors:
   - "Johnson"
   - "K. R."
 date: "2019-01-01"
-doi: "10.1177/0044118X16668059."
+doi: "10.1177/0044118X16668059"
 
 # Publication type
 publication_types: ["2"]
